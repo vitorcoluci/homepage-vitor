@@ -1,0 +1,15 @@
+#Variáveis de tipografia:
+tipo:
+  explora: "$\\vec{E}\\hspace{-1.1mm}\\times\\hspace{-1.1mm}\\vec{p}\\mathcal{L}0\\mathbb{R}a$"
+
+#Variáveis de localização de arquivos e pastas:
+loc:
+  acervo: "/acervo"
+  historico: "/historico"
+  equipe: "/equipe"
+  sobre: "/sobre"
+  localizacao: "/localizacao/localizacao.qmd"  
+
+#Gerais:
+explora-endereco:
+  "Faculdade de Tecnologia/UNICAMP, Rua Paschoal Marmo, 188 Jardim Nova Itália - Limeira-SP-BR"

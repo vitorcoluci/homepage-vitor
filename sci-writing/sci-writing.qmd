@@ -1,0 +1,49 @@
+---
+title: "Scientific Writing"
+---
+***
+
+*"What is written without effort is in general read without pleasure."*
+
+Samuel Johnson (1709–1784)
+
+***
+
+I have dedicated part of my time to study and to teach scientific writing. 
+This becomes more intense after a training at the University of Bath (UK) 
+supported by the UNICAMP (see the info here 
+in [English](https://www.bath.ac.uk/announcements/unicamp-delegation-visit-cements-baths-ties-with-brazil/) and in [Portuguese](https://www.unicamp.br/unicamp/noticias/2016/07/25/grupo-da-unicamp-participa-de-curso-na-universidade-de-bath)).  
+Here I present some material I have collected along my studies that may be useful to improve writing skills.  
+I have used these materials during my courses , especially in [FT081 – Academic Writing](./material-FT081/material-FT081.qmd).
+
+**WEBSITES AND TOOLS**
+
+1. [Michael Alley's website](https://www.craftofscientificwriting.org/)
+
+2. [Prof. Chris Mack’s website](http://www.lithoguru.com/scientist/science-writing.html) with good texts regarding scientific publication and writing: See for instance, the text about the [350 years of the scientific journals](http://www.lithoguru.com/scientist/litho_papers/JM3%20Editorial%202015%20q1_History.pdf) and about [style](http://www.lithoguru.com/scientist/litho_papers/JM3%20Editorial%202016%20q3_Style.pdf).
+
+3. [Webtool for determining some characteristics of your text](http://www.analyzemywriting.com/) (e.g. lexical density): 
+
+4. Webtool for determining how is your text regarding the [Academic Word List](https://www.uefap.com/vocab/select/awl.htm) (AWL): http://www.nottingham.ac.uk/alzsh3/acvocab/awlhighlighter.htm
+
+5. Material of the [Plain English Campaign](http://www.plainenglish.co.uk/): a) [Alternative Words](http://wordpress.ft.unicamp.br/vitor/wp-content/uploads/sites/30/2017/09/alternative-words-plain-english-campaign.pdf) and  b) [How to write in plain English](http://wordpress.ft.unicamp.br/vitor/wp-content/uploads/sites/30/2017/09/howto-plain-englissh-dicas.pdf)
+
+6. [Corpus of Contemporary American English](https://corpus.byu.edu/coca/) (COCA)
+
+7. [Linguistics, Style and Writing in the 21st Century](https://www.youtube.com/watch?v=OV5J6BfToSw)(video), Steven Pinker
+
+8. [Cientistas precisam ter estilo](https://www.youtube.com/watch?v=HPRhb4aXrLM)(video) Prof. Dr. Wagner Cotroni Valenti
+
+9. [Become a More Successful Author](https://doi.org/10.2136/sssaj1993.03615995005700010001x), Soil Sci. Soc. Am. J. (1993)
+
+**BOOKS**
+
+1. [Eloquent Science](https://www.amazon.com/Eloquent-Science-Practical-Becoming-Scientist/dp/1878220918), David Schultz (chap.  “The motivation to write” is a good beginning)
+
+2. [Guia de Escrita](https://www.amazon.com.br/Guia-Escrita-conceber-precis%C3%A3o-eleg%C3%A2ncia-ebook/dp/B01L7NWTPC), Steven Pinker (see also the material (in Portuguese) from the [Galileu](http://revistagalileu.globo.com/Life-Hacks/noticia/2016/10/7-dicas-de-steven-pinker-para-escrever-melhor.html) magazine and [an interview (in Portuguese)](http://www.cartaeducacao.com.br/entrevistas/steven-pinker-boa-escrita-requer-empatia/) with the author in the revista Carta Capital magazine)
+
+3. [Scientific Writing](https://www.amazon.com/Scientific-Writing-Easy-When-Know/dp/0727916254), Jennifer Peat (I recommend chap. 8 “Writing style”)
+
+4. [English for Research Papers: a handbook for Brazilian authors](https://www.amazon.com/English-Research-Papers-Handbook-Brazilian-ebook/dp/B00GPT0FXW), Jim Hesson
+
+5. [The Craft of Scientific Writing](https://www.amazon.com.br/Craft-Scientific-Writing-Michael-Alley/dp/1441982876), Michael Alley

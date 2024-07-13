@@ -1,0 +1,13 @@
+---
+title: Facilities
+listing:
+    type: default
+    fields: [title, date, category, description]    
+    filter-ui: [date, title, date, category, description]
+    sort-ui: [date, title, date, category, description]
+    sort: "date desc"
+    field-display-names:
+        title: Título
+        category: Categoria
+        date: Data
+---

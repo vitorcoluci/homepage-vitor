@@ -1,0 +1,10 @@
+---
+title: "Good writing"
+h5p-folder: 02_good_writing
+format:
+    html: 
+      include-in-header: ../../h5p/h5p-header.html
+---
+
+{{< include "../../h5p/h5p-body.html" >}}
+

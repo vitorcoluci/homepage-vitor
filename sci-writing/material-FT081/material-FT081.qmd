@@ -1,0 +1,128 @@
+---
+title: "Complementary material of FT081 - Academic writing"
+h5p-folder: 00_inspiracao
+
+format:
+    html: 
+      include-in-header: ../../h5p/h5p-header.html
+---
+
+This is a collection of activities designed to increase awarness about scientific writing. They are used in the graduate course "Academic Writing" of the Graduate Program in Technology of the School of Technology/UNICAMP. Most of activities are based on the ones given during the writing course at the University of Bath (UK) (2016).  Credits for Jackie Dannatt and Diana Hopkins.
+
+**Activities**
+
+0.  Before we start ... 
+
+{{< include "../../h5p/h5p-body.html" >}}
+
+***
+
+1.  **Which one of the [following texts](smooth.qmd) do you consider to be the easiest to read ?**
+
+You are going to see hints about how to have effective paragraphs, sentences and words to your text. However, instead of knowing that a text is well written by checking a list of all the necessary aspects, I hope, after a while, you can feel the text is good. This is like tasting a dish. Most of the time you don't know all the ingredients and how they were prepared but you know the dish, as a whole, is simply delicious.
+
+***
+
+2. **The characteristics of a good writing**
+
+Find [here](good_writing.qmd) the characteristics of a good writing should exhibit.
+
+***
+
+3. **Academic and informal words**
+
+Academic writing is one of the many genres of writing.  
+In academic texts, we should avoid using informal words. 
+In [this activity](academic_informal.qmd), you are going to experience the practice of replacing informal words by their academic versions.
+
+***
+
+4. **Academic word list**
+
+The [Academic Word List (AWL)](https://www.uefap.com/vocab/select/awl.htm) is a list of 570 word families that are commonly 
+found in academic texts. 
+This list was produced by Averil Coxhead from Massey University, New Zealand. 
+The AWL is helpful if you are planning to write an academic text or simply to continue your studies in English.
+
+Find [here](awl.qmd) some words present in the AWL.
+
+***
+
+5. **Grammar**
+
+Grammar is essential to academic writing. 
+Most of us probably remember seeing grammar in high school. 
+Sentences, paragraphs, clauses, verbs, subjects, 
+prepositions, adverbs, and so on. So it is a good 
+practice to review periodically the key grammar topics 
+in order to "be prepared" to write academic texts. 
+Depending on your English level, you can start with a very [basic](https://www.plainenglish.co.uk/files/partsofspeech.pdf) 
+or a more [advanced](https://www.ed.ac.uk/files/atoms/files/grammar_for_academic_writing_ism.pdf) review.
+
+Test [here](grammar.qmd) how your grammar knowledge is.
+
+***
+
+6. **The line of reasoning**
+
+In an academic text, your arguments about the subject should be logically organized. Before start writing, it is a good practice to organize in a list the topics (as a bullet list) you want to write about in a logical sequence, that makes sense to your work. This "macro", logically organized structure helps to improve the inter-paragraph *coherence*. Coherence refers to the way a text makes sense to the reader through the organization of its content, and the relevance and clarity of its concepts and ideas.
+You can imagine that for each item in your list you will write a paragraph - a group of related sentences developing (logically) a single idea.  In [this activity](reasoning.qmd) you are going to arrange the sentences in order to achieve an understandable, logically structured text.
+
+***
+
+7. **Paragraphs**
+
+Paragraphs should be neither too long nor too short. 
+The main theme as well as how the ideas link together should be clear in the paragraph. In [this activity](paragraphs.qmd), you are going to practice on identifying the organization of the main topics in a text or, in other words, the paragraphs.  
+
+***
+
+8. **Intra-paragraph cohesion**
+
+Having structured our texts in paragraphs that follow 
+a logical order, we now will "enter" into the paragraph 
+to analyze its *cohesion* - the linking of ideas from one 
+sentence to another. One way to improve cohesion and consequently 
+the flow of informations along the paragraph is to use 
+signpost words/phrases: These words/phrases link the 
+previous sentence with the sentence to come, and indicate 
+what kind of information will be given in the next sentence.
+ For example, can you identify the signalling of each linking/signpost word in [this text](intra.qmd) ? It would be very confused if a "turn left" signpost is used instead of  a "turn right" signpost in a street with cars moving from left to right, wouldn't be?
+
+Now, let's [practice](link_words.qmd) with more linking words.
+
+***
+
+9. **Effective sentences**
+
+Paragraphs are formed by sentences. A sentence is a group of words that contains a subject and a verb and expresses a complete thought. A sentence should be concise and precise. 
+[This activity](effective_sentences.qmd) presents a set of two sentences that are grammatically correct. However, one of them is the "strongest" because it is concise and precise.  
+
+***
+
+10. **More about concise writing**
+
+*The goal of concise writing is to use the most effective 
+words. Concise writing does not always have the fewest words, 
+but it always uses the strongest ones. Writers often fill sentences with weak or 
+unnecessary words that can be deleted or replaced.Words 
+and phrases should be deliberately chosen for the work they 
+are doing. Like bad employees, words that don't accomplish 
+enough should be fired. When only the most effective words 
+remain, writing will be far more concise and readable.*
+
+*Ryan Weber, Nick Hurm - Purdue Online Writing Lab*
+
+Imagine you are going to fish. Are going to take a calculator, or a printer, or even a book of relativistic quantum physics ? "Probably not" (the quotes refer to [this interesting work](https://iopscience.iop.org/article/10.1088/1751-8113/44/49/492001)). On the other hand, you should take at least some worms and a fish rod. The idea here is that, for fishing, you should take the essential things.  This not so different for writing. You should make sure your reader can understand your writing, and avoiding sentences that convey no information.
+
+One way to do that is by replacing several vague words 
+with more powerful and specific words. 
+In [this activity](concise.qmd), you will experience this process. 
+
+[Here](http://www.plainenglish.co.uk/files/alternative.pdf) you can find a list of alternative words to "to the pompous words and phrases that litter official writing".
+
+***
+
+Sometimes, only replacing a word or phrase is not sufficient. You need to eliminate it! In a concise writing, interrogate every word in a sentence. Is the word redundant? Does the word explain the obvious or provide excessive detail ? If so, just remove it.
+
+In [this activity](eliminate.qmd), you will experience the process of removing unnecessary words. 

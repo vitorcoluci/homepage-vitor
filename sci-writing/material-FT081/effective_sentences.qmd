@@ -1,0 +1,9 @@
+---
+title: "Effective sentences"
+h5p-folder: 10_effective_sentences
+format:
+    html: 
+      include-in-header: ../../h5p/h5p-header.html
+---
+
+{{< include "../../h5p/h5p-body.html" >}}

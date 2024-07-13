@@ -1,0 +1,46 @@
+project:
+  type: website
+  preview: 
+    port: 4321
+  resources:
+    - "*.mp3"
+    - /h5p
+    - /sci-writing/material-FT081
+  
+
+  
+website:
+  title: "Prof. Vitor R. Coluci"
+  site-url: https://www.explora.ft.unicamp.br
+  navbar:
+    left:
+      - href: about_me/about_me.qmd
+        text: About me     
+      - href: research/research.qmd
+        text: Research 
+      - href: publications/publications.qmd
+        text: Publications
+      - href: teaching/teaching.qmd
+        text: Teaching
+      - href: facilities/facilities.qmd
+        text: Facilities
+      - href: sci-writing/sci-writing.qmd
+        text: Scientific Writing
+      - href: institucional/institucional.qmd
+        text: Institutional (Portuguese)
+  page-footer:
+    "Prof. Vitor R. Coluci 2024 - FT/UNICAMP/Limeira"
+
+
+format:
+  html:
+    lang: pt
+    page-layout: full
+    theme:
+      light: [flatly, light_mode.scss]
+      dark: [darkly, dark_mode.scss]
+    css: styles.css
+    toc: true
+
+
+

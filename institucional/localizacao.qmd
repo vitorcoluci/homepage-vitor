@@ -1,0 +1,23 @@
+---
+title: Localização
+description: " "
+---
+
+::: {.column-body}
+
+```{python}
+#| echo: false
+import folium 
+m = folium.Map([-22.562142069, -47.42408844], zoom_start=15)
+folium.Marker(
+    location=[-22.562142069, -47.42408844],
+    tooltip="Explora",
+    popup="Explora",
+    icon=folium.Icon(icon="check", color="red", ),
+).add_to(m)
+m
+```
+
+{{< var explora-endereco >}}
+
+:::

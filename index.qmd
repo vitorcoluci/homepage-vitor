@@ -1,0 +1,69 @@
+::: {.centerText}
+::: {.column-screen .largeExplora style="margin-top:-4.5%;"}
+![](assets/foto-site.svg)
+:::
+
+::: {.column-screen .smallExplora style="margin-top:-4.5%;"}
+![](assets/foto-site.svg)
+:::
+:::
+
+::: {.column-page}
+
+::: {.centerText}
+Webpage Vitor Coluci
+:::
+
+::: {.light-mode}
+::: {.centerText}
+
+
+::: {.grid}
+
+::: {.g-col-sm-2 .g-col-12}
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![About me](about_me/about_me.svg)](about_me/about_me.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Research](research/acervo.svg)](research/research.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Publications](publications/sobre.svg)](publications/publications.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Teaching](teaching/localizacao.svg)](teaching/teaching.qmd)
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-sm-2 .g-col-12}
+:::
+
+
+::: {.g-col-sm-2 .g-col-12}
+[![Facilities](facilities/atividades.svg)](facilities/facilities.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Scientific Writing](sci-writing/movies.svg)](sci-writing/sci-writing.qmd)
+:::
+
+::: {.g-col-sm-2 .g-col-12}
+[![Institucional (Portuguese)](institucional/cursos.svg)](institucional/institucional.qmd)
+:::
+
+
+:::
+:::
+
+:::
+
+:::

@@ -1,0 +1,26 @@
+---
+title: Teaching
+---
+***
+
+*"It is the supreme art of the teacher to awaken joy in creative expression and knowledge."*
+
+Albert Einstein (1879–1955)
+
+***
+
+Currently, I have taught the following courses for undergraduate and graduate students.
+
+**UNDERGRADUATE**
+
+- Linear Algebra and Analytical Geometry
+- Numerical Calculus
+
+**GRADUATE**
+
+- Methodology for Scientific Reseach
+- Scientific Writing
+- Materiais Science
+- Computational Modeling of Materials
+
+I am also interested in Physics Education. I believe that students interacting with real experiments and working with experimental data can achieve a better understanding of physical concepts. “Hands-on” experiments, either using it or developing it, provide an interesting teaching and learning framework.  Therefore, we have worked on designing experiments and demonstrations  based on recent technologies (e.g. Arduino) to be used in class to illustrate physical concepts. Here in the School of Technology/UNICAMP, the experiments/demonstrations are developed by undergraduate students using the Laboratory of Instrumentation for Teaching (LIE in Portuguese) facilities. Based on the students’ works we have published the following articles: 1)  Illustration of uncertanties in measurements by using free fall experiments, (in Portuguese) Revista Brasileira de Ensino de Física, 2012; 2) The motion of a ball moving down a circular path, Am. J.  Phys., 2017.
