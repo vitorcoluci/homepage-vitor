@@ -188,7 +188,7 @@ window.Quarto = {
 
 
 <div class="column-body">
-<div id="5b528fe8" class="cell" data-execution_count="1">
+<div id="85dc9959" class="cell" data-execution_count="1">
 <div class="cell-output cell-output-display" data-execution_count="1">
 <div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><span style="color:#565656">Make this Notebook Trusted to load map: File -&gt; Trust Notebook</span><iframe srcdoc="<!DOCTYPE html>
 <html>
@@ -204,7 +204,7 @@ window.Quarto = {
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     <script src=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js&quot;></script>
-    <script src=&quot;https://code.jquery.com/jquery-3.7.1.min.js&quot;></script>
+    <script src=&quot;https://code.jquery.com/jquery-1.12.4.min.js&quot;></script>
     <script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js&quot;></script>
     <script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js&quot;></script>
     <link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css&quot;/>
@@ -217,7 +217,7 @@ window.Quarto = {
             <meta name=&quot;viewport&quot; content=&quot;width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot; />
             <style>
-                #map_c01339f372cdc0ee43c6c27b22c5fc70 {
+                #map_73b05f33d7ce134ca7a170eb7a2ca303 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -231,14 +231,14 @@ window.Quarto = {
 <body>
     
     
-            <div class=&quot;folium-map&quot; id=&quot;map_c01339f372cdc0ee43c6c27b22c5fc70&quot; ></div>
+            <div class=&quot;folium-map&quot; id=&quot;map_73b05f33d7ce134ca7a170eb7a2ca303&quot; ></div>
         
 </body>
 <script>
     
     
-            var map_c01339f372cdc0ee43c6c27b22c5fc70 = L.map(
-                &quot;map_c01339f372cdc0ee43c6c27b22c5fc70&quot;,
+            var map_73b05f33d7ce134ca7a170eb7a2ca303 = L.map(
+                &quot;map_73b05f33d7ce134ca7a170eb7a2ca303&quot;,
                 {
                     center: [-22.562142069, -47.42408844],
                     crs: L.CRS.EPSG3857,
@@ -252,43 +252,40 @@ window.Quarto = {
 
         
     
-            var tile_layer_c7f640bc4c5a6bfe09fcea21285c7c90 = L.tileLayer(
-                &quot;https://tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;\u0026copy; \u003ca href=\&quot;https://www.openstreetmap.org/copyright\&quot;\u003eOpenStreetMap\u003c/a\u003e contributors&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 19, &quot;maxZoom&quot;: 19, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            );
+            var tile_layer_67a958cdfe83cf90281cc93688e0da3c = L.tileLayer(
+                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
+                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca target=\&quot;_blank\&quot; href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\&quot;_blank\&quot; href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            ).addTo(map_73b05f33d7ce134ca7a170eb7a2ca303);
         
     
-            tile_layer_c7f640bc4c5a6bfe09fcea21285c7c90.addTo(map_c01339f372cdc0ee43c6c27b22c5fc70);
-        
-    
-            var marker_750d1029200594c2b4d0c27e73d3bf14 = L.marker(
+            var marker_354b859d0ceb24fef61a102266c23c2c = L.marker(
                 [-22.562142069, -47.42408844],
                 {}
-            ).addTo(map_c01339f372cdc0ee43c6c27b22c5fc70);
+            ).addTo(map_73b05f33d7ce134ca7a170eb7a2ca303);
         
     
-            var icon_f6d390928a28975bde2dc631242ffe2e = L.AwesomeMarkers.icon(
+            var icon_3ca8bf24095db49140ac478780935a82 = L.AwesomeMarkers.icon(
                 {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;check&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;red&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
             );
-            marker_750d1029200594c2b4d0c27e73d3bf14.setIcon(icon_f6d390928a28975bde2dc631242ffe2e);
+            marker_354b859d0ceb24fef61a102266c23c2c.setIcon(icon_3ca8bf24095db49140ac478780935a82);
         
     
-        var popup_da24a296ce081e470d8f0617999e2115 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
+        var popup_884c284484e33e24c37a3f546f448217 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
 
         
             
-                var html_d951620a69689204b288cf0bfeb08a2f = $(`<div id=&quot;html_d951620a69689204b288cf0bfeb08a2f&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>Explora</div>`)[0];
-                popup_da24a296ce081e470d8f0617999e2115.setContent(html_d951620a69689204b288cf0bfeb08a2f);
+                var html_519ce399f30b7451f3cd356a7a139adb = $(`<div id=&quot;html_519ce399f30b7451f3cd356a7a139adb&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;>Explora</div>`)[0];
+                popup_884c284484e33e24c37a3f546f448217.setContent(html_519ce399f30b7451f3cd356a7a139adb);
             
         
 
-        marker_750d1029200594c2b4d0c27e73d3bf14.bindPopup(popup_da24a296ce081e470d8f0617999e2115)
+        marker_354b859d0ceb24fef61a102266c23c2c.bindPopup(popup_884c284484e33e24c37a3f546f448217)
         ;
 
         
     
     
-            marker_750d1029200594c2b4d0c27e73d3bf14.bindTooltip(
+            marker_354b859d0ceb24fef61a102266c23c2c.bindTooltip(
                 `<div>
                      Explora
                  </div>`,

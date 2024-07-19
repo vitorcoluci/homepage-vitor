@@ -1,0 +1,15 @@
+---
+title: "Outreach"
+---
+
+
+::: {.centerText}
+![](outreach.jpeg){width=40%}
+:::
+
+[ObseRVe](https://observe.ufscar.br)
+
+[Explora](https://explora.ft.unicamp.br)
+
+[Musicalizando](http://lattes.cnpq.br/5495322642019035)
+

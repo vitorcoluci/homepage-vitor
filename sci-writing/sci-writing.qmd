@@ -14,7 +14,7 @@ This becomes more intense after a training at the University of Bath (UK)
 supported by the UNICAMP (see the info here 
 in [English](https://www.bath.ac.uk/announcements/unicamp-delegation-visit-cements-baths-ties-with-brazil/) and in [Portuguese](https://www.unicamp.br/unicamp/noticias/2016/07/25/grupo-da-unicamp-participa-de-curso-na-universidade-de-bath)).  
 Here I present some material I have collected along my studies that may be useful to improve writing skills.  
-I have used these materials during my courses , especially in [FT081 – Academic Writing](./material-FT081/material-FT081.qmd).
+I have used these materials during [my courses](./courses/courses.qmd) , especially in [FT081 – Academic Writing](./material-FT081/material-FT081.qmd).
 
 **WEBSITES AND TOOLS**
 

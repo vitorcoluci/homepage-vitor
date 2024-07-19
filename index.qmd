@@ -1,69 +1,57 @@
 ::: {.centerText}
-::: {.column-screen .largeExplora style="margin-top:-4.5%;"}
+::: {.column-screen .largeExplora style="margin-top:1.5%;"}
 ![](assets/foto-site.svg)
 :::
 
-::: {.column-screen .smallExplora style="margin-top:-4.5%;"}
+::: {.column-screen .smallExplora style="margin-top:1.5%;"}
 ![](assets/foto-site.svg)
 :::
+
 :::
+
 
 ::: {.column-page}
 
 ::: {.centerText}
-Webpage Vitor Coluci
-:::
+# Prof. Coluci's Webpage
 
-::: {.light-mode}
+
 ::: {.centerText}
-
-
-::: {.grid}
-
-::: {.g-col-sm-2 .g-col-12}
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![About me](about_me/about_me.svg)](about_me/about_me.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![Research](research/acervo.svg)](research/research.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![Publications](publications/sobre.svg)](publications/publications.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![Teaching](teaching/localizacao.svg)](teaching/teaching.qmd)
-:::
-
+![](vitor_coluci.jpg){width=20%}
 :::
 
 
-::: {.grid}
+Prof. Coluci is an associate professor at the
+School of Technology at University of 
+Campinas. He was a postdoctoral Fellow
+at the Gleb Wataghin Physics Institute
+at University of Campinas where received
+his Ph.D. degree in 2004. He was a
+visiting student at the Nanotech
+Institute at the University of Texas at 
+Dallas in 2002 and 2003. He also received 
+his S.M. degree in physics from University 
+of Campinas in 2000, and his B.S. degree 
+also in physics from University of Campinas 
+in 1998. One of his research interests is 
+to develop and use computational simulation
+tools to study properties of nanomaterials.
+He has also interests in Scientific Writing
+and in Physics Education.
 
-::: {.g-col-sm-2 .g-col-12}
+[Lattes](http://lattes.cnpq.br/5495322642019035)
+
+[Google Scholar](http://scholar.google.com.br/citations?user=c6aIEUwAAAAJ)
+
+[Research ID](http://www.researcherid.com/rid/E-1079-2012)
+
+[ORCID](https://orcid.org/0000-0001-5179-6182)
+
+[PhD. Thesis](https://doi.org/10.47749/T/UNICAMP.2004.304304)
+
+[Master's dissertation](https://doi.org/10.47749/T/UNICAMP.2000.433887)
+
 :::
 
-
-::: {.g-col-sm-2 .g-col-12}
-[![Facilities](facilities/atividades.svg)](facilities/facilities.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![Scientific Writing](sci-writing/movies.svg)](sci-writing/sci-writing.qmd)
-:::
-
-::: {.g-col-sm-2 .g-col-12}
-[![Institucional (Portuguese)](institucional/cursos.svg)](institucional/institucional.qmd)
-:::
-
-
-:::
-:::
-
-:::
 
 :::

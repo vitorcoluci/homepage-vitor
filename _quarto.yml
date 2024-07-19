@@ -13,9 +13,7 @@ website:
   title: "Prof. Vitor R. Coluci"
   site-url: https://www.explora.ft.unicamp.br
   navbar:
-    left:
-      - href: about_me/about_me.qmd
-        text: About me     
+    left:     
       - href: research/research.qmd
         text: Research 
       - href: publications/publications.qmd
@@ -26,8 +24,8 @@ website:
         text: Facilities
       - href: sci-writing/sci-writing.qmd
         text: Scientific Writing
-      - href: institucional/institucional.qmd
-        text: Institutional (Portuguese)
+      - href: outreach/outreach.qmd
+        text: Outreach
   page-footer:
     "Prof. Vitor R. Coluci 2024 - FT/UNICAMP/Limeira"
 
