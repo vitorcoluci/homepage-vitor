@@ -1,6 +1,8 @@
 ---
-title: Publications
+title: Publicações
 ---
+
+**2024**
 
 **2023**
 
@@ -138,6 +140,8 @@ title: Publications
 
 **2002**
 
+*[Tese de Doutorado](https://doi.org/10.47749/T/UNICAMP.2004.304304), 2002
+
 5- [Identifying relevant molecular descriptors related to carcinogenic activity of Polycyclic Aromatic Hydrocarbons (PAHs) using pattern recognition methods](https://doi.org/10.1021/ci025577+), Journal of Chemical Information and Computer Sciences, 2002
 
 4- [Structure-activity relationship (SAR) studies of the tripos benchmark steroids](https://doi.org/10.1016/S0166-1280(02)00578-X), Journal of Molecular Structure-Theochem, 2002
@@ -145,6 +149,8 @@ title: Publications
 **2001**
 
 **2000**
+
+*[Dissertação de Mestrado](https://doi.org/10.47749/T/UNICAMP.2000.433887), 2000
 
 3- [Influence of rough substrates on the morphology evolution of epitaxial films](https://doi.org/10.1103/PhysRevB.61.13703), Physical Review B, 2000
 

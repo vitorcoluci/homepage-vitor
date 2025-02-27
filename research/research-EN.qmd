@@ -1,0 +1,35 @@
+---
+title: "Research"
+---
+
+**Ongoing research**
+
+- Mechanical response of vertically aligned helical carbon nanotube forests
+
+The response of forests of helical carbon nanotubes when subjected
+to mechanical compression is still not well understood. 
+To study this response from the theoretical point of view, 
+we have developed a mesoscale model that includes characteristics 
+from both the individual tubes (e.g. helicity) and the whole forest 
+(e.g. entanglement among tubes). Currently, we are interested in the role 
+of the vertical orientation and distribution of the nanotubes along the 
+height of the forests to the compressive response. In addition to the mesoscale model,
+we are developing a finite element model to study the growth and the compression of 
+helical carbon nanotube forests.
+
+- Molecular dynamics simulations based on Green’s functions
+
+Molecular dynamics (DM) is a computational technique used 
+for the atomistic study of materials. Due to the rapid 
+vibrational movement of atoms, the process of integrating 
+the motion equations used in such techniques requires very 
+small integration steps (~ 1fs), which limits the simulation 
+of phenomena at realistic scales (~ ms). The Green’s function-based DM technique 
+(GFMD) allows these integration steps to be extended, 
+at least in studies involving the harmonic approximation. 
+I am currently implmenting the GFMD technique in [LAMMPS](https://www.lammps.org/).
+
+- Electronic structure of anthraquinones
+
+- Design and implementation of a Foucault's pendulum for small non-formal education spaces
+

@@ -7,27 +7,26 @@ project:
     - /h5p
     - /sci-writing/material-FT081
   
-
-  
+ 
 website:
   title: "Prof. Vitor R. Coluci"
   site-url: https://www.explora.ft.unicamp.br
   navbar:
     left:     
       - href: research/research.qmd
-        text: Research 
+        text: Pesquisa 
       - href: publications/publications.qmd
-        text: Publications
+        text: Publicações
       - href: teaching/teaching.qmd
-        text: Teaching
-      - href: facilities/facilities.qmd
-        text: Facilities
-      - href: sci-writing/sci-writing.qmd
-        text: Scientific Writing
+        text: Ensino
       - href: outreach/outreach.qmd
-        text: Outreach
+        text: Extensão
+      - href: facilities/facilities.qmd
+        text: Infra-estrutura
+      - href: people/peopele.qmd
+        text: Equipe
   page-footer:
-    "Prof. Vitor R. Coluci 2024 - FT/UNICAMP/Limeira"
+    "Prof. Vitor R. Coluci 2025 - FT/UNICAMP/Limeira"
 
 
 format:

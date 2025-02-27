@@ -1,5 +1,5 @@
 ---
-title: "Complementary material of FT081 - Academic writing"
+title: "Material Complementar de FT081"
 h5p-folder: 00_inspiracao
 
 format:
@@ -7,7 +7,7 @@ format:
       include-in-header: ../../h5p/h5p-header.html
 ---
 
-This is a collection of activities designed to increase awarness about scientific writing. They are used in the graduate course "Academic Writing" of the Graduate Program in Technology of the School of Technology/UNICAMP. Most of activities are based on the ones given during the writing course at the University of Bath (UK) (2016).  Credits for Jackie Dannatt and Diana Hopkins.
+This is a collection of activities designed to increase awarness about scientific writing. They are used in the graduate course "Academic Writing" of the Graduate Program in Technology of the School of Technology/UNICAMP. Most of activities are based on the ones given during the writing course at the University of Bath (UK) (2016). Credits for Jackie Dannatt and Diana Hopkins.
 
 **Activities**
 

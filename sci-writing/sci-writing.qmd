@@ -1,5 +1,5 @@
 ---
-title: "Scientific Writing"
+title: "Escrita Acadêmica"
 ---
 ***
 
@@ -9,14 +9,10 @@ Samuel Johnson (1709–1784)
 
 ***
 
-I have dedicated part of my time to study and to teach scientific writing. 
-This becomes more intense after a training at the University of Bath (UK) 
-supported by the UNICAMP (see the info here 
-in [English](https://www.bath.ac.uk/announcements/unicamp-delegation-visit-cements-baths-ties-with-brazil/) and in [Portuguese](https://www.unicamp.br/unicamp/noticias/2016/07/25/grupo-da-unicamp-participa-de-curso-na-universidade-de-bath)).  
-Here I present some material I have collected along my studies that may be useful to improve writing skills.  
-I have used these materials during [my courses](./courses/courses.qmd) , especially in [FT081 – Academic Writing](./material-FT081/material-FT081.qmd).
+Tenho dedicado parte do meu tempo para o estudo e ensino de escrita acadêmica. Isso se tornou mais intenso após um treinamento realizado na Universidade de Bath em 2016 (info [aqui](https://www.bath.ac.uk/announcements/unicamp-delegation-visit-cements-baths-ties-with-brazil/) e [aqui](https://www.unicamp.br/unicamp/noticias/2016/07/25/grupo-da-unicamp-participa-de-curso-na-universidade-de-bath)). Apresento aqui alguns materiais que podem ser úteis para quem quiser melhorar suas habilidades de escrita científica. 
+Tenho usado esses materiais nos [meus cursos](./courses/courses.qmd), particularmente na disciplina [FT081 – Escrita Acadêmica](./material-FT081/material-FT081.qmd).
 
-**WEBSITES AND TOOLS**
+**WEBSITES E FERRAMENTAS**
 
 1. [Michael Alley's website](https://www.craftofscientificwriting.org/)
 
@@ -36,7 +32,7 @@ I have used these materials during [my courses](./courses/courses.qmd) , especia
 
 9. [Become a More Successful Author](https://doi.org/10.2136/sssaj1993.03615995005700010001x), Soil Sci. Soc. Am. J. (1993)
 
-**BOOKS**
+**LIVROS**
 
 1. [Eloquent Science](https://www.amazon.com/Eloquent-Science-Practical-Becoming-Scientist/dp/1878220918), David Schultz (chap.  “The motivation to write” is a good beginning)
 

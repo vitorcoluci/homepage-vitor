@@ -1,28 +1,29 @@
 ---
-title: Equipe
+title: People
 ---
 
-## Estudantes atuais
+## Current Students
 
-**Doutorado**
+**PhD.**
 
 - [Jhasmani Tito Cruz](http://lattes.cnpq.br/9210359765338032)
 
 - [Anderson Rossi](http://lattes.cnpq.br/1558860383340815)
 
-**Mestrado**
+**Msc.**
 
 - Luis Felipe Nicoletto de Souza
 
-## Pesquisadores formados
+## Former Students
+(Please click on the name for the full record of the dissertation/thesis)
 
-**Doutorado**
+**PhD.**
 
 - [Tatiana Mello da Costa Faro](https://repositorio.unicamp.br/acervo/detalhe/802869)
 
 - [Fabio Andrijauskas](https://repositorio.unicamp.br/acervo/detalhe/1095783)
 
-**Mestrado**
+MSc.
 
 - [Vanessa Cadan Scheffer](https://repositorio.unicamp.br/acervo/detalhe/983706)
 
@@ -34,6 +35,6 @@ title: Equipe
 
 - [Jaqueline Gonçalves Honório](https://repositorio.unicamp.br/acervo/detalhe/864465)
 
-**Pós-doutorado**
+## Former visiting scientists
 
 - [Prof. Marcos Dionízio Moreira](http://lattes.cnpq.br/0060513944110008)

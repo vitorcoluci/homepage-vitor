@@ -1,13 +1,13 @@
 
 ---
-title: Facilities
+title: Infra-estrutura
 ---
 
-I coordinate the following laboratories:
+Coordenado os seguintes laboratórios:
 
-- Research lab  [Lascado](https://cluster.ft.unicamp.br)
+- **Laboratório de Simulação e de Computação de Alto Desempenho** [LaSCADo](https://cluster.ft.unicamp.br): Laboratório que fornece infra-estrutura computacional de grande porte para pesquisadores da UNICAMP/Limeira.
 
-- Teaching and outreach lab [Explora](https://explora.ft.unicamp.br)
+- **Espaço de Ensino e Aprendizagem** [Explora](https://explora.ft.unicamp.br): Espaço destinado para aulas de laboratório de Física e também para projetos de extensão voltados para a divulgação científica.
 
-- Research lab in Physics Education 
-[LIE](http://wordpress.ft.unicamp.br/lie/)
+- **Laboratório de Instrumentação para o Ensino**
+[LIE](http://wordpress.ft.unicamp.br/lie/): Laboratório voltado para o desenvolvimento de experimentos e demonstrações que possam ajudar a ilustrar conceitos físicos.

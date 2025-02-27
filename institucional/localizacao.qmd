@@ -1,5 +1,5 @@
 ---
-title: Localização
+title: Faculdade de Tecnologia
 description: " "
 ---
 
@@ -11,9 +11,9 @@ import folium
 m = folium.Map([-22.562142069, -47.42408844], zoom_start=15)
 folium.Marker(
     location=[-22.562142069, -47.42408844],
-    tooltip="Explora",
-    popup="Explora",
-    icon=folium.Icon(icon="check", color="red", ),
+    tooltip="Faculdade de Tecnologia",
+    popup="Faculdade de Tecnologia",
+    icon=folium.Icon(icon="check", color="blue", ),
 ).add_to(m)
 m
 ```

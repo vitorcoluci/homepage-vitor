@@ -1,0 +1,13 @@
+
+---
+title: Facilities
+---
+
+I coordinate the following laboratories:
+
+- Research lab  [Lascado](https://cluster.ft.unicamp.br)
+
+- Teaching and outreach lab [Explora](https://explora.ft.unicamp.br)
+
+- Research lab in Physics Education 
+[LIE](http://wordpress.ft.unicamp.br/lie/)

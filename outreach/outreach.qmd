@@ -1,15 +1,25 @@
 ---
-title: "Outreach"
+title: "Extensão"
 ---
 
 
 ::: {.centerText}
-![](outreach.jpeg){width=40%}
+![](explora.jpeg){width=30%}
 :::
 
-[ObseRVe](https://observe.ufscar.br)
 
-[Explora](https://explora.ft.unicamp.br)
+[Explora](https://explora.ft.unicamp.br): Projeto para divulgar a Ciência por meio de atividades e demonstrações de fenômenos físicos. O projeto usa o espaço de Ensino e Aprendizagem **Explora** para realizar as atividades. As atividades realizadas podem ser vistas [aqui](https://explora.ft.unicamp.br/atividades/atividades.html).
 
-[Musicalizando](http://lattes.cnpq.br/5495322642019035)
 
+::: {.centerText}
+![](observe.jpeg){width=30%}
+:::
+
+
+[ObseRVe](https://observe.ufscar.br): Projeto para divulgação e ensino da astronimia realizado em colaboração com a Universidade Federal de São Carlos/ Campus Araras. 
+
+::: {.centerText}
+![](musicalizando.jpg){width=30%}
+:::
+
+[Musicalizando](): Projeto voltado para alunos com 50+ dentro do Programa UniversIDADE da UNICAMP com o objetivo de trabalhar diversos aspectos da música para estimular tanto a realização musical coletiva como a interação social dos participantes.

@@ -1,48 +1,56 @@
 ---
-title: "My scientific writing courses"
+title: "Cursos oferecidos de escrita científica"
 ---
 
-11- 2S/2023: FT081 (Academic Writing), a 60h-course for the graduate students of FT-UNICAMP with the presence of Prof. Michael Alley.
+FT081 Escrita Acadêmica (60h) - disciplina do programa de Pós-graduação da Faculdade de Tecnologia.
+
+12- 2S/2024: FT081
+
+::: {.centerText}
+![](foto-FT081-2024.png){width=35%}
+:::
+
+11- 2S/2023: FT081 com encerramento feito pelo Prof. Michael Alley.
 
 ::: {.centerText}
 ![](foto-FT081-2023.jpeg){width=40%}
 :::
 
-10- 2S/2022: FT081 (Academic Writing), a 60h-course for the graduate students of FT-UNICAMP with the presence of Prof. Henrique Madeira (U. Coimbra).
+10- 2S/2022: FT081 com encerramento feito pelo Prof. Henrique Madeira (U. Coimbra).
 
-9- 2S/2021: FT081 (Academic Writing), a 60h-course for the graduate students of FT-UNICAMP with the presence of  Prof. Osvaldo Novais de Oliveira Jr (IFUSP - São Carlos)
+9- 2S/2021: FT081 com encerramento feito pelo Prof. Osvaldo Novais de Oliveira Jr (IFUSP - São Carlos).
 
-8- 2S/2020: FT081 (Academic Writing), a 60h-course for the graduate students of FT-UNICAMP.
+8- 2S/2020: FT081
 
 ::: {.centerText}
 ![](foto-FT081-2020.png){width=40%}
 :::
 
-7- 1S/2020: A  Outreach 20h-course for graduate students and professors.
+7- 1S/2020: Curso de extensão de 20h voltado para alunos de pós-graduação e professores.
 
 ::: {.centerText}
 ![](foto-extensao-2020.jpg){width=40%}
 :::
 
-6- 2S/2019: FT081 (Academic Writing), a 60h-course for the graduate students of FT-UNICAMP with the presence of [Prof. Walter Carnielli](https://waltercarnielli.com/) talking about Critical Thinking for the closing class.
+6- 2S/2019: FT081 com encerramento feito pelo [Prof. Walter Carnielli](https://waltercarnielli.com/).
 
 ::: {.centerText}
 ![](FT081-2s19-carnielli.png){width=40%}
 :::
 
-5- 1S/2019: A 20h-course for the undergraduate and graduate students of UNICAMP
+5- 1S/2019: Curso de 20h para alunos de graduação e pós-graduação da UNICAMP.
 
-4- 2S/2018: FT081 (Academic Writing), a 60h-course for the graduate students of FT-UNICAMP with the presence of [Profa. Monica A. Cotta](https://sites.ifi.unicamp.br/monica/) talking about the publication process for the closing class.
+4- 2S/2018: FT081 com encerramento feito pela [Profa. Monica A. Cotta](https://sites.ifi.unicamp.br/monica/).
 
-3- 2S/2017: A 9h-course for graduate and undergraduate students during the VIII Semana de Tecnologia em Foco, FT-UNICAMP
+3- 2S/2017: Curso de 9h-course para alunos de graduação e pós-graduação da UNICAMP durante a VIII Semana de Tecnologia em Foco.
 
 ::: {.centerText}
 ![](foto-tecnologia-em-foco-2s-2017.jpg){width=40%}
 :::
 
-2- 1S/2017: FT069, a 60h-course for the graduate students of FT-UNICAMP
+2- 1S/2017: FT069 (antes de ser chamada de FT081)
 
-1- 2S/2015: Organization of the 30h-course “Scientific Methodology and Writing for Publication” delivered by Prof. Errol Zeiger. Details can be found here.
+1- 2S/2015: Curso de 30h  “Scientific Methodology and Writing for Publication” oferecido pelo Prof. Errol Zeiger.
 
 ::: {.centerText}
 ![](foto-curso-zeiger-2s-2015.jpg){width=40%}
