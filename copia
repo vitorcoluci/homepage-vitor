@@ -1,0 +1,4 @@
+cd ./_site/
+cp -r assets facilities h5p institucional outreach people publications research sci-writing site_libs teaching ../../my-homepage/
+cp index.html robots.txt search.json sitemap.xml styles.css vitor_coluci.jpg ../../my-homepage/
+
