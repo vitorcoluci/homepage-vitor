@@ -1,0 +1,35 @@
+---
+title: ""
+---
+
+::: {.centerText}
+![**Musicalizar** é o ato de transformar em música.
+](musicalizando.png){width=80%}
+:::
+
+---
+
+Projeto voltado para alunos com 50+ dentro do [Programa UniversIDADE](https://www.proec.unicamp.br/programa-universidade/) da UNICAMP com o objetivo de trabalhar diversos aspectos da música, estimulando a realização musical coletiva e a interação social dos participantes. O projeto também visa auxiliar na prevenção do declínio cognitivo resultante do envelhecimento e na redução de sintomas de depressão e de ansiedade. 
+
+
+---
+
+A primeira oficina foi realizada durante o 2S/2024. Foram 15 encontros com aulas sobre o violino, sobre o piano e sobre a [ópera Turandot](https://pt.wikipedia.org/wiki/Turandot). Além das aulas, foram trabalhadas algumas músicas e realizados ensaios de músicas de diferentes estilos musicais. Esse primeiro oferecimento teve como instrutores o Prof. Yuri Meyer da FT ao violino e o mestrando Luis Felipe Nicoletto de Souza ao piano. 
+
+::: {#fig-0}
+
+{{< video video-musicalizando-2024.mp4 >}}
+
+Vídeo que resume as atividades realizadas no primeiro oferecimento do Musicalizando.
+
+:::
+
+Os ensaios permitiram que fosse feita uma apresentação musical durante o encerramento do Programa UniversIDADE de 2024. A apresentação pode ser conferida a seguir. 
+
+::: {#fig-1}
+
+{{< video https://youtu.be/zm9kAda8y4c start="3419" >}}
+
+Apresentação realizada em 12/12/2024 na Faculdade de Ciências Aplicadas durante o encerramento do Programa UniversIDADE de 2024.
+
+:::

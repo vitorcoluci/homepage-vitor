@@ -13,17 +13,12 @@
 ::: {.column-page}
 
 ::: {.centerText}
-# Prof. Vitor R. Coluci
 
 ::: {.centerText}
 ![](vitor_coluci.jpg){width=20%}
 :::
 
-Sou professor titular da UNICAMP e trabalho na [Faculdade de Tecnologia](institucional/localizacao.qmd) (Campus I UNICAMP/Limeira). Sou físico de formação (e de coração) tendo feito minha graduação (bacharelado e licenciatura), mestrado e doutorado no Instituto de Física Gleb Wataghin da UNICAMP. Parte do meu doutorado foi realizado na University of Texas em Dallas sob a supervisão do Prof. Ray Baughman. One of his research interests is 
-to develop and use computational simulation
-tools to study properties of nanomaterials.
-He has also interests in Scientific Writing
-and in Physics Education.
+Sou professor titular da UNICAMP e trabalho na [Faculdade de Tecnologia](http://www.ft.unicamp.br) ([Campus I UNICAMP/Limeira](./institucional/localizacao.qmd)). Sou físico de formação (e de coração) tendo obtido minha formação (graduação, mestrado e doutorado) no Instituto de Física Gleb Wataghin/UNICAMP e na University of Texas/Dallas. Pesquiso propriedades de materiais usando técnicas de física e química computacional e também desenvolvo montagens experimentais que visam facilitar o ensino de Física.
 
 [Lattes](http://lattes.cnpq.br/5495322642019035) 
 

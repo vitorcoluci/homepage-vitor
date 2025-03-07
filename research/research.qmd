@@ -1,35 +1,89 @@
 ---
-title: "Research"
+title: "Pesquisa"
 ---
 
-**Ongoing research**
+# Projetos em andamento
 
-- Mechanical response of vertically aligned helical carbon nanotube forests
+## Propriedades de Materiais
 
-The response of forests of helical carbon nanotubes when subjected
-to mechanical compression is still not well understood. 
-To study this response from the theoretical point of view, 
-we have developed a mesoscale model that includes characteristics 
-from both the individual tubes (e.g. helicity) and the whole forest 
-(e.g. entanglement among tubes). Currently, we are interested in the role 
-of the vertical orientation and distribution of the nanotubes along the 
-height of the forests to the compressive response. In addition to the mesoscale model,
-we are developing a finite element model to study the growth and the compression of 
-helical carbon nanotube forests.
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Resposta mecânica de florestas de nanotubos de carbono helicoidais
 
-- Molecular dynamics simulations based on Green’s functions
+Pesquisador principal: [Dr. Karlisson Rodrigo de Almeida Sousa](http://lattes.cnpq.br/3030234192052390)
 
-Molecular dynamics (DM) is a computational technique used 
-for the atomistic study of materials. Due to the rapid 
-vibrational movement of atoms, the process of integrating 
-the motion equations used in such techniques requires very 
-small integration steps (~ 1fs), which limits the simulation 
-of phenomena at realistic scales (~ ms). The Green’s function-based DM technique 
-(GFMD) allows these integration steps to be extended, 
-at least in studies involving the harmonic approximation. 
-I am currently implmenting the GFMD technique in [LAMMPS](https://www.lammps.org/).
+Nanotubos de carbono alinhados verticalmente num arranjo do tipo ``floresta'' têm sido estudados como estruturas absorvedoras de impacto mecânico e de som. A grande área superficial exibida por essas florestas também permite o uso delas como absorvedores de gases e líquidos, podendo ser utilizadas para mitigar problemas ambientais como a da poluição sonora e auxiliar na remoção de poluentes presentes no ar e na água. Dependendo do tipo do nanotubo (reto ou helicoidal) que compõe essas florestas, a resposta mecânica à compressão pode ser diferente. Florestas de nanotubos helicoidais, por exemplo, apresentam um comportamento não linear da força de resposta da floresta em função da deformação. Fatores como alinhamento, ondulação, proximidade e emaranhamento dos nanotubos podem influenciar a resposta mecânica. Como esses fatores são difíceis de se controlar experimentalmente, uma descrição mais precisa de seus efeitos torna-se complicada. Portanto, nesse projeto pretendemos  simular a compressão mecânica de florestas de nanotubos de carbono helicoidais em diferentes configurações de densidades, de razão de aspecto e de distribuição no substrato. As simulações serão realizadas em um cluster computacional de alto desempenho instalado na FT. Com esse projeto, pretendemos entender melhor a resposta à compressão mecânica de florestas de nanotubos de carbono helicoidais. Os resultados poderão ser usados para desenvolver configurações otimizadas para absorver impactos mecânicos e para absorver poluentes ambientais.
+:::
 
-- Electronic structure of anthraquinones
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Remoção de fármacos $\beta$-bloqueadores de águas de efluentes: Estudos experimentais e de modelagem computacionais.
 
-- Design and implementation of a Foucault's pendulum for small non-formal education spaces
+Pesquisadores principais: [Dr. Harold Hilarion Fokoue](http://lattes.cnpq.br/8743832958941593) e  [Profa. Dra. Patricia Prediger](http://lattes.cnpq.br/3069249114434330)
 
+O projeto visa desenvolver estruturas orgânico-metálicas (do inglês *metal-organic* frameworks, MOFs) de zinco dopadas com átomos como boro, nitrogênio e fósforo e estudar os mecanismos de interação entre eles e quatro $\beta$-bloqueadores (atenolol, metoprolol, nadolol e propranolol), com o objetivo de removê-los de águas provenientes de efluentes. Para compreender essas interações e o potencial adsorvente dos MOFs produzidos, serão realizados estudos experimentais de adsorção e estudos computacionais.
+:::
+
+
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Simulações de dinâmica molecular baseadas em funções de Green
+
+Pesquisador principal: Prof. Vitor R. Coluci
+
+A dinâmica molecular (DM) é uma técnica computacional usada 
+para o estudo atomístico de materiais. Devido ao rápido 
+movimento vibracional dos átomos, o processo de integração 
+das equações de movimento usadas em tais técnicas requer passos de integração muito pequenos (~ 1fs), o que limita a simulação 
+de fenômenos em escalas realistas (~ ms). A técnica de DM baseada em função de Green (GFMD) permite que esses passos de integração sejam estendidos, 
+pelo menos em estudos envolvendo a aproximação harmônica. 
+Esse projeto visa implemtentar essa técnica no simulador [LAMMPS](https://www.lammps.org/).
+
+:::
+
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Modelagem da resposta mecânica de florestas de nanotubos de carbono usando o método de elementos finitos
+
+Pesquisador principal: [MSc. Anderson Rossi](http://lattes.cnpq.br/1558860383340815)
+
+A resposta mecância de florestas de nanotubos de carbono helicoidais quando sujeitos à compressão mecânica ainda não é bem entendida. Para se estudar essa resposta do ponto de vista computacional/teórico, pretende-se utilizar o método de elementos finitos para modelar o crescimento e a resposta mecânica dessas florestas.  A ideia é implementar um programa de simulação na linguagem C que incorpore as principais interações para descrever os nanotubos helicoidais.
+
+:::
+
+
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Correlação estrutura-atividade de corantes baseados em antraquinonas
+
+Pesquisador principal: Luis Felipe Nicoletto de Souza
+
+Antraquinonas constituem uma classe de compostos naturais e sintéticos que são aplicadas como fármacos e como corantes. Testes de mutagenicidade indicaram que alguns dessas moléculas, apesar de terem uma estrutura parecida, apresentam efeitos mutagênicos bem distintos. Neste projeto, pretendemos investigar a relação da estrututa eletrônica dessas moléculas com a atividade mutagênica. Os cálculos da estrutura eletrônica serão realizados com métodos semi-empíricos e propriedades eletrônicas como HOMO e LUMO serão usadas para se obter padrões que diferenciem a resposta mutagênica desses compostos.
+
+:::
+
+## Ensino de Física
+
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Desenvolvimento de uma linha de produtos de software para envolver jogos sérios de RV no ensino de física
+
+Pesquisador principal: [Msc. Jhasmani Tito Cruz](http://lattes.cnpq.br/5495322642019035) e [Profa. Dra. Regina de Oliveira Moraes](http://lattes.cnpq.br/3618876400150348)
+
+O projeto FORGE-VR visa o desenvolvimento de uma linha de produtos de software (SPL) para jogos sérios de realidade virtual (VRSGs), voltados ao ensino de física, especificamente conceitos de mecânica newtoniana como cinemática e movimento parabólico. A metodologia envolve a criação de jogos modulares, adaptáveis e personalizados, utilizando práticas de design participativo para assegurar alinhamento pedagógico e engajamento dos usuários. A SPL permitirá reduzir custos e tempo de desenvolvimento, além de ampliar o alcance educacional dos jogos. Espera-se validar a eficácia da SPL por meio de testes com alunos e análises qualitativas e quantitativas. O impacto educacional será avaliado com base na retenção de conhecimento e engajamento dos estudantes.
+
+:::
+
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Desenvolvimento e implementação de um pêndulo de Foucault para espaços pequenos de aprendizagem não-formal 
+
+Pesquisador principal: Prof. Vitor R. Coluci e [Prof. Dr. João Teles de Carvalho Neto](ttp://lattes.cnpq.br/8622059450756991)
+
+O projeto visa a construção de um pêndulo de Foucault para ser exibido em espaços de aprendizagem não-formal pequenos. A construção deve permitir acompanhar o movimento pendular em tempo real pela internet. Esse projeto faz parte das atividades do projeto [ObseRVe](https://observe.ufscar.br), reealizado junto com a Universidade Federal de São Carlos/Campus Araras. Detalhes do projeto podem ser vistos [aqui](https://explora.ft.unicamp.br/acervo/itens/14_foucault/foucault.html).
+
+:::
+
+
+
+::: {.callout-caution collapse="true" icon=false appearance="simple"}
+## Determinação do *bandgap* utilizando experimento de baixo custo
+
+Pesquisador principal: Guilherme Ribeiro Guimarães
+Colaboração: Prof. Vitor R. Coluci,  [Prof. Dr. Yuri Alexandre Meyer](http://lattes.cnpq.br/6762413219545616) e [Profa. Dra. Talía Simões dos Santos Ximenes](http://lattes.cnpq.br/8764055579040640)
+
+O projeto visa construir uma montagem experimental que permita obter o comportamento da resistência de um resistor denpendente de luz (LDR) em função da energia da luz incidente e, a partir dele, o valor da banda de energia proibidade (*bandgap*) do semicondutor usado no LDR. 
+:::

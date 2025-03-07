@@ -15,15 +15,15 @@ website:
     left:     
       - href: research/research.qmd
         text: Pesquisa 
-      - href: publications/publications.qmd
-        text: Publicações
       - href: teaching/teaching.qmd
         text: Ensino
       - href: outreach/outreach.qmd
         text: Extensão
+      - href: publications/publications.qmd
+        text: Publicações
       - href: facilities/facilities.qmd
         text: Infra-estrutura
-      - href: people/peopele.qmd
+      - href: people/people.qmd
         text: Equipe
   page-footer:
     "Prof. Vitor R. Coluci 2025 - FT/UNICAMP/Limeira"
