@@ -1,9 +1,0 @@
----
-title: "Remove unnecessary words"
-h5p-folder: 12_eliminate_words
-format:
-    html: 
-      include-in-header: ../../h5p/h5p-header.html
----
-
-{{< include "../../h5p/h5p-body.html" >}}

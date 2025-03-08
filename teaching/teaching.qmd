@@ -20,12 +20,12 @@ Essas são as disciplinas que tenho lecionado.
 
 **PÓS-GRADUAÇÃO**
 
-- Pesquissa Científica
+- Pesquisa Científica
 - [Escrita Acadêmica](../sci-writing/sci-writing.qmd)
 - Ciência dos Materiais
 - Modelagem computacional de Materiais
 
-Algumas aprsentações voltadas para o Ensino podem ser vistas a seguir:
+Algumas apresentações voltadas para o Ensino podem ser vistas a seguir:
 
 - *Erros e acertos em tentativas de melhoria do ensino de Física e Matemática* ([1/9/23, IMEEC/Campinas](https://www.youtube.com/watch?v=nszAKwOboM4)), apresentada no ciclo de palestras do ReME – Repositório de Metodologias para o Ensino do Instituto de Matemática, Estatística e Computação Científica/UNICAMP
 

@@ -2,28 +2,28 @@
 title: "Extensão"
 ---
 
-# [Explora](https://explora.ft.unicamp.br)
+# [{{< var tipo.explora >}}](https://explora.ft.unicamp.br)
 
 ::: {.centerText}
-![Alunos do Cursinho Colmeia vendo uma [apresentação sobre topografia](https://explora.ft.unicamp.br/atividades/posts/41_visita_colmeia_brasil_03_06_24/visita_colmeia_03_06_24.html) em 3/6/24.](explora.jpeg){width=45%}
+![Alunos do Cursinho Colmeia vendo uma [apresentação sobre topografia](https://explora.ft.unicamp.br/atividades/posts/41_visita_colmeia_brasil_03_06_24/visita_colmeia_03_06_24.html) em 3/6/24.](explora.jpeg){width=60%}
 :::
 
 
-Projeto para divulgar a Ciência por meio de atividades e demonstrações de fenômenos físicos. O projeto usa o espaço de Ensino e Aprendizagem [Explora](https://explora.ft.unicamp.br)  para realizar essas atividades, que podem ser vistas [aqui](https://explora.ft.unicamp.br/atividades/atividades.html).
+Projeto para divulgar a Ciência por meio de atividades e demonstrações de fenômenos físicos. O projeto usa o espaço de Ensino e Aprendizagem [{{< var tipo.explora >}}](https://explora.ft.unicamp.br) para realizar essas atividades, que podem ser vistas [aqui](https://explora.ft.unicamp.br/atividades/atividades.html).
 
 ---
 
 # [ObseRVe](https://observe.ufscar.br)
 ::: {.centerText}
-![[Observação](https://observe.ufscar.br/blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html) do cometa Pons-Brooks no dia 21/04/24 no Observatório a olho nu da UFSCar/Araras. ](observe.jpg){width=45%}
+![[Observação](https://observe.ufscar.br/blog/posts/pons-brooks_21_04_24/pons-brooks_21_04_24.html) do cometa Pons-Brooks no dia 21/04/24 no Observatório a olho nu da UFSCar/Araras. ](observe.jpg){width=60%}
 :::
 
- Projeto para divulgação e ensino da astronimia realizado em colaboração com a Universidade Federal de São Carlos/ Campus Araras. 
+ Projeto para divulgação e ensino da astronomia realizado em colaboração com a Universidade Federal de São Carlos/ Campus Araras. 
 
 ---
 # [Musicalizando](./musicalizando/musicalizando.qmd)
 ::: {.centerText}
-![Apresentação realizada em 12/12/2024 na Faculdade de Ciências Aplicadas durante o encerramento do Programa UniversIDADE de 2024.](musicalizando.jpg){width=45%}
+![Apresentação realizada em 12/12/2024 na Faculdade de Ciências Aplicadas durante o encerramento do Programa UniversIDADE de 2024.](musicalizando.jpg){width=60%}
 :::
 
-Projeto voltado para alunos com 50+ dentro do Programa UniversIDADE da UNICAMP com o objetivo de trabalhar diversos aspectos da música, estimulando a realização musical coletiva e a interação social dos participantes. O projeto também visa auxiliar na prevenção do declínio cognitivo resultante do envelhecimento e na redução de sintomas de depressão e de ansiedade. 
+Projeto voltado para alunos com 50 anos ou mais dentro do Programa UniversIDADE da UNICAMP com o objetivo de trabalhar diversos aspectos da música, estimulando a realização musical coletiva e a interação social. O projeto também visa auxiliar na prevenção do declínio cognitivo resultante do envelhecimento e na redução de sintomas de depressão e de ansiedade. 
