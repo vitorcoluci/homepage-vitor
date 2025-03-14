@@ -87,3 +87,12 @@ Colaboração: Prof. Vitor R. Coluci,  [Prof. Dr. Yuri Alexandre Meyer](http://l
 
 O projeto visa construir uma montagem experimental que permita obter o comportamento da resistência de um resistor denpendente de luz (LDR) em função da energia da luz incidente e, a partir dele, o valor da banda de energia proibidade (*bandgap*) do semicondutor usado no LDR. 
 :::
+
+# Vídeo de divulgação
+
+::: {#fig-1}
+
+{{< video https://www.youtube.com/watch?v=Rc8abBkuWtU >}}
+
+Vídeo produzido em 2022 pela Secretaria de Pesquisa da Faculdade de Tecnologia que mostra um pouco dos projetos que venho trabalhando.
+:::
