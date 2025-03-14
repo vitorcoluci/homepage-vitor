@@ -4,10 +4,9 @@ project:
   preview: 
     port: 4321
   resources:
-    - "*.mp3"
     - /h5p
     - /sci-writing/material-FT081
-  
+    
  
 website:
   title: "Prof. Vitor R. Coluci"
