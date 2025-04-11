@@ -18,7 +18,7 @@
 ![](vitor_coluci.jpg){width=20%}
 :::
 
-Sou professor titular da UNICAMP e trabalho na [Faculdade de Tecnologia](http://www.ft.unicamp.br) ([Campus I UNICAMP/Limeira](./institucional/localizacao.qmd)). Sou físico de formação (e de coração) tendo obtido minha formação (graduação, mestrado e doutorado) no Instituto de Física Gleb Wataghin/UNICAMP e na University of Texas/Dallas. Pesquiso propriedades de materiais usando técnicas de física e química computacional e também desenvolvo montagens experimentais que visam facilitar o ensino de Física.
+Sou professor titular da UNICAMP e trabalho na [Faculdade de Tecnologia](http://www.ft.unicamp.br) Campus I UNICAMP/Limeira. Sou físico de formação (e de coração) tendo obtido minha formação (graduação, mestrado e doutorado) no Instituto de Física Gleb Wataghin/UNICAMP e na University of Texas/Dallas. Pesquiso propriedades de materiais usando técnicas de física e química computacional e também desenvolvo montagens experimentais que visam facilitar o ensino de Física.
 
 [Lattes](http://lattes.cnpq.br/5495322642019035) 
 

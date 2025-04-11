@@ -56,11 +56,11 @@
     "text": "Former visiting scientists\n\nProf. Marcos Dionízio Moreira"
   },
   {
-    "objectID": "institucional/localizacao.html",
-    "href": "institucional/localizacao.html",
-    "title": "Faculdade de Tecnologia",
+    "objectID": "teaching/teaching-EN.html",
+    "href": "teaching/teaching-EN.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Make this Notebook Trusted to load map: File -&gt; Trust Notebook\n\n\nFaculdade de Tecnologia/UNICAMP, Rua Paschoal Marmo, 188 Jardim Nova Itália - Limeira-SP-BR"
+    "text": "“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”\nAlbert Einstein (1879–1955)\n\nI have taught the following courses for undergraduate and graduate students.\nUNDERGRADUATE\n\nLinear Algebra and Analytical Geometry\nNumerical Calculus\nPhysics (Mechanics)\nPhysics (Waves, Thermodynamics and Fluids)\n\nGRADUATE\n\nMethodology for Scientific Reseach\nScientific Writing\nMateriais Science\nComputational Modeling of Materials\n\nPhysics Education\nI am also interested in Physics Education. I believe that students interacting with real experiments and working with experimental data can achieve a better understanding of physical concepts. “Hands-on” experiments, either using it or developing it, provide an interesting teaching and learning framework. Therefore, I have worked on designing experiments and demonstrations based on recent technologies (e.g. Arduino) to be used in class to illustrate physical concepts. Here in the School of Technology/UNICAMP, the experiments/demonstrations are developed by undergraduate students using the Laboratory of Instrumentation for Teaching (LIE in Portuguese) facilities."
   },
   {
     "objectID": "teaching/teaching.html",
@@ -130,14 +130,14 @@
     "href": "index.html",
     "title": "Prof. Vitor R. Coluci",
     "section": "",
-    "text": "Sou professor titular da UNICAMP e trabalho na Faculdade de Tecnologia (Campus I UNICAMP/Limeira). Sou físico de formação (e de coração) tendo obtido minha formação (graduação, mestrado e doutorado) no Instituto de Física Gleb Wataghin/UNICAMP e na University of Texas/Dallas. Pesquiso propriedades de materiais usando técnicas de física e química computacional e também desenvolvo montagens experimentais que visam facilitar o ensino de Física.\nLattes\nGoogle Scholar\nResearch ID\nORCID"
+    "text": "Sou professor titular da UNICAMP e trabalho na Faculdade de Tecnologia Campus I UNICAMP/Limeira. Sou físico de formação (e de coração) tendo obtido minha formação (graduação, mestrado e doutorado) no Instituto de Física Gleb Wataghin/UNICAMP e na University of Texas/Dallas. Pesquiso propriedades de materiais usando técnicas de física e química computacional e também desenvolvo montagens experimentais que visam facilitar o ensino de Física.\nLattes\nGoogle Scholar\nResearch ID\nORCID"
   },
   {
-    "objectID": "teaching/teaching-EN.html",
-    "href": "teaching/teaching-EN.html",
-    "title": "Teaching",
+    "objectID": "teaching/GA/GA.html",
+    "href": "teaching/GA/GA.html",
+    "title": "Geometria Analítica e Álgebra Linear",
     "section": "",
-    "text": "“It is the supreme art of the teacher to awaken joy in creative expression and knowledge.”\nAlbert Einstein (1879–1955)\n\nI have taught the following courses for undergraduate and graduate students.\nUNDERGRADUATE\n\nLinear Algebra and Analytical Geometry\nNumerical Calculus\nPhysics (Mechanics)\nPhysics (Waves, Thermodynamics and Fluids)\n\nGRADUATE\n\nMethodology for Scientific Reseach\nScientific Writing\nMateriais Science\nComputational Modeling of Materials\n\nPhysics Education\nI am also interested in Physics Education. I believe that students interacting with real experiments and working with experimental data can achieve a better understanding of physical concepts. “Hands-on” experiments, either using it or developing it, provide an interesting teaching and learning framework. Therefore, I have worked on designing experiments and demonstrations based on recent technologies (e.g. Arduino) to be used in class to illustrate physical concepts. Here in the School of Technology/UNICAMP, the experiments/demonstrations are developed by undergraduate students using the Laboratory of Instrumentation for Teaching (LIE in Portuguese) facilities."
+    "text": "Aplicativo para informar as respostas das provas\nEsse aplicativo foi desenvolvido pelo Prof. Ulisses Martins Dias e permite que o aluno informe as respostas obtidas nas provas da disciplina, após a leitura de um QR code, e as envia para um banco de dados para a futura correção.\nAté o momento, o aplicativo pode ser executado apenas em dispositivos com Android.\nClique aqui para proceder com o o Download do aplicativo."
   },
   {
     "objectID": "people/people.html#estudantes-atuais",
@@ -180,12 +180,5 @@
     "title": "Facilities",
     "section": "",
     "text": "I coordinate the following laboratories:\n\nResearch lab Lascado\nTeaching and outreach lab Explora\nResearch lab in Physics Education LIE"
-  },
-  {
-    "objectID": "teaching/GA/GA.html",
-    "href": "teaching/GA/GA.html",
-    "title": "Geometria Analítica e Álgebra Linear",
-    "section": "",
-    "text": "Aplicativo para informar as respostas das provas\nEsse aplicativo foi desenvolvido pelo Prof. Ulisses Martins Dias e permite que o aluno informe as respostas obtidas nas provas da disciplina, após a leitura de um QR code, e as envia para um banco de dados para a futura correção.\nAté o momento, o aplicativo pode ser executado apenas em dispositivos com Android.\nClique aqui para proceder com o o Download do aplicativo."
   }
 ]
