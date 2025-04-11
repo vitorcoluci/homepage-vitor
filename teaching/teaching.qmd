@@ -13,7 +13,7 @@ Essas são as disciplinas que tenho lecionado.
 
 **GRADUAÇÃO**
 
-- Geometria Analítica e Álgebra Linear
+- [Geometria Analítica e Álgebra Linear](./GA/GA.qmd)
 - Cálculo Numérico
 - Física (Mecânica)
 - Física (Ondas, Fluidos, Termodinâmica)
