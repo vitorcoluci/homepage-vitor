@@ -14,6 +14,9 @@ Projeto voltado para alunos com 50+ dentro do [Programa UniversIDADE](https://ww
 
 ---
 
+
+
+
 A primeira oficina foi realizada durante o 2S/2024. Foram 15 encontros com aulas sobre o violino, sobre o piano e sobre a [ópera Turandot](https://pt.wikipedia.org/wiki/Turandot). Além das aulas, foram trabalhadas algumas músicas e realizados ensaios de músicas de diferentes estilos musicais. Esse primeiro oferecimento teve como instrutores o Prof. Yuri Meyer da FT ao violino e o mestrando Luis Felipe Nicoletto de Souza ao piano. 
 
 ::: {#fig-0}
@@ -23,6 +26,12 @@ A primeira oficina foi realizada durante o 2S/2024. Foram 15 encontros com aulas
 Vídeo que resume as atividades realizadas no primeiro oferecimento do Musicalizando.
 
 :::
+
+
+::: {.centerText}
+![Apresentação realizada em 12/12/2024 na Faculdade de Ciências Aplicadas durante o encerramento do Programa UniversIDADE de 2024.](../musicalizando.jpg){width=40%}
+:::
+
 
 Os ensaios permitiram que fosse feita uma apresentação musical durante o encerramento do Programa UniversIDADE de 2024. A apresentação pode ser conferida a seguir. 
 

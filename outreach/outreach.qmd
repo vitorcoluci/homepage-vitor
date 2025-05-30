@@ -22,8 +22,9 @@ Projeto para divulgar a Ciência por meio de atividades e demonstrações de fen
 
 ---
 # [Musicalizando](./musicalizando/musicalizando.qmd)
+
 ::: {.centerText}
-![Apresentação realizada em 12/12/2024 na Faculdade de Ciências Aplicadas durante o encerramento do Programa UniversIDADE de 2024.](musicalizando.jpg){width=60%}
+![](./musicalizando/musicalizando.png){width=80%}
 :::
 
 Projeto voltado para alunos com 50 anos ou mais dentro do Programa UniversIDADE da UNICAMP com o objetivo de trabalhar diversos aspectos da música, estimulando a realização musical coletiva e a interação social. O projeto também visa auxiliar na prevenção do declínio cognitivo resultante do envelhecimento e na redução de sintomas de depressão e de ansiedade. 
