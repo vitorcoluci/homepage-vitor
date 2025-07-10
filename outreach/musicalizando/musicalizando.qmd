@@ -14,8 +14,7 @@ Projeto voltado para alunos com 50+ dentro do [Programa UniversIDADE](https://ww
 
 ---
 
-
-
+# 2S/2024
 
 A primeira oficina foi realizada durante o 2S/2024. Foram 15 encontros com aulas sobre o violino, sobre o piano e sobre a [ópera Turandot](https://pt.wikipedia.org/wiki/Turandot). Além das aulas, foram trabalhadas algumas músicas e realizados ensaios de músicas de diferentes estilos musicais. Esse primeiro oferecimento teve como instrutores o Prof. Yuri Meyer da FT ao violino e o mestrando Luis Felipe Nicoletto de Souza ao piano. 
 
@@ -29,9 +28,8 @@ Vídeo que resume as atividades realizadas no primeiro oferecimento do Musicaliz
 
 
 ::: {.centerText}
-![Apresentação realizada em 12/12/2024 na Faculdade de Ciências Aplicadas durante o encerramento do Programa UniversIDADE de 2024.](../musicalizando.jpg){width=40%}
+![Turma do 2S/2024.](../musicalizando.jpg){width=50%}
 :::
-
 
 Os ensaios permitiram que fosse feita uma apresentação musical durante o encerramento do Programa UniversIDADE de 2024. A apresentação pode ser conferida a seguir. 
 
@@ -45,4 +43,30 @@ Apresentação realizada em 12/12/2024 na Faculdade de Ciências Aplicadas duran
 
 ---
 
-A segunda oficina está sendo realizada durante o 1S/2025. Nos encontros estão sendo trabalhadas músicas dos estilos de seresta, forró e sertanejo raiz. No segundo oferecimento estão participando como instrutores o Prof. Marco Antonio Garcia de Carvalho na percussão com o cajón, a Profa. Juliana Bueno no canto e violão e o mestrando Luis Felipe Nicoletto de Souza ao piano. 
+# 1S/2025
+
+A segunda oficina foi realizada durante o 1S/2025. Nos encontros foram trabalhadas músicas dos estilos de choro/seresta, forró, sertanejo raiz e rock. Participaram como instrutores o Prof. Marco Antonio Garcia de Carvalho na voz e percussão, a Profa. Juliana Bueno na voz e violão. 
+
+::: {.centerText}
+![Turma do 1S/2025.
+](foto-grupo.jpg){width=50%}
+:::
+
+
+Realizamos uma apresentação no dia 7/Jul/2025 na Faculdade de Tecnolgia, durante o encerramento das atividades do semestre do Programa UniversIDADE. 
+
+::: {.centerText}
+![Grupo durante ensaio para a apresentação.
+](ensaio-dia.jpeg){width=30%}
+:::
+
+
+Na apresentação, foram cantadas as músicas *Prelúdio* de Raul Seixas, *Asa branca* e *Xote das meninas* de Luiz Gonzaga, *Tristeza do Jeca* de Angelino de Oliveira, *Saudade da minha terra* de Gerson Coutinho da Silva e Pascoal Todarello, *Lua Branca* de Chiquinha Gonzaga, *Carinhoso* de Pixinguinha e *É preciso saber viver* de Roberto Carlos e Erasmo Carlos. Entre as músicas, apresentamos informações sobre as músicas e sobre os períodos modernista e pré-modernista, que tanto influenciaram os estilos das músicas apresentadas.
+
+::: {#fig-2}
+
+{{< video https://youtu.be/MVbJt97OPXs >}}
+
+Apresentação realizada em 7/7/2025 na Faculdade de Tecnologia durante o encerramento do Programa UniversIDADE do 1S/2025.
+
+:::
