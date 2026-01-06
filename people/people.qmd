@@ -18,7 +18,7 @@ title: Equipe
 
 ### Iniciação Científica
 
-- Maria Eduarda Bertole
+- Gabriel Matheus Pereira Dos Santos
 
 - Lucas De Oliveira Lopes Cardoso
 
@@ -27,10 +27,6 @@ title: Equipe
 - Guilherme Bonadio de Lima
 
 - Victor Valentim Bergamasco
-
-- Amanda Greyce De Sales
-
-- Guilherme Ribeiro Magalhães
 
 ---
 

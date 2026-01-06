@@ -70,3 +70,53 @@ Na apresentação, foram cantadas as músicas *Prelúdio* de Raul Seixas, *Asa b
 Apresentação realizada em 7/7/2025 na Faculdade de Tecnologia durante o encerramento do Programa UniversIDADE do 1S/2025.
 
 :::
+
+# 2S/2025
+
+A terceira oficina foi realizada durante o 2S/2025. Nos encontros foram trabalhadas músicas dos estilos de sertanejo raiz, forró, e rock. Participaram como instrutores o Prof. Marco Antonio Garcia de Carvalho na voz e percussão, a Profa. Juliana Bueno na voz e violão. 
+
+::: {.centerText}
+![Turma do 2S/2025.
+](foto-grupo.jpg){width=50%}
+:::
+
+Realizamos uma apresentação no dia 16/outubro/2025 durante a [I Mostra de Extensão da FT](https://www.ft.unicamp.br/pt-br/noticias/i-workshop-de-tend%C3%AAncias-e-inova%C3%A7%C3%A3o-em-pesquisa-e-p%C3%B3s-gradua%C3%A7%C3%A3o-i-mostra-de-extens%C3%A3o).
+
+::: {#fig-1}
+
+{{< video video-musicalizando-I-mostra-extensao.mp4 >}}
+
+Apresentação realizada em 16/outubro/2025 durante a I Mostra de Extensão da FT.
+
+:::
+
+Realizamos também uma apresentação no dia 11/Dezembro/2025 na ATAPIL em Limeira, durante o encerramento das atividades do semestre do Programa UniversIDADE. 
+
+::: {.centerText}
+![Grupo durante ensaio para a apresentação.
+](ensaio-dia.jpeg){width=30%}
+:::
+
+Na apresentação, foram cantadas as músicas *É preciso saber viver* de Roberto Carlos e Erasmo Carlos, *Asa branca*, *Xote das meninas* e *Luar do sertão* de Luiz Gonzaga, *Tocando em frente* de Almir Sater, *Rindo à toa* do Falamansa e *Natal todo dia* do conjunto Roupa Nova.
+
+
+::: {.centerText}
+![Apresentação de fim de ano na ATAPIL.
+](foto-ATAPIL-Dez-2025.jpeg){width=30%}
+:::
+
+
+::: {#fig-2}
+
+{{< video https://youtu.be/MVbJt97OPXs >}}
+
+Apresentação realizada em 7/7/2025 na Faculdade de Tecnologia durante o encerramento do Programa UniversIDADE do 1S/2025.
+
+:::
+
+Neste oferecimento, os instrutores receberam do grupo um lindo presente de Natal!
+
+::: {.centerText}
+![Os instrutores recebendo um caixa com panetones.
+](foto-presente-natal-2025.jpeg){width=30%}
+:::
