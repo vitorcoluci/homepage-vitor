@@ -76,47 +76,54 @@ Apresentação realizada em 7/7/2025 na Faculdade de Tecnologia durante o encerr
 A terceira oficina foi realizada durante o 2S/2025. Nos encontros foram trabalhadas músicas dos estilos de sertanejo raiz, forró, e rock. Participaram como instrutores o Prof. Marco Antonio Garcia de Carvalho na voz e percussão, a Profa. Juliana Bueno na voz e violão. 
 
 ::: {.centerText}
-![Turma do 2S/2025.
-](foto-grupo.jpg){width=50%}
+![Parte da turma do 2S/2025.
+](turma-2S-2025.jpeg){width=70%}
 :::
 
-Realizamos uma apresentação no dia 16/outubro/2025 durante a [I Mostra de Extensão da FT](https://www.ft.unicamp.br/pt-br/noticias/i-workshop-de-tend%C3%AAncias-e-inova%C3%A7%C3%A3o-em-pesquisa-e-p%C3%B3s-gradua%C3%A7%C3%A3o-i-mostra-de-extens%C3%A3o).
+Realizamos uma apresentação no dia 16/outubro/2025 durante a [I Mostra de Extensão da FT](https://www.ft.unicamp.br/pt-br/noticias/i-workshop-de-tend%C3%AAncias-e-inova%C3%A7%C3%A3o-em-pesquisa-e-p%C3%B3s-gradua%C3%A7%C3%A3o-i-mostra-de-extens%C3%A3o), onde também foi apresentado um poster do projeto.
 
-::: {#fig-1}
 
-{{< video video-musicalizando-I-mostra-extensao.mp4 >}}
+::: {.centerText}
+![Poster do projeto Musicalizando apresentado na I Mostra de Extensão da FT.
+](poster-I-mostra-extensao-FT.jpeg){width=60%}
+:::
+
+
+::: {#fig-mostra layout-ncol=3}
+
+![](foto1-I-mostra-extensao-2025.jpg)
+
+![](foto2-I-mostra-extensao-2025.jpg)
+
+![](foto3-I-mostra-extensao-2025.jpg)
 
 Apresentação realizada em 16/outubro/2025 durante a I Mostra de Extensão da FT.
-
 :::
 
 Realizamos também uma apresentação no dia 11/Dezembro/2025 na ATAPIL em Limeira, durante o encerramento das atividades do semestre do Programa UniversIDADE. 
 
-::: {.centerText}
-![Grupo durante ensaio para a apresentação.
-](ensaio-dia.jpeg){width=30%}
-:::
-
 Na apresentação, foram cantadas as músicas *É preciso saber viver* de Roberto Carlos e Erasmo Carlos, *Asa branca*, *Xote das meninas* e *Luar do sertão* de Luiz Gonzaga, *Tocando em frente* de Almir Sater, *Rindo à toa* do Falamansa e *Natal todo dia* do conjunto Roupa Nova.
-
 
 ::: {.centerText}
 ![Apresentação de fim de ano na ATAPIL.
-](foto-ATAPIL-Dez-2025.jpeg){width=30%}
+](foto-ATAPIL-Dez-2025.jpeg){width=90%}
 :::
 
-
-::: {#fig-2}
-
-{{< video https://youtu.be/MVbJt97OPXs >}}
-
-Apresentação realizada em 7/7/2025 na Faculdade de Tecnologia durante o encerramento do Programa UniversIDADE do 1S/2025.
-
-:::
 
 Neste oferecimento, os instrutores receberam do grupo um lindo presente de Natal!
 
 ::: {.centerText}
-![Os instrutores recebendo um caixa com panetones.
-](foto-presente-natal-2025.jpeg){width=30%}
+![Os instrutores recebendo uma caixa com panetones.
+](foto-presente-natal-2025.jpeg){width=50%}
+:::
+
+No segundo semestre de 2025 fomos contemplados com recursos da Pró-reitoria de Extensão da Unicamp que foram usados para adquirir instumentos musicais de percussão, caixa amplificadora e estandes para partitura. Esses instrumentos serão usados nos encontros de 2026.
+
+::: {#fig-instrumentos layout-ncol=2}
+
+![](instrumentos-1.jpeg)
+
+![](instrumentos-2.jpeg)
+
+Instrumentos adquiridos para uso dos participantes do projeto.
 :::
