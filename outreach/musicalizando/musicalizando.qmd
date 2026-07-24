@@ -127,3 +127,58 @@ No segundo semestre de 2025 fomos contemplados com recursos da Pró-reitoria de 
 
 Instrumentos adquiridos para uso dos participantes do projeto.
 :::
+
+
+# 1S/2026
+
+A quarta oficina foi realizada durante o 1S/2026. Participaram como instrutores o Prof. Marco Antonio Garcia de Carvalho na voz e percussão, a Profa. Juliana Bueno na voz e violão, a aluna Izabela Santos na voz e teclado e o servidor Luiz Manoel da Silva na voz e violão. Nos encontros foram trabalhadas músicas dos estilos de samba, pagode e forró, onde os participantes puderam usar os instrumentos do projeto. As músicas trabalhadas foram *Asa branca* e *Xote das meninas* de Luiz Gonzaga, *Esperando na Janela* d e Gilberto Gil, *Essa tal liberdade* do Só para contrariar, *Anunciação* de Alceu Valença, e *Não deixa o samba morrer* de Alcione. Tivemos também um aula sobre voz proferida pelo Luiz Manoel e também aulas sobre ritmo.
+
+::: {.centerText}
+![Parte da turma do 1S/2026.
+](musicalizando-1-1s-26.jpeg){width=90%}
+:::
+
+Num dos encontros, tivemos a ilustre participação do grupo de choro "Reminiscências" do [Clube de Choro de Limeira](https://www.youtube.com/@clubedochorodelimeira).
+
+::: {#fig-choro layout-ncol=2}
+
+![](choro-1-1s-26.jpg)
+
+![](choro-2-1s-26.jpg)
+
+Apresentação e aula sobre o estilo musical *Choro* dentro do projeto Musicalizando em 12/5/2026.
+:::
+
+::: {#fig-video-choro-1 }
+
+{{< video choro-video-1s-26.mp4  width="240%" >}}
+
+Música *Brasileirinho* de Waldir Azevedo apresentada pelo grupo de choro "Reminiscências".
+
+:::
+
+
+::: {#fig-video-choro-2}
+
+{{< video choro-video-2-1s-26.mp4 >}}
+
+Outro choro executado pelo grupo "Reminiscências".
+
+:::
+
+Nesse semestre tivemos ainda a visita da TV Unicamp, que produziu uma reportagem sobre o Musicalizando. A reportagem contou um pouco sobre o projeto e mostrou como a música pode trazer benefícios sociais e cognitivos para as pessoas com 50 anos de idade ou mais, promovendo a socialização e estimulando a memória.
+
+::: {#fig-reportagem-Tv-unicamp}
+
+{{< video https://www.youtube.com/watch?v=fwiytFiYVE8 >}}
+
+Reportagem *"*Música promove convivência e aprendizado para pessoas com mais de 50 anos*"* produzida pela TV Unicamp (23/6/2026) sobre o Musicalizando.
+
+:::
+
+Como encerramento do projeto, tivemos um encontro movido a salgadinhos, doces, bebida e muita música !
+
+::: {.centerText}
+![Encontro de fechamento das atividades do 1S/2026..
+](musicalizando-2-1s-26.jpg){width=70%}
+:::
