@@ -3,11 +3,11 @@ title: "O Xote das Meninas (Mandacaru)"
 subtitle: "Marisa Monte"
 page-layout: full
 filters:
-  - ./chords.lua
+  - chords.lua
 format:
   html:
     css:
-      - ./cifras.css
+      - cifras.css
 ---
 
 **Tom:** G
