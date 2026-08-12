@@ -1,0 +1,79 @@
+/* cifras.css
+   Estilo para os blocos .chordpro gerados por chords.lua.
+   A posição dos acordes é determinada pelo fluxo real do texto,
+   então funciona com fontes proporcionais.
+*/
+
+.chordpro {
+  font-size: clamp(1.4rem, 1.05rem + 1.5vw, 2.65rem);
+  line-height: 1.15;
+
+  /* Usa a mesma fonte do site para a letra. */
+  font-family: inherit;
+
+  margin: 1rem 0 2rem 0;
+  padding: 0;
+
+  /* Em telas muito estreitas, preserva a cifra em vez de quebrar
+     a linha e perder a correspondência acorde/letra. */
+  overflow-x: auto;
+  overflow-y: visible;
+  scrollbar-width: thin;
+}
+
+.chordpro-line {
+  white-space: pre;
+  width: max-content;
+  min-width: 100%;
+  margin: 0 0 0.42em 0;
+  line-height: 1.15;
+}
+
+/* Cada trecho da letra começa exatamente no ponto onde seu acorde entra. */
+.chordpro-segment {
+  display: inline-block;
+  position: relative;
+  vertical-align: bottom;
+
+  /* Reserva a faixa superior para o acorde. */
+  padding-top: 1.05em;
+}
+
+.chordpro-chord {
+  position: absolute;
+  left: 0;
+  top: 0;
+
+  font-family: inherit;
+  font-size: 0.92em;
+  font-weight: 800;
+  line-height: 1;
+  white-space: nowrap;
+
+  color: var(--bs-orange, #f57c00);
+}
+
+.chordpro-lyric {
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.15;
+  white-space: pre;
+}
+
+.chordpro-spacer {
+  height: 0.45em;
+}
+
+@media (max-width: 700px) {
+  .chordpro {
+    font-size: clamp(1.25rem, 0.95rem + 1.7vw, 1.65rem);
+  }
+}
+
+@media print {
+  .chordpro {
+    font-size: 17pt;
+    overflow: visible;
+  }
+}

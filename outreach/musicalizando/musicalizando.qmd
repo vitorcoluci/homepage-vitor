@@ -182,3 +182,6 @@ Como encerramento do projeto, tivemos um encontro movido a salgadinhos, doces, b
 ![Encontro de fechamento das atividades do 1S/2026..
 ](musicalizando-2-1s-26.jpg){width=70%}
 :::
+
+
+[Músicas](./musicas.qmd)

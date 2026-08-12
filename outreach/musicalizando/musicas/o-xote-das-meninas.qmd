@@ -1,0 +1,51 @@
+---
+title: "O Xote das Meninas (Mandacaru)"
+subtitle: "Marisa Monte"
+page-layout: full
+filters:
+  - ./chords.lua
+format:
+  html:
+    css:
+      - ./cifras.css
+---
+
+**Tom:** G
+
+**Forma:** A → R → (B → R) 2x → C → R  
+**R:** 4x a cada entrada
+
+## A
+
+```{.chordpro}
+[G]Mandacaru quando [C]fulorá na [G]seca
+É um si[G7]ná que a chuva chega no sert[C]ão
+Toda menina que en[G]joa da boneca
+É sin[E7]al de que o a[A7]mor já che[D7]gou no cora[G]ção
+Meia [C]comprida não quer mais sapato [G]baixo
+[E7]Vestido bem [A7]cintado não quer mais [D7]vestir [G]gibão
+```
+
+## R
+
+```{.chordpro}
+Ela só [F#m7(5-)]quer só [B7]pensa em [Em]namorar
+```
+
+## B
+
+```{.chordpro}
+De manhã [Am7]cedo já [D7]tá [G]pintada
+Só vive [F#m7(5-)]suspirando [B7]sonhando [Em]acordada
+O pai leva ao [F#m7(5-)]doutor a [B7]filha [Em]adoentada
+Não come nem [F#m7(5-)]estuda, não [B7]dorme nem [Em]quer nada
+```
+
+## C
+
+```{.chordpro}
+Mas o [Am7]doutor [D7]nem [G]examina
+Chamando o pai do [F#m7(5-)]lado,        lhe [B7]diz logo em [Em]surdina
+Que o mal é da [F#m7(5-)]idade e que [B7]pra tal [Em]menina
+Não há um só [F#m7(5-)]remédio em [B7]toda [Em]medicina
+```
