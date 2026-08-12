@@ -36,8 +36,12 @@ format:
     theme:
       light: [flatly, light_mode.scss]
       dark: [darkly, dark_mode.scss]
-    css: styles.css
+    css: 
+       - styles.css
+       - outreach/musicalizando/musicas/cifras.css
     toc: true
+    filters:
+       - outreach/musicalizando/musicas/chords.lua
 
 
 
