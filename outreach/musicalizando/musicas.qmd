@@ -1,5 +1,11 @@
 ---
 title: "Músicas"
+filters:
+  - ./musicas/chords.lua
+format:
+  html:
+    css:
+      - ./musicas/cifras.css
 ---
 
 {{< include ./musicas/o-xote-das-meninas.qmd >}}
