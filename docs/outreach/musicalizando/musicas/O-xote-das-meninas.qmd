@@ -1,10 +1,12 @@
 ---
 title: "O Xote das Meninas (Mandacaru)"
 subtitle: "Marisa Monte"
-tom-base: G
 ---
 
+**Tom:** G
+
 ## Primeira parte
+
 ```{.chordpro}
 Mandaca[G]ru quando fu[D7]lorá na [G]seca
 É um si[G7]nal que a chuva chega no sert[C]ão
@@ -19,6 +21,7 @@ Não quer [D7]mais vestir ti[G]mão
 ```
 
 ## Refrão
+
 ```{.chordpro}
 Ela só [Am]quer só [B7]pensa em namo[Em]rar
 Ela só [Am]quer só [B7]pensa em namo[Em]rar

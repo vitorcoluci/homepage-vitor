@@ -1,40 +1,34 @@
 ---
 title: "Tristeza do Jeca"
 subtitle: "Tonico e Tinoco"
+tom-base: C
 ---
-
-**Tom:** D
-
-
-## A
-
+## Primeira parte
 ```{.chordpro}
-
-Solo
 Nestes versos tão singelos, Minha bela, meu amor
 Pra você quero contar, O meu sofrer, a minha dor
 Eu sou como o sabiá, Quando canta é só tristeza
 Desde o galho onde ele está
 Nesta viola eu canto e gemo de verdade
 Cada toada representa uma saudade
-Solo
+```
 
+## Segunda parte
+```{.chordpro}
 Eu nasci naquela serra, num ranchinho a beira-chão
 Tudo cheio de buraco, onde a Lua faz clarão
 Quando chega a madrugada, lá no mato a passarada
 Principia o barulhão
 Nesta viola eu canto e gemo de verdade
 Cada toada representa uma saudade
-Solo
+```
 
+## Terceira parte
+```{.chordpro}
 Vou guardar minha viola, já não posso mais cantar
 Pois o jeca quando canta, tem vontade de chorar
 E o choro que vai caindo, Devagar vai se sumindo
 Como as águas vão pro mar
 Nesta viola eu canto e gemo de verdade
 Cada toada representa uma saudade
-Solo
 ```
-
-
-

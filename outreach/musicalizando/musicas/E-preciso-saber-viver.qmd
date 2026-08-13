@@ -1,15 +1,10 @@
 ---
 title: "É preciso saber viver"
 subtitle: "Erasmo Carlos e Roberto Carlos"
+tom-base: E
 ---
 
-**Tom:** D
-
-
-## A
-
 ```{.chordpro}
-
 Quem espera que a vida
 Seja feita de ilusão
 Pode até ficar maluco
@@ -30,15 +25,16 @@ Você pode escolher
 É preciso saber viver
 É preciso saber viver
 Saber viver
-—---------------------------------- Repetir —------------------------------
 
-(Final) 2x
-
-É preciso saber viver (saber viver)
-É preciso saber viver (é preciso)
+É preciso saber viver
+É preciso saber viver
 É preciso saber viver
 Saber viver
 
+É preciso saber viver
+É preciso saber viver
+É preciso saber viver
+Saber viver
 ```
 
 

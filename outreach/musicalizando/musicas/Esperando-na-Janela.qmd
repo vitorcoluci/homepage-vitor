@@ -1,16 +1,10 @@
 ---
 title: "Esperando na Janela"
 subtitle: "Gilberto Gil"
+tom-base: E
 ---
 
-**Tom:** D
-
-
-## A
-
 ```{.chordpro}
-
-
 Ainda me lembro do seu caminhar
 Seu jeito de olhar, eu me lembro bem
 Fico querendo sentir o seu cheiro
@@ -24,14 +18,15 @@ Desses que o sujeito não pode aguentar, ah
 E esse aperto aumenta meu desejo
 Eu não vejo a hora de poder lhe falar
 
-Refrão
 Por isso eu vou na casa dela, ai, ai
 Falar do meu amor pra ela, vai
 Tá me esperando na janela, ai, ai
 Não sei se vou me segurar
 
-Refrão
-
+Por isso eu vou na casa dela, ai, ai
+Falar do meu amor pra ela, vai
+Tá me esperando na janela, ai, ai
+Não sei se vou me segurar
 ```
 
 

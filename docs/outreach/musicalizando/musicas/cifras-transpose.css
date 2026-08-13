@@ -1,0 +1,166 @@
+/* cifras-transpose-v1.css
+   Cifra grande + painel de tonalidade/capotraste.
+*/
+
+/* ---------- Painel de transposição ---------- */
+
+.transpose-panel {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 0.7rem 1rem;
+
+  width: fit-content;
+  max-width: 100%;
+
+  margin: 0.35rem 0 1.35rem 0;
+  padding: 0.75rem 0.9rem;
+
+  border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  border-radius: 0.5rem;
+
+  background: color-mix(in srgb, currentColor 4%, transparent);
+}
+
+.transpose-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.16rem;
+  margin: 0;
+}
+
+.transpose-label {
+  font-size: 0.78rem;
+  line-height: 1;
+  opacity: 0.72;
+}
+
+.transpose-base-key,
+.transpose-shape-key {
+  min-height: 2rem;
+  display: flex;
+  align-items: center;
+  font-size: 1.05rem;
+}
+
+.transpose-panel select,
+.transpose-reset {
+  min-height: 2rem;
+  padding: 0.2rem 0.55rem;
+  font: inherit;
+  font-size: 0.95rem;
+
+  border: 1px solid color-mix(in srgb, currentColor 28%, transparent);
+  border-radius: 0.35rem;
+
+  color: inherit;
+  background: var(--bs-body-bg, transparent);
+}
+
+.transpose-sound-key {
+  min-width: 6rem;
+}
+
+.transpose-capo {
+  min-width: 7rem;
+}
+
+.transpose-reset {
+  cursor: pointer;
+}
+
+.transpose-reset:hover {
+  background: color-mix(in srgb, currentColor 8%, transparent);
+}
+
+.transpose-panel-error {
+  display: block;
+  width: auto;
+  color: var(--bs-danger-text-emphasis, inherit);
+}
+
+/* ---------- Cifra ---------- */
+
+.chordpro {
+  font-size: clamp(1.4rem, 1.05rem + 1.5vw, 2.65rem);
+  line-height: 1.15;
+
+  font-family: inherit;
+
+  margin: 1rem 0 2rem 0;
+  padding: 0;
+
+  overflow-x: auto;
+  overflow-y: visible;
+  scrollbar-width: thin;
+}
+
+.chordpro-line {
+  white-space: pre;
+  width: max-content;
+  min-width: 100%;
+  margin: 0 0 0.42em 0;
+  line-height: 1.15;
+}
+
+.chordpro-segment {
+  display: inline-block;
+  position: relative;
+  vertical-align: bottom;
+  padding-top: 1.05em;
+}
+
+.chordpro-chord {
+  position: absolute;
+  left: 0;
+  top: 0;
+
+  font-family: inherit;
+  font-size: 0.92em;
+  font-weight: 800;
+  line-height: 1;
+  white-space: nowrap;
+
+  color: var(--bs-orange, #f57c00);
+}
+
+.chordpro-lyric {
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.15;
+  white-space: pre;
+}
+
+.chordpro-spacer {
+  height: 0.45em;
+}
+
+@media (max-width: 700px) {
+  .transpose-panel {
+    width: 100%;
+  }
+
+  .transpose-field {
+    flex: 1 1 8rem;
+  }
+
+  .transpose-reset {
+    flex: 0 0 auto;
+  }
+
+  .chordpro {
+    font-size: clamp(1.25rem, 0.95rem + 1.7vw, 1.65rem);
+  }
+}
+
+@media print {
+  .transpose-panel {
+    display: none;
+  }
+
+  .chordpro {
+    font-size: 17pt;
+    overflow: visible;
+  }
+}

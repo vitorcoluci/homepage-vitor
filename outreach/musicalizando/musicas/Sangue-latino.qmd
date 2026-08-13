@@ -1,9 +1,8 @@
 ---
 title: "Sangue Latino"
 subtitle: "Ney Matogrosso"
+tom-base: D
 ---
-
-**Tom:** D
 
 ## Introdução
 ```{.chordpro}

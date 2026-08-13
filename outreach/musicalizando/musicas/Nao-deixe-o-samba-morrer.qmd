@@ -1,17 +1,12 @@
 ---
 title: "Não deixe o samba morrer"
 subtitle: "Alcione"
+tom-base: Dm
 ---
-
-**Tom:** D
-
 
 ## A
 
 ```{.chordpro}
-
-
-(Sem Ritmo)
 Não deixe o samba morrer
 Não deixe o samba acabar
 O morro foi feito de samba
@@ -37,8 +32,4 @@ Não deixe o samba morrer
 Não deixe o samba acabar
 O morro foi feito de samba
 De Samba, pra gente sambar
-
 ```
-
-
-

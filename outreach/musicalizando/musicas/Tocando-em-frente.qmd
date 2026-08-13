@@ -1,17 +1,12 @@
 ---
 title: "Tocando em frente"
 subtitle: "Almir Sater"
+tom-base: D
 ---
 
-**Tom:** D
 
-
-## A
-
+## Primeira parte
 ```{.chordpro}
-
-Solo
-
 Ando devagar
 Porque já tive pressa
 E levo esse sorriso
@@ -22,8 +17,9 @@ Mais feliz, quem sabe
 Só levo a certeza
 De que muito pouco eu sei
 Ou nada sei
-
-Refrão
+```
+## Refrão
+```{.chordpro}
 Conhecer as manhas
 E as manhãs
 O sabor das massas
@@ -33,7 +29,9 @@ E das maçãs
 Pra poder pulsar
 É preciso paz pra poder sorrir
 É preciso a chuva para florir
-
+```
+## Segunda parte
+```{.chordpro}
 Penso que cumprir a vida
 Seja simplesmente
 Compreender a marcha
@@ -44,9 +42,12 @@ Levando a boiada
 Eu vou tocando os dias
 Pela longa estrada, eu vou
 Estrada eu sou
+```
 
-Refrão
+## Refrão
 
+## Terceira parte
+```{.chordpro}
 Todo mundo ama um dia
 Todo mundo chora
 Um dia a gente chega
@@ -55,11 +56,12 @@ Noutro vai embora
 Cada um de nós compõe a sua história
 E cada ser em si carrega o dom de ser capaz
 De ser feliz
+```
 
-Refrão
+## Refrão
 
-Solo 
-
+## Final
+```{.chordpro}
 Ando devagar
 Porque já tive pressa
 E levo esse sorriso
@@ -68,8 +70,4 @@ Porque já chorei demais
 Cada um de nós compõe a sua história
 E cada ser em si carrega o dom de ser capaz
 E ser feliz
-
 ```
-
-
-

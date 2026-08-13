@@ -1,9 +1,8 @@
 ---
 title: "Anna Julia"
 subtitle: "Los Hermanos"
+tom-base: C
 ---
-
-**Tom:** C
 
 ## Primeira parte
 

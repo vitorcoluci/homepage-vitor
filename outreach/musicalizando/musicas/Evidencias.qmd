@@ -1,12 +1,8 @@
 ---
 title: "Evidências"
 subtitle: "Chitãozinho e Xororó"
+tom-base: A
 ---
-
-**Tom:** C
-
-
-## A
 
 ```{.chordpro}
 [Intro] C  E  F  Dm  

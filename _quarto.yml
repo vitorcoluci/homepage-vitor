@@ -38,10 +38,10 @@ format:
       dark: [darkly, dark_mode.scss]
     css: 
        - styles.css
-       - outreach/musicalizando/musicas/cifras.css
+       - outreach/musicalizando/musicas/cifras-transpose.css
     toc: true
     filters:
-       - outreach/musicalizando/musicas/chords.lua
+       - outreach/musicalizando/musicas/chords-transpose.lua
 
 
 

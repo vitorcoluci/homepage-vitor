@@ -1,10 +1,8 @@
 ---
 title: "Pense em mim"
 subtitle: "Leandro e Leonardo"
+tom-base: G
 ---
-
-**Tom:** G
-
 
 ## Introdução 
 ```{.chordpro}

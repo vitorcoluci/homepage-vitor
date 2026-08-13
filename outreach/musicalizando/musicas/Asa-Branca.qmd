@@ -1,13 +1,8 @@
 ---
 title: "Asa Branca"
 subtitle: "Luiz Gonzaga"
+tom-base: G
 ---
-
-**Tom:** D
-
-
-## A
-
 ```{.chordpro}
 Quando olhei a terra ardendo
 Quá fogueira de São João
@@ -44,6 +39,3 @@ Que eu voltarei, viu, meu coração?
 Eu te asseguro, não chore não, viu?
 Que eu voltarei, viu, meu coração?
 ```
-
-
-

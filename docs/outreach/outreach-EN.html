@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Outreach – Prof.&nbsp;Vitor R. Coluci</title>
+<title>Prof.&nbsp;Vitor R. Coluci - Outreach</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,12 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-a226656e28d68112b3d67ecb95006866.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-adb83c838d67dc2d307358709ec46a8f.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
@@ -100,7 +100,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../styles.css">
-<link rel="stylesheet" href="../outreach/musicalizando/musicas/cifras.css">
+<link rel="stylesheet" href="../outreach/musicalizando/musicas/cifras-transpose.css">
 </head>
 
 <body class="nav-fixed">
@@ -115,7 +115,7 @@ window.Quarto = {
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -146,7 +146,7 @@ window.Quarto = {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+          <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -181,6 +181,11 @@ window.Quarto = {
 </header>
 
 
+<div class="transpose-panel transpose-panel-error">
+  <strong>Transposição:</strong>
+  defina <code>tom-base:</code> no YAML da música.
+</div>
+
 <div class="centerText">
 <p><img src="outreach.jpeg" class="img-fluid" style="width:40.0%"></p>
 </div>
@@ -189,6 +194,198 @@ window.Quarto = {
 <p><a href="http://lattes.cnpq.br/5495322642019035">Musicalizando</a></p>
 
 
+<script>
+(function () {
+  "use strict";
+
+  const NOTE_TO_PC = {
+    "C": 0, "C#": 1, "Db": 1,
+    "D": 2, "D#": 3, "Eb": 3,
+    "E": 4,
+    "F": 5, "F#": 6, "Gb": 6,
+    "G": 7, "G#": 8, "Ab": 8,
+    "A": 9, "A#": 10, "Bb": 10,
+    "B": 11
+  };
+
+  // Nomes preferidos para tonalidades maiores e menores.
+  // A grafia escolhida aqui também orienta a grafia dos acordes exibidos.
+  const MAJOR_KEYS = [
+    "C", "Db", "D", "Eb", "E", "F",
+    "F#", "G", "Ab", "A", "Bb", "B"
+  ];
+
+  const MINOR_KEYS = [
+    "Cm", "C#m", "Dm", "Ebm", "Em", "Fm",
+    "F#m", "Gm", "G#m", "Am", "Bbm", "Bm"
+  ];
+
+  const SHARP_NAMES = [
+    "C", "C#", "D", "D#", "E", "F",
+    "F#", "G", "G#", "A", "A#", "B"
+  ];
+
+  const FLAT_NAMES = [
+    "C", "Db", "D", "Eb", "E", "F",
+    "Gb", "G", "Ab", "A", "Bb", "B"
+  ];
+
+  function normalizeAccidentals(s) {
+    return String(s)
+      .replaceAll("♯", "#")
+      .replaceAll("♭", "b");
+  }
+
+  function mod12(n) {
+    return ((n % 12) + 12) % 12;
+  }
+
+  function parseKey(key) {
+    key = normalizeAccidentals(key).trim();
+    const m = key.match(/^([A-G](?:#|b)?)(m)?$/);
+    if (!m) return null;
+
+    const pc = NOTE_TO_PC[m[1]];
+    if (pc === undefined) return null;
+
+    return {
+      pc: pc,
+      minor: Boolean(m[2])
+    };
+  }
+
+  function keyName(pc, minor) {
+    return (minor ? MINOR_KEYS : MAJOR_KEYS)[mod12(pc)];
+  }
+
+  function prefersFlats(keyLabel) {
+    return normalizeAccidentals(keyLabel).includes("b");
+  }
+
+  function transposeNote(note, semitones, useFlats) {
+    note = normalizeAccidentals(note);
+    const pc = NOTE_TO_PC[note];
+    if (pc === undefined) return note;
+
+    const names = useFlats ? FLAT_NAMES : SHARP_NAMES;
+    return names[mod12(pc + semitones)];
+  }
+
+  function transposeChord(chord, semitones, useFlats) {
+    chord = normalizeAccidentals(chord).trim();
+
+    // Fundamental no início.
+    const m = chord.match(/^([A-G](?:#|b)?)(.*)$/);
+    if (!m) return chord;
+
+    const newRoot = transposeNote(m[1], semitones, useFlats);
+    let rest = m[2];
+
+    // Baixo de acorde invertido no final: D/F#, C/E etc.
+    rest = rest.replace(
+      /\/([A-G](?:#|b)?)$/,
+      function (_, bass) {
+        return "/" + transposeNote(bass, semitones, useFlats);
+      }
+    );
+
+    return newRoot + rest;
+  }
+
+  function initPanel(panel) {
+    const baseRaw = panel.dataset.baseKey || "";
+    const parsed = parseKey(baseRaw);
+
+    if (!parsed) {
+      panel.classList.add("transpose-panel-error");
+      panel.innerHTML =
+        '<strong>Transposição:</strong> defina <code>tom-base:</code> ' +
+        'no YAML da música (por exemplo, <code>tom-base: G</code>).';
+      return;
+    }
+
+    const soundSelect = panel.querySelector(".transpose-sound-key");
+    const capoSelect = panel.querySelector(".transpose-capo");
+    const baseLabel = panel.querySelector(".transpose-base-key");
+    const shapeLabel = panel.querySelector(".transpose-shape-key");
+    const resetButton = panel.querySelector(".transpose-reset");
+
+    const names = parsed.minor ? MINOR_KEYS : MAJOR_KEYS;
+
+    names.forEach(function (name, pc) {
+      const opt = document.createElement("option");
+      opt.value = String(pc);
+      opt.textContent = name;
+      soundSelect.appendChild(opt);
+    });
+
+    for (let capo = 0; capo <= 12; capo += 1) {
+      const opt = document.createElement("option");
+      opt.value = String(capo);
+      if (capo === 0) {
+        opt.textContent = "0 (sem capo)";
+      } else {
+        opt.textContent = String(capo);
+      }
+      capoSelect.appendChild(opt);
+    }
+
+    baseLabel.textContent = keyName(parsed.pc, parsed.minor);
+    soundSelect.value = String(parsed.pc);
+    capoSelect.value = "0";
+
+    const chordEls = Array.from(
+      document.querySelectorAll(".chordpro-chord[data-original-chord]")
+    );
+
+    function update() {
+      const soundPc = Number(soundSelect.value);
+      const capo = Number(capoSelect.value);
+
+      // A forma tocada no violão precisa estar "capo" semitons abaixo
+      // da tonalidade sonora escolhida.
+      const shapePc = mod12(soundPc - capo);
+      const shapeKey = keyName(shapePc, parsed.minor);
+      const useFlats = prefersFlats(shapeKey);
+
+      // A cifra original está escrita no tom-base.
+      // Alteração aplicada às FORMAS mostradas:
+      // (tom sonoro - tom base) - capo
+      const delta = mod12(soundPc - parsed.pc - capo);
+
+      chordEls.forEach(function (el) {
+        const original = el.dataset.originalChord;
+        el.textContent = transposeChord(original, delta, useFlats);
+      });
+
+      shapeLabel.textContent = shapeKey;
+    }
+
+    soundSelect.addEventListener("change", update);
+    capoSelect.addEventListener("change", update);
+
+    if (resetButton) {
+      resetButton.addEventListener("click", function () {
+        soundSelect.value = String(parsed.pc);
+        capoSelect.value = "0";
+        update();
+      });
+    }
+
+    update();
+  }
+
+  function init() {
+    document.querySelectorAll(".transpose-panel").forEach(initPanel);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -370,7 +567,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -402,27 +610,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/www\.explora\.ft\.unicamp\.br");
@@ -430,7 +618,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -527,6 +715,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
