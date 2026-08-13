@@ -2,6 +2,12 @@
 title: "Evidências"
 subtitle: "Chitãozinho e Xororó"
 tom-base: A
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 ```{.chordpro}

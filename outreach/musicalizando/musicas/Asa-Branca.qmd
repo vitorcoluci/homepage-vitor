@@ -2,6 +2,12 @@
 title: "Asa Branca"
 subtitle: "Luiz Gonzaga"
 tom-base: G
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 ```{.chordpro}
 Quando olhei a terra ardendo

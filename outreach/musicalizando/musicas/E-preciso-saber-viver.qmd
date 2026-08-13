@@ -2,6 +2,12 @@
 title: "É preciso saber viver"
 subtitle: "Erasmo Carlos e Roberto Carlos"
 tom-base: E
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 ```{.chordpro}

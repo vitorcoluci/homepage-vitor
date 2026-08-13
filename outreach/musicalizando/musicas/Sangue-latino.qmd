@@ -2,6 +2,12 @@
 title: "Sangue Latino"
 subtitle: "Ney Matogrosso"
 tom-base: D
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 ## Introdução

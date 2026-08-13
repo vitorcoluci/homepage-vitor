@@ -2,6 +2,12 @@
 title: "Tristeza do Jeca"
 subtitle: "Tonico e Tinoco"
 tom-base: C
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 ## Primeira parte
 ```{.chordpro}

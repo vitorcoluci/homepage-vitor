@@ -2,6 +2,12 @@
 title: "Essa Tal Liberdade"
 subtitle: "Só Para Contrariar"
 tom-base: E
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 ## Primeira parte

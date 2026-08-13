@@ -2,6 +2,12 @@
 title: "Tocando em frente"
 subtitle: "Almir Sater"
 tom-base: D
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 

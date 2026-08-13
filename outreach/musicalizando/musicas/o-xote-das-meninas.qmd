@@ -2,6 +2,12 @@
 title: "O Xote das Meninas (Mandacaru)"
 subtitle: "Marisa Monte"
 tom-base: G
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 ## Primeira parte

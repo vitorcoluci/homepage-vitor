@@ -2,6 +2,12 @@
 title: "Anna Julia"
 subtitle: "Los Hermanos"
 tom-base: C
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 ## Primeira parte

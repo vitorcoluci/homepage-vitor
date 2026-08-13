@@ -2,9 +2,13 @@
 title: "Não deixe o samba morrer"
 subtitle: "Alcione"
 tom-base: Dm
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
-
-## A
 
 ```{.chordpro}
 Não deixe o samba morrer

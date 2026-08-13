@@ -2,6 +2,12 @@
 title: "Lua Branca"
 subtitle: "Chiquinha Gonzaga"
 tom-base: Am
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
 ---
 
 ## A
