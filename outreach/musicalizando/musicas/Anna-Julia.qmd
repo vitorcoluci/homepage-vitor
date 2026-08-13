@@ -1,0 +1,69 @@
+---
+title: "Anna Julia"
+subtitle: "Los Hermanos"
+---
+
+**Tom:** C
+
+## Primeira parte
+
+```{.chordpro}                   
+[C]Quem te ver pa[Am]ssar assim por [Em]mim
+Não [F]sabe o que [G]é so[C]frer       
+Ter que [Am]ver você a[Em]ssim       
+[F]Sempre tão [G]linda     
+[C]Contemplar o [Am]sol do teu o[Em]lhar
+Per[F]der vo[G]cê no [C]ar   
+Na cer[Am]teza de um a[Em]mor
+  
+[F]Me a[G]char um [Am]nada              
+Pois sem ter teu ca[Em]rinho         
+Eu me sinto so[F]zinho             
+Eu me afogo em [G]solidão
+```
+
+## Refrão
+```{.chordpro}
+Ô Anna [C]Julia [F]a a a a [G]a
+Ô Anna [C]Julia [F]a a a a [G]a
+```
+
+## Segunda Parte
+```{.chordpro}      
+[C]Nunca acredi[Am]tei na ilu[Em]são  
+De [F]ter vo[G]cê pra [C]mim     
+Me ator[Am]menta a previ[Em]são do [F]nosso des[G]tino
+        
+[C]Eu passando o [Am]dia a te espe[Em]rar  
+Vo[F]cê [G]sem me no[C]tar   
+Quando [Am]tudo tiver [Em]fim
+
+Vo[F]cê vai es[G]tar       
+Com um [Am]cara
+Um alguém sem ca[Em]rinho             
+Será sempre um es[F]pinho            
+Dentro do meu [G]coração
+```
+
+**Refrão**
+
+## Terceira Parte
+```{.chordpro}
+[Am]Sei que vo[Em]cê já não que[F]r o meu a[C]mor       
+[Am]Sei que vo[Em]cê já não g[F]osta de [C]mim          
+Eu [Am]sei que eu não s[E]ou        
+Quem vo[F]cê sempre so[C]nhou       
+Mas [Am]vou reconquis[E]tar         
+O seu a[F]mor todo pra m[G]im
+```
+
+**Refrão**
+
+**Refrão**
+
+**Refrão**
+
+## Final
+```{.chordpro}           
+Ô Anna [C]Julia, [F]Julia, [G]Julia... ou ou [C]ou
+```

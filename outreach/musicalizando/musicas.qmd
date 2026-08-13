@@ -2,4 +2,30 @@
 title: "Músicas"
 ---
 
-{{< include ./musicas/o-xote-das-meninas.qmd >}}
+## [Anna Julia](./musicas/Anna-Julia.qmd)
+
+## [Anunciação](./musicas/Anunciacao.qmd)
+
+## [Asa Branca](./musicas/Asa-Branca.qmd)
+
+## [É preciso saber viver](./musicas/E-preciso-saber-viver.qmd)
+
+## [Esperando na Janela](./musicas/Esperando-na-Janela.qmd)
+
+## [Essa tal liberdade](./musicas/Essa-tal-liberdade.qmd)
+
+## [Evidências](./musicas/Evidencias.qmd)
+
+## [Lua Branca](./musicas/Lua-Branca.qmd)
+
+## [Não deixe o samba morrer](./musicas/Nao-deixe-o-samba-morrer.qmd)
+
+## [O Xote das meninas](./musicas/O-xote-das-meninas.qmd)
+
+## [Pense em mim](./musicas/Pense-em-mim.qmd)
+
+## [Sangue latino](./musicas/Sangue-latino.qmd)
+
+## [Tocando em frente](./musicas/Tocando-em-frente.qmd)
+
+## [Tristeza do Jeca](./musicas/Tristeza-do-Jeca.qmd)

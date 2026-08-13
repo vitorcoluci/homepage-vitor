@@ -5,40 +5,49 @@ subtitle: "Marisa Monte"
 
 **Tom:** G
 
-**Forma:** A → R → (B → R) 2x → C → R  
-**R:** 4x a cada entrada
-
-## A
+## Primeira parte
 
 ```{.chordpro}
-[G]Mandacaru quando [C]fulorá na [G]seca
-É um si[G7]ná que a chuva chega no sert[C]ão
-Toda menina que en[G]joa da boneca
-É sin[E7]al de que o a[A7]mor já che[D7]gou no cora[G]ção
+Mandaca[G]ru quando fu[D7]lorá na [G]seca
+É um si[G7]nal que a chuva chega no sert[C]ão
+Toda menina que en[D7]joa da bo[G]neca
+É sin[E7]al de que o a[Am]mor já che[D7]gou no cora[G]ção
 Meia [C]comprida não quer mais sapato [G]baixo
 [E7]Vestido bem [A7]cintado não quer mais [D7]vestir [G]gibão
+Meia com[C]prida        
+Não quer [D7]mais sapato [G]baixo      
+Ves[Em]tido bem cin[Am]tado         
+Não quer [D7]mais vestir ti[G]mão
 ```
 
-## R
+## Refrão
 
 ```{.chordpro}
-Ela só [F#m7(5-)]quer só [B7]pensa em [Em]namorar
+Ela só [Am]quer só [B7]pensa em namo[Em]rar
+Ela só [Am]quer só [B7]pensa em namo[Em]rar
+Ela só [Am]quer só [B7]pensa em namo[Em]rar
+Ela só [Am]quer só [B7]pensa em namo[Em]rar
 ```
 
-## B
+## Segunda parte
 
 ```{.chordpro}
-De manhã [Am7]cedo já [D7]tá [G]pintada
-Só vive [F#m7(5-)]suspirando [B7]sonhando [Em]acordada
-O pai leva ao [F#m7(5-)]doutor a [B7]filha [Em]adoentada
-Não come nem [F#m7(5-)]estuda, não [B7]dorme nem [Em]quer nada
+De manhã [Am7]cedo já [D7]tá pin[G]tada
+Só vive [Am]suspirando so[B7]nhando acor[Em]dada
+O pai leva ao dou[Am]tor a [B7]filha adoen[Em]tada
+Não come nem es[Am]tuda, não [B7]dorme nem quer [Em]nada
 ```
 
-## C
+## Refrão
+
+## Terceira parte
 
 ```{.chordpro}
-Mas o [Am7]doutor [D7]nem [G]examina
-Chamando o pai do [F#m7(5-)]lado,        lhe [B7]diz logo em [Em]surdina
-Que o mal é da [F#m7(5-)]idade e que [B7]pra tal [Em]menina
-Não há um só [F#m7(5-)]remédio em [B7]toda [Em]medicina
+Mas o dou[Am7]tor [D7]nem exa[G]mina
+Chamando o pai do [Am]lado, 
+lhe [B7]diz logo em sur[Em]dina
+Que o mal é da i[Am]dade e que [B7]pra tal me[Em]nina
+Não há um só re[Am]médio em [B7]toda medi[Em]cina
 ```
+
+## Refrão

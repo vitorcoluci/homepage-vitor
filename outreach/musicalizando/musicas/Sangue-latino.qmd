@@ -1,0 +1,46 @@
+---
+title: "Sangue Latino"
+subtitle: "Ney Matogrosso"
+---
+
+**Tom:** D
+
+## Introdução
+```{.chordpro}
+[D]..      [G/D]..    
+```
+## Primeira Parte
+```{.chordpro}
+[D]Jurei mentiras e sigo sozinho
+[D]Assumo os peca[G/D]dos
+[A]Os ventos do norte
+[G]Não movem moi[D]nhos
+[D]E o que me resta é só um gemido
+```
+
+## Refrão
+```{.chordpro}
+[D]Minha vida, meus mortos
+[G/D]Meus caminhos tortos
+[D]Meu sangue lati[G/D]no
+[D]Minha alma cati[G/D]va
+```
+
+## Segunda Parte 
+```{.chordpro}
+[A]Rompi tratados, traí os [G]ritos
+[D]Quebrei a lança
+[G/D]Lancei no espaço
+[D]Um grito, um de[G/D]sabafo
+[A]E o que me importa
+[G]É não estar ven[D]cido
+```
+## Refrão
+
+## Final
+```{.chordpro}
+[G]...... [F#m].....     [Em].....     [D].....
+```
+
+
+

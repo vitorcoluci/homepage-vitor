@@ -14,6 +14,11 @@ Projeto voltado para alunos com 50+ dentro do [Programa UniversIDADE](https://ww
 
 ---
 
+# Músicas
+
+[Músicas](./musicas.qmd)
+
+
 # 2S/2024
 
 A primeira oficina foi realizada durante o 2S/2024. Foram 15 encontros com aulas sobre o violino, sobre o piano e sobre a [ópera Turandot](https://pt.wikipedia.org/wiki/Turandot). Além das aulas, foram trabalhadas algumas músicas e realizados ensaios de músicas de diferentes estilos musicais. Esse primeiro oferecimento teve como instrutores o Prof. Yuri Meyer da FT ao violino e o mestrando Luis Felipe Nicoletto de Souza ao piano. 
@@ -183,5 +188,3 @@ Como encerramento do projeto, tivemos um encontro movido a salgadinhos, doces, b
 ](musicalizando-2-1s-26.jpg){width=70%}
 :::
 
-
-[Músicas](./musicas.qmd)
