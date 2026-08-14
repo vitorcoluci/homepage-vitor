@@ -1,4 +1,4 @@
-/* cifras-transpose-v1.css
+/* cifras-transpose-v2.css
    Cifra grande + painel de tonalidade/capotraste.
 */
 
@@ -162,5 +162,77 @@
   .chordpro {
     font-size: 17pt;
     overflow: visible;
+  }
+}
+
+
+/* ---------- Alternância instrumentista / cantor ---------- */
+
+.transpose-view-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 2rem;
+  margin: 0;
+  padding: 0 0.15rem;
+  cursor: pointer;
+  user-select: none;
+  font-size: 0.95rem;
+}
+
+.transpose-view-toggle input {
+  width: 1.05rem;
+  height: 1.05rem;
+  margin: 0;
+}
+
+/* No modo cantor, capo e "acordes exibidos" deixam de ser relevantes. */
+.transpose-panel.lyrics-only-active .instrument-only {
+  display: none;
+}
+
+/* Acordes desaparecem completamente. */
+body.lyrics-only-mode .chordpro-chord {
+  display: none;
+}
+
+/* Retira a faixa vertical reservada aos acordes. */
+body.lyrics-only-mode .chordpro-segment {
+  padding-top: 0;
+}
+
+/* Aproxima as frases para leitura/canto. */
+body.lyrics-only-mode .chordpro {
+  margin-top: 0.45rem;
+  margin-bottom: 1.05rem;
+  line-height: 1.08;
+}
+
+body.lyrics-only-mode .chordpro-line {
+  margin-bottom: 0.08em;
+  line-height: 1.08;
+}
+
+body.lyrics-only-mode .chordpro-lyric {
+  line-height: 1.08;
+}
+
+/* Linhas em branco usadas para separar blocos ficam bem menores. */
+body.lyrics-only-mode .chordpro-spacer {
+  height: 0.18em;
+}
+
+/* Mantém a letra grande, mas um pouco mais compacta para os cantores. */
+body.lyrics-only-mode .chordpro {
+  font-size: clamp(1.35rem, 1.02rem + 1.45vw, 2.55rem);
+}
+
+@media (max-width: 700px) {
+  .transpose-view-toggle {
+    flex: 1 1 100%;
+  }
+
+  body.lyrics-only-mode .chordpro {
+    font-size: clamp(1.22rem, 0.94rem + 1.6vw, 1.58rem);
   }
 }

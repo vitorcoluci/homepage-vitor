@@ -1,5 +1,5 @@
--- chords-transpose-v1.lua
--- Cifras ChordPro + controles de tonalidade sonora e capotraste.
+-- chords-transpose-v2.lua
+-- Cifras ChordPro + tonalidade sonora + capotraste + modo cantor.
 --
 -- No YAML da música, defina:
 --   tom-base: G
@@ -231,6 +231,7 @@ local TRANSPOSE_JS = [=[
     const baseLabel = panel.querySelector(".transpose-base-key");
     const shapeLabel = panel.querySelector(".transpose-shape-key");
     const resetButton = panel.querySelector(".transpose-reset");
+    const lyricsOnly = panel.querySelector(".transpose-lyrics-only");
 
     const names = parsed.minor ? MINOR_KEYS : MAJOR_KEYS;
 
@@ -283,18 +284,33 @@ local TRANSPOSE_JS = [=[
       shapeLabel.textContent = shapeKey;
     }
 
+    function updateViewMode() {
+      const onlyLyrics = Boolean(lyricsOnly && lyricsOnly.checked);
+      document.body.classList.toggle("lyrics-only-mode", onlyLyrics);
+      panel.classList.toggle("lyrics-only-active", onlyLyrics);
+    }
+
     soundSelect.addEventListener("change", update);
     capoSelect.addEventListener("change", update);
+
+    if (lyricsOnly) {
+      lyricsOnly.addEventListener("change", updateViewMode);
+    }
 
     if (resetButton) {
       resetButton.addEventListener("click", function () {
         soundSelect.value = String(parsed.pc);
         capoSelect.value = "0";
+        if (lyricsOnly) {
+          lyricsOnly.checked = false;
+        }
         update();
+        updateViewMode();
       });
     }
 
     update();
+    updateViewMode();
   }
 
   function init() {
@@ -325,15 +341,20 @@ local function transpose_panel(base_key)
     <select class="transpose-sound-key" aria-label="Tonalidade sonora"></select>
   </label>
 
-  <label class="transpose-field">
+  <label class="transpose-field instrument-only">
     <span class="transpose-label">Capotraste</span>
     <select class="transpose-capo" aria-label="Casa do capotraste"></select>
   </label>
 
-  <div class="transpose-field transpose-shape">
+  <div class="transpose-field transpose-shape instrument-only">
     <span class="transpose-label">Acordes exibidos</span>
     <strong class="transpose-shape-key"></strong>
   </div>
+
+  <label class="transpose-view-toggle">
+    <input type="checkbox" class="transpose-lyrics-only">
+    <span>Somente letra (cantores)</span>
+  </label>
 
   <button type="button" class="transpose-reset">Original</button>
 </div>
