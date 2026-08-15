@@ -11,36 +11,38 @@ format:
 ---
 
 ```{.chordpro}
-Quem espera que a vida
-Seja feita de ilusão
-Pode até ficar maluco
-Ou morrer na solidão
-É preciso ter cuidado
-Pra mais tarde não sofrer
-É preciso saber viver
+Quem esp[E]era que a vida
+Seja f[E7M]eita de ilusão
+Pode at[E7]é ficar maluco
+Ou morr[A]er na solidão
+É prec[Am6]iso ter cuidado
+Pra mais t[E]arde não sofr[C#m]er
+[F#]É preciso sa[A]ber vive[B7]r
 
-Toda pedra do caminho
-Você deve retirar
-Numa flor que tem espinho
-Você pode se arranhar
-Se o bem e o mal existem
-Você pode escolher
-É preciso saber viver
-
-É preciso saber viver
-É preciso saber viver
-É preciso saber viver
-Saber viver
+Toda p[E]edra do caminho
+Você p[E7M]ode retirar
+Numa fl[E7]or que tem espinho
+Você p[A]ode se arranhar
+Se o b[Am6]em e o mal existem
+Você p[E]ode escolh[C#m]er
+[F#]É preciso sa[A]ber vive[B7]r
 
 É preciso saber viver
 É preciso saber viver
 É preciso saber viver
 Saber viver
 
-É preciso saber viver
-É preciso saber viver
-É preciso saber viver
-Saber viver
+[A]É preciso [E]saber viv[C#m]er
+[A]É preciso [E]saber viv[C#m]er
+[A]É preciso [E]saber viv[C#m]er
+S[F#]aber viver  [A].  [B7].  
+
+[A]É preciso [E]saber viv[C#m]er
+[A]É preciso [E]saber viv[C#m]er
+[A]É preciso [E]saber viv[C#m]er
+S[F#]aber viver  [A].  [B7].  
+
+[E].   
 ```
 
 

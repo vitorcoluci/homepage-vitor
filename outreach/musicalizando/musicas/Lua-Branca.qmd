@@ -1,7 +1,7 @@
 ---
 title: "Lua Branca"
 subtitle: "Chiquinha Gonzaga"
-tom-base: Am
+tom-base: Em
 filters:
   - ./chords-transpose.lua
 format:
@@ -10,29 +10,29 @@ format:
       - ./cifras-transpose.css
 ---
 
-## A
-
 ```{.chordpro}
-Ó, lua branca
-De fulgores e de encanto
-Se é verdade que ao amor tu dás abrigo
-Vem tirar dos olhos meus, o pranto
-Ai, vem matar essa paixão que anda comigo
+[Em]Ó, lua br[B7]anca
+De fulgores e de enc[Em]anto
+[E7]Se é verdade que ao amor tu dás abr[Am]igo
+V[Am]em tirar dos olhos meus, o [Em]pranto
+Ai, vem ma[B7]tar essa paixão que anda co[Em]migo
 
-Oh, por quem és desce do céu, ó, lua branca
-Essa amargura do meu peito, ó, vem, arranca
-Dá-me o luar de tua compaixão
-Ó, vem por Deus, iluminar meu coração
+[D7]Oh, por quem és desce do céu, ó, lua [G]branca
+[E7]Essa amargura do meu peito, ó, vem, [Am]arranca
+[Am]Dá-me o luar de tua compai[Em]xão
+Ó, vem por [B7]Deus, iluminar meu cora[Em]ção
 
-E quantas vezes lá no céu me aparecias
-A brilhar em noite calma e constelada
-E em tua luz então me surpreendias
-Ajoelhado junto aos pés da minha amada
+[B7]E quantas vezes lá no céu me a[Em]parecias
+[E7]A brilhar em noite calma e conste[Am]lada
+[Am]E em tua luz então me surpreend[Em]ias
+[B7]Ajoelhado junto aos pés da minha a[Em]mada
 
-E ela a chorar, a soluçar, cheia de pejo
-Vinha em seus lábios me ofertar um doce beijo
-Ela partiu, me abandonou assim
+[D7]E ela a chorar, a soluçar, cheia de [G]pejo
+[E7]Vinha em seus lábios me ofertar um doce [Am]beijo
+[Am]Ela partiu, me abandonou a[Em]ssim
+Ó, lua [Am]branca, por quem és, tem dó de [Em]mim
 
-Ó, lua branca, por quem és, tem dó de mim
-Ó, lua branca, por quem és, tem dó de mim
+[Am]Ela partiu, me abandonou a[Em]ssim
+Ó, lua [Am]branca, por quem és, tem dó de [Em]mim
+
 ```

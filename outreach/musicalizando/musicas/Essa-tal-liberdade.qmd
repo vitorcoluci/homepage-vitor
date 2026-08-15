@@ -1,7 +1,7 @@
 ---
 title: "Essa Tal Liberdade"
 subtitle: "Só Para Contrariar"
-tom-base: E
+tom-base: C
 filters:
   - ./chords-transpose.lua
 format:
@@ -12,38 +12,38 @@ format:
 
 ## Primeira parte
 ```{.chordpro}
-O que é que eu vou fazer com essa tal liberdade?
-Se estou na solidão pensando em você
-Eu nunca imaginei sentir tanta saudade
-Meu coração não sabe como te esquecer
+[C]O que é que eu vou faz[Em7]er com essa tal liberd[F]ade?
+Se estou na solid[G7]ão pensando em voc[C]ê
+Eu nunca imagin[Em7]ei sentir tanta saud[F]ade
+Meu coração não s[G7]abe como te esquecer
 
-Eu andei errado, eu pisei na bola
-Troquei quem mais amava por uma ilusão
-Mas a gente aprende, a vida é uma escola
-Não é assim que acaba uma grande paixão
+[C].  Eu andei err[Em7]ado, eu pisei na b[F]ola
+Troquei quem mais am[G7]ava por uma ilusão [C] 
+Mas a gente apr[Em7]ende, a vida é uma esc[F]ola
+Não é assim que ac[G7]aba uma grande paix[C]ão
 ```
 
 ## Refrão
 ```{.chordpro}
-Quero te abraçar, quero te beijar
-Te desejo noite e dia
-Quero me prender todo em você
-Você é tudo o que eu queria
+Quero te abra[Em7]çar, quero te bei[F]jar
+[F]Te desejo noite e d[C]ia
+Quero me prend[Em7]er todo em voc[F]ê
+Vo[F]cê é tudo o que eu quer[C]ia
 ```
 
 ## Refrão
 
 ## Segunda parte
 ```{.chordpro}
-O que é que eu vou fazer com esse fim de tarde
-Pra onde quer que eu olhe lembro de você
-Não sei se fico aqui ou mudo de cidade
-Sinceramente amor não sei o que fazer
+O que é que eu vou faz[Em7]er com esse fim de t[F]arde
+Pra onde quer que eu [G7]olhe lembro de você. [C]. 
+Não sei se fico a[Em7]qui ou mudo de ci[F]dade
+Sinceramente a[G7]mor não sei o que fazer
 
-Eu andei errado, eu pisei na bola
-Achei que era melhor cantar outra canção
-Mas a gente aprende, a vida é uma escola
-Eu troco a liberdade pelo teu perdão
+[C]. Eu andei err[Em7]ado, eu pisei na b[F]ola
+Achei que era melh[G7]or cantar outra can[C]ção
+Mas a gente apr[Em7]ende, a vida é uma esc[F]ola
+Eu troco a liberd[G7]ade pelo teu perd[C]ão
 ```
 
 ## Refrão
@@ -52,15 +52,15 @@ Eu troco a liberdade pelo teu perdão
 
 ## Terceira parte
 ```{.chordpro}
-O que é que eu vou fazer com essa tal liberdade
-Se estou na solidão pensando em você
-Eu nunca imaginei sentir tanta saudade
-Meu coração não sabe como te esquecer
+[C]O que é que eu vou faz[Em7]er com essa tal liberd[F]ade
+Se estou na soli[G7]dão pensando em voc[C]ê
+Eu nunca imagin[Em7]ei sentir tanta saud[F]ade
+Meu coração não [G7]sabe como te esquecer
 
-Eu andei errado, eu pisei na bola
-Troquei quem mais amava por uma ilusão
-Mas a gente aprende, a vida é uma escola
-Não é assim que acaba uma grande paixão
+[C].  Eu andei err[Em7]ado, eu pisei na b[F]ola
+Troquei quem mais a[G7]mava por uma ilusão [C]. 
+Mas a gente apr[Em7]ende, a vida é uma esc[F]ola
+Não é assim que a[G7]caba uma grande pai[C]xão
 ```
 
 ## Refrão

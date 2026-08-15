@@ -10,38 +10,38 @@ format:
       - ./cifras-transpose.css
 ---
 ```{.chordpro}
-Quando olhei a terra ardendo
-Quá fogueira de São João
-Eu perguntei a Deus do céu: Ai
-Por que tamanha judiação?
-Eu perguntei a Deus do céu: Ai
-Por que tamanha judiação?
+Quando olh[G]ei a terra ard[C]endo
+Quá fogu[G]eira de S[D7]ão Jo[G]ão
+ Eu pergun[G7]tei a Deus do c[C]éu: Ai
+Por que ta[D7]manha judiaç[G]ão?
+Eu pergunt[G7]ei a Deus do c[C]éu: Ai
+Por que ta[D7]manha judiaç[G]ão?
 
-Que braseiro, que fornalha
-Nem um pé de plantação
-Por falta d'água, perdi meu gado
-Morreu de sede meu alazão
-Por falta d'água, perdi meu gado
-Morreu de sede meu alazão
+Que bras[G]eiro, que forn[C]alha
+Nem um p[G]é de plant[D7]a____ç[G]ão
+Por falta d'[G7]água, perdi meu g[C]ado
+Morreu de s[D7]ede meu alaz[G]ão
+Por falta d'[G7]água, perdi meu g[C]ado
+Morreu de s[D7]ede meu alaz[G]ão
 
-Inté mesmo a asa branca
-Bateu asas do sertão
-Então eu disse: Adeus, Rosinha
-Guarda contigo meu coração
-Então  eu disse: Adeus, Rosinha
-Guarda contigo meu coração
+Inté m[G]esmo a asa br[C]anca
+Bateu as[G]as do ser[D7]t____[G]ão
+Então eu d[G7]isse: Adeus, Ros[C]inha
+Guarda cont[D7]igo meu coraç[G]ão
+Então eu d[G7]isse: Adeus, Ros[C]inha
+Guarda cont[D7]igo meu coraç[G]ão
 
-Hoje longe, muitas légua
-Numa triste solidão
-Espero a chuva cair de novo
-Pra mim voltar pro meu sertão
-Espero a chuva cair de novo
-Pra mim voltar pro meu sertão
+Hoje l[G]onge, muitas l[C]égua
+Numa tr[G]iste so[D7]li___[G]dão
+Espero a ch[G7]uva cair de n[C]ovo
+Pra mim volt[D7]ar pro meu sert[G]ão
+Espero a ch[G7]uva cair de n[C]ovo
+Pra mim volt[D7]ar pro meu sert[G]ão
 
-Quando o verde dos teus olhos
-Se espalhar na plantação
-Eu te asseguro, não chore não, viu?
-Que eu voltarei, viu, meu coração?
-Eu te asseguro, não chore não, viu?
-Que eu voltarei, viu, meu coração?
+Quando o v[G]erde dos teus [C]olhos
+Se espa[G]lhar na pl[D7]anta___ç[G]ão
+Eu te asse[G7]guro, não chore n[C]ão, viu?
+Que eu volta[D7]rei, viu, meu coraç[G]ão?
+Eu te asse[G7]guro, não chore n[C]ão, viu?
+Que eu volta[D7]rei, viu, meu coraç[G]ão?
 ```

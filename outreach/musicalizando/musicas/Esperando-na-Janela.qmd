@@ -1,7 +1,7 @@
 ---
 title: "Esperando na Janela"
 subtitle: "Gilberto Gil"
-tom-base: E
+tom-base: C 
 filters:
   - ./chords-transpose.lua
 format:
@@ -10,29 +10,36 @@ format:
       - ./cifras-transpose.css
 ---
 
+## Solo
 ```{.chordpro}
-Ainda me lembro do seu caminhar
-Seu jeito de olhar, eu me lembro bem
-Fico querendo sentir o seu cheiro
-É daquele jeito que ela tem
+[C].  [G].   [C].   [G].   
+```
 
-O tempo todo eu fico feito tonto
-Sempre procurando, mas ela não vem
-E esse aperto no fundo do peito
-Desses que o sujeito não pode aguentar, ah
 
-E esse aperto aumenta meu desejo
-Eu não vejo a hora de poder lhe falar
+```{.chordpro}
+Ainda me lem[C]bro do seu caminh[Dm]ar
+Seu jeito de olh[G7]ar, eu me lembro bem [C]. 
+Fico querendo sentir o seu ch[Dm]eiro
+É daquele j[G7]eito que ela tem [C]. 
 
-Por isso eu vou na casa dela, ai, ai
-Falar do meu amor pra ela, vai
-Tá me esperando na janela, ai, ai
-Não sei se vou me segurar
+O tempo todo eu fico feito t[Dm]onto
+Sempre procur[G7]ando, mas ela não ve[C]m
+E esse aperto no fundo do p[Dm]eito
+Desses que o suj[G7]eito não pode aguent[C]ar, ah
 
-Por isso eu vou na casa dela, ai, ai
-Falar do meu amor pra ela, vai
-Tá me esperando na janela, ai, ai
-Não sei se vou me segurar
+E esse aperto aumenta meu de[Dm]sejo
+Eu não vejo a h[G7]ora de poder lhe fal[C]ar  [F#].  [C].  
+
+Por isso eu vou na casa d[Dm]ela, ai, ai
+[G7].  Falar do meu amor pra [Em]ela, vai
+[Am].  Tá me esperando na jan[Dm]ela, ai, ai
+[G7].  Não sei se vou me se[C]gurar
+
+Por isso eu vou na casa d[Dm]ela, ai, ai
+[G7].  Falar do meu amor pra [Em]ela, vai
+[Am].  Tá me esperando na jan[Dm]ela, ai, ai
+[G7].  Não sei se vou me se[C]gurar
+
 ```
 
 

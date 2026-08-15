@@ -1,7 +1,7 @@
 ---
 title: "Evidências"
 subtitle: "Chitãozinho e Xororó"
-tom-base: A
+tom-base: C
 filters:
   - ./chords-transpose.lua
 format:
@@ -9,414 +9,74 @@ format:
     css:
       - ./cifras-transpose.css
 ---
+## Primeira parte
 
-```{.chordpro}
-[Intro] C  E  F  Dm  
-">G
-        C  E  F  Dm  
-">G
-        C  
-
-[Primeira Parte]
-
-">G
-
-[Primeira Parte]
-
-       C                        
-Quando eu digo que deixei de te amar
-">G
-Quando eu digo que deixei de te amar
-         Am      
-É porque eu te amo
-">C
-É porque eu te amo
-       
-Quando eu digo que não quero
-">F
-Quando eu digo que não quero
- 
-Mais você
-">A
-Mais você
-
-É porque eu te quero
-">Dm
-É porque eu te quero
-          
-Eu tenho medo de te dar meu
-">G
-Eu tenho medo de te dar meu
- 
-Coração
-">E
-Coração
+```{.chordpro}                
+Quando eu d[C]igo que deixei de t[G/B]e amar   
+É porque [Am]eu te a[C7(9)]mo [C6].  [C7]      
+Quando eu d[F]igo que não quero
+Mais vo[A7]cê
+É [Dm]porque eu te quero        
+Eu tenho [G7]medo de te dar meu
+C[G#o]oração         
+E confess[Am7]ar que eu estou
+Em tuas m[Am7/Gãos
          
-E confessar que eu estou
-
-Em tuas mãos
-">Am
-E confessar que eu estou
-
-Em tuas mãos
-         
-Mas não posso imaginar
-
-O que vai ser de mim
-">D
-Mas não posso imaginar
-
-O que vai ser de mim
-             G      F  
-Se eu te perder um dia
-
-[Segunda Parte]
-
-">G
-Se eu te perder um dia
-
-[Segunda Parte]
-
-Eu me afasto e me defendo
-">C
-Eu me afasto e me defendo
- 
-De você
-">G
-De você
-     Am             
-Mas depois me entrego
-">C
-Mas depois me entrego
- 
-Faço tipo, falo coisas
-">F
-Faço tipo, falo coisas
-    
-Que eu não sou
-">A
-Que eu não sou
- 
-Mas depois eu nego
-">Dm
-Mas depois eu nego
-          
-Mas a verdade é que eu sou
-">G
-Mas a verdade é que eu sou
-       
-Louco por você
-">E
-Louco por você
-         
-E tenho medo de pensar
-">Am
-E tenho medo de pensar
-          
-Em te perder
-">Fm
-Em te perder
-       C                    
-Eu preciso aceitar que não dá mais
-">G
-Eu preciso aceitar que não dá mais
-                C           F  
-Pra separar as nossas vidas
-
-[Refrão]
-
-">G
-Pra separar as nossas vidas
-
-[Refrão]
-
-E nessa loucura de dizer
-
-Que não te quero
-">C
-E nessa loucura de dizer
-
-Que não te quero
-       
-Vou negando as aparências
-
-Disfarçando as evidências
-">E
-Vou negando as aparências
-
-Disfarçando as evidências
-          
-Mas pra que viver fingindo
-">F
-Mas pra que viver fingindo
-           
-Se eu não posso enganar
-">Dm
-Se eu não posso enganar
-         
-Meu coração
-">G
-Meu coração
-    Dm        
-Eu sei que te amo
-
-">G
-Eu sei que te amo
-
-  
-Chega de mentiras
-
-De negar o meu desejo
-">C
-Chega de mentiras
-
-De negar o meu desejo
-        
-Eu te quero mais que tudo
-
-Eu preciso do teu beijo
-">E
-Eu te quero mais que tudo
-
-Eu preciso do teu beijo
-       
-Eu entrego a minha vida
-">F
-Eu entrego a minha vida
-       
-Pra você fazer o que quiser
-">Dm
-Pra você fazer o que quiser
- 
-De mim
-">G
-De mim
-     Dm           
-Só quero ouvir você dizer
-
-">G
-Só quero ouvir você dizer
-
-     
-Que sim
-">C
-Que sim
-              
-Diz que é verdade que tem
-">E
-Diz que é verdade que tem
-    
-Saudade
-">F
-Saudade
-     Dm         
-Que ainda você pensa muito
-">G
-Que ainda você pensa muito
-    
-Em mim
-">C
-Em mim
-              
-Diz que é verdade que tem
-">E
-Diz que é verdade que tem
-    
-Saudade
-">F
-Saudade
-     Dm          
-Que ainda você quer viver
-">G
-Que ainda você quer viver
-  
-Pra mim
-
-">Am
-Pra mim
-
-[Solo] E  C  D  Fm  
-
-[Segunda Parte]
-
-">G
-
-[Segunda Parte]
-
-Eu me afasto e me defendo
-">C
-Eu me afasto e me defendo
- 
-De você
-">G
-De você
- Am               
-Mas depois me entrego
-">C
-Mas depois me entrego
- 
-Faço tipo, falo coisas
-">F
-Faço tipo, falo coisas
-    
-Que eu não sou
-">A
-Que eu não sou
- 
-Mas depois eu nego
-">Dm
-Mas depois eu nego
-          
-Mas a verdade é que eu sou
-">G
-Mas a verdade é que eu sou
-       
-Louco por você
-">E
-Louco por você
-         
-E tenho medo de pensar
-">Am
-E tenho medo de pensar
-          
-Em te perder
-">Fm
-Em te perder
-       C                    
-Eu preciso aceitar que não dá mais
-">G
-Eu preciso aceitar que não dá mais
-                C           F  
-Pra separar as nossas vidas
-
-[Refrão]
-
-">G
-Pra separar as nossas vidas
-
-[Refrão]
-
-E nessa loucura de dizer
-
-Que não te quero
-">C
-E nessa loucura de dizer
-
-Que não te quero
-       
-Vou negando as aparências
-
-Disfarçando as evidências
-">E
-Vou negando as aparências
-
-Disfarçando as evidências
-          
-Mas pra que viver fingindo
-">F
-Mas pra que viver fingindo
-           
-Se eu não posso enganar
-">Dm
-Se eu não posso enganar
-         
-Meu coração
-">G
-Meu coração
-    Dm        
-Eu sei que te amo
-
-">G
-Eu sei que te amo
-
-  
-Chega de mentiras
-
-De negar o meu desejo
-">C
-Chega de mentiras
-
-De negar o meu desejo
-        
-Eu te quero mais que tudo
-
-Eu preciso do teu beijo
-">E
-Eu te quero mais que tudo
-
-Eu preciso do teu beijo
-       
-Eu entrego a minha vida
-">F
-Eu entrego a minha vida
-       
-Pra você fazer o que quiser
-">Dm
-Pra você fazer o que quiser
-    
-De mim
-">G
-De mim
-     Dm           
-Só quero ouvir você dizer
-
-">G
-Só quero ouvir você dizer
-
-     
-Que sim
-">C
-Que sim
-              
-Diz que é verdade que tem
-">E
-Diz que é verdade que tem
-    
-Saudade
-">F
-Saudade
-     Dm         
-Que ainda você pensa muito
-">G
-Que ainda você pensa muito
-    
-Em mim
-">C
-Em mim
-              
-Diz que é verdade que tem
-">E
-Diz que é verdade que tem
-    
-Saudade
-">F
-Saudade
-     Dm          
-Que ainda você quer viver
-">G
-Que ainda você quer viver
-  
-Pra mim
-">C
-Pra mim
-              
-Diz que é verdade que tem
-">E
-Diz que é verdade que tem
-    
-Saudade
-">F
-Saudade
-     Dm          
-Que ainda você quer viver
-">G
-Que ainda você quer viver
-     
-Pra mim
-">C
-Pra mim
-
+Mas não [D]posso imagi[C/E]nar
+O que vai se[D/F#]r de mim
+Se eu te perd[G]er um d[F/A]ia. [G/B]
 ```
 
+## Segunda Parte
+```{.chordpro}
+Eu me af[C]asto e me defendo
+De v[G/B]ocê         
+Mas dep[Am]ois me entr[C7(9)]ego. [C6].  [C7].  
+Faço t[F]ipo, falo coisas   
+Que eu n[A7]ão sou
+Mas dep[Dm]ois eu nego  
+Mas a verd[G7]ade é que eu sou   
+Louco p[G#o]or você  
+E tenho m[Am]edo de pensar   
+Em te perd[Fm]er                 
+Eu prec[C]iso aceitar que não dá m[F/G]ais
+Pra separar as n[C4]ossas v[C]idas. [C4].  [C].  [F/G]
+```
+
+## Refrão
+```{.chordpro}
+[C]E nessa loucura de dizer
+Que não te quero
+Vou neg[E]ando as aparências
+Disfarçando as evidências
+Mas pra qu[F]e viver fingindo  
+Se eu não p[Dm]osso enganar     
+Meu coraç[G7]ão   
+Eu s[Dm]ei que te amo
+
+Ch[C]ega de mentiras
+De negar o meu desejo       
+Eu te qu[E]ero mais que tudo
+Eu preciso do teu beijo
+Eu entr[F]ego a minha vida
+Pra voc[Dm]ê fazer o que quiser
+De m[G7]im
+       
+Só qu[Dm]ero ouvir voc[G7]ê dizer  
+Que s[C]im              
+Diz que é verd[C5+]ade que tem 
+Saud[F]ade. [C/E].          
+Que a[Dm]inda você p[G7]ensa muito
+Em m[C]im
+
+Diz que é verd[C5+]ade que tem 
+Saud[F]ade. [C/E].          
+Que a[Dm]inda você qu[G7]er viver
+Pra m[C]im
+```
+
+## Segunda parte
+
+## Refrão
 
 

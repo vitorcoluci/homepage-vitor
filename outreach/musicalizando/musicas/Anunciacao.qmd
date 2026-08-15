@@ -1,7 +1,7 @@
 ---
 title: "Anunciação "
 subtitle: "Alceu Valença"
-tom-base: C
+tom-base: G
 filters:
   - ./chords-transpose.lua
 format:
@@ -10,35 +10,40 @@ format:
       - ./cifras-transpose.css
 ---
 
+## Introdução
+```{.chordpro}
+[G].   [Am].  [C].  
+[G].   [Am].  [C].  [G].  
+
 ## Primeira parte
 ```{.chordpro}
-Na bruma leve das paixões que vêm de dentro
-Tu vens chegando pra brincar no meu quintal
-No teu cavalo, peito nu, cabelo ao vento
-E o Sol quarando nossas roupas no varal
+Na bruma leve das paixões que vêm de [Am]dentro
+Tu vens chegando pra brin[C]car no meu quin[G]tal
+No teu cavalo, peito nu, cabelo ao v[Am]ento
+E o Sol quarando nossas r[C]oupas no va[G]ral
 
-Na bruma leve das paixões que vêm de dentro
-Tu vens chegando pra brincar no meu quintal
-No teu cavalo, peito nu, cabelo ao vento
-E o Sol quarando nossas roupas no varal
+Na bruma leve das paixões que vêm de [Am]dentro
+Tu vens chegando pra brin[C]car no meu quin[G]tal
+No teu cavalo, peito nu, cabelo ao v[Am]ento
+E o Sol quarando nossas r[C]oupas no va[G]ral
+
 ```
 
 ## Refrão
 ```{.chordpro}
-Tu vens, tu vens
-Eu já escuto os teus sinais
-Tu vens, tu vens
-Eu já escuto os teus sinais
+Tu v[G]ens, tu v[Em]ens
+[F].  Eu já es[C]cuto os teus sin[G]ais
+Tu v[G]ens, tu v[Em]ens
+[F].  Eu já es[C]cuto os teus sin[G]ais
+
 ```
 
 ## Segunda parte
 ```{.chordpro}
-A voz do anjo sussurrou no meu ouvido
-Eu não duvido, já escuto os teus sinais
-Que tu virias numa manhã de domingo
-Eu te anuncio nos sinos das catedrais
+A voz do anjo sussurrou no meu ouv[Am]ido
+Eu não duvido, já esc[C]uto os teus sin[G]ais
+Que tu virias numa manhã de dom[Am]ingo
+Eu te anuncio nos sin[C]os das catedr[G]ais
 ```
 
 ## Refrão
-
-

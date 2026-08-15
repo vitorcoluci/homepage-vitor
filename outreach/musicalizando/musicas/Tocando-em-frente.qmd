@@ -1,7 +1,7 @@
 ---
 title: "Tocando em frente"
 subtitle: "Almir Sater"
-tom-base: D
+tom-base: C
 filters:
   - ./chords-transpose.lua
 format:
@@ -13,67 +13,69 @@ format:
 
 ## Primeira parte
 ```{.chordpro}
-Ando devagar
-Porque já tive pressa
+[G].   Ando devagar
+Porque já tive [F9]pressa
 E levo esse sorriso
-Porque já chorei demais
+Porque já [C]chorei demais
 
-Hoje me sinto mais forte
-Mais feliz, quem sabe
+[G].   Hoje me sinto mais forte
+Mais feliz, quem [F9]sabe
 Só levo a certeza
-De que muito pouco eu sei
-Ou nada sei
+De que muito [C]pouco eu sei
+Ou [G]nada sei
 ```
 ## Refrão
 ```{.chordpro}
-Conhecer as manhas
-E as manhãs
-O sabor das massas
-E das maçãs
+[F9].  Conhecer as [Dm]manhas
+E as ma[F9]nhãs
+O sabor das [Dm]massas
+E das ma[C]çãs
 
-É preciso amor
-Pra poder pulsar
-É preciso paz pra poder sorrir
-É preciso a chuva para florir
+[F9].  É preciso a[Dm]mor
+Pra poder pul[F9]sar
+É preciso [Dm]paz pra poder so[F9]rrir
+É preciso a [C]chuva para florir
 ```
 ## Segunda parte
 ```{.chordpro}
-Penso que cumprir a vida
-Seja simplesmente
+[G]Penso que cumprir a vida
+Seja simples[F9]mente
 Compreender a marcha
-E ir tocando em frente
+E ir tocando em [C]frente
 
-Como um velho boiadeiro
-Levando a boiada
+[G]Como um velho boiadeiro
+Levando a boi[F9]ada
 Eu vou tocando os dias
-Pela longa estrada, eu vou
-Estrada eu sou
+Pela longa es[C]trada, eu vou
+Es[G]trada eu sou
 ```
 
 ## Refrão
 
 ## Terceira parte
 ```{.chordpro}
-Todo mundo ama um dia
-Todo mundo chora
+[G]Todo mundo ama um dia
+Todo mundo [F9]chora
 Um dia a gente chega
-Noutro vai embora
+Noutro vai em[C]bora
 
-Cada um de nós compõe a sua história
-E cada ser em si carrega o dom de ser capaz
-De ser feliz
+[G].  Cada um de nós compõe a sua his[F9]tória
+E cada ser em si
+carrega o dom de [C]ser capaz
+De [G]ser feliz
 ```
 
 ## Refrão
 
 ## Final
 ```{.chordpro}
-Ando devagar
-Porque já tive pressa
+[G].  Ando devagar
+Porque já tive [F9]pressa
 E levo esse sorriso
-Porque já chorei demais
+Porque já ch[C]orei demais
 
-Cada um de nós compõe a sua história
-E cada ser em si carrega o dom de ser capaz
-E ser feliz
+[G].  Cada um de nós compõe a sua his[F9]tória
+E cada ser em si
+Carrega o dom de [C]ser capaz
+E [G]ser feliz
 ```

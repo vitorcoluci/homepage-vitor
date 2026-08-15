@@ -11,30 +11,42 @@ format:
 ---
 ## Primeira parte
 ```{.chordpro}
-Nestes versos tão singelos, Minha bela, meu amor
-Pra você quero contar, O meu sofrer, a minha dor
-Eu sou como o sabiá, Quando canta é só tristeza
-Desde o galho onde ele está
-Nesta viola eu canto e gemo de verdade
-Cada toada representa uma saudade
+[C]Nestes [F]versos tão sin[C]gelos,
+Minha [G7]bela, meu am[C]or
+Pr[C]a vo[F]cê quero con[C]tar
+O meu so[G7]frer, a minha [C]dor.  [C7].  
+[F]Eu sou como o sabi[C]á,
+Quando canta é só tris[G7]teza
+Desde o galho onde ele es[C]tá
+[G7]Nesta viola eu canto e gemo de ver[C]dade
+[G7]Cada toada representa uma sau[C]dade
 ```
 
 ## Segunda parte
 ```{.chordpro}
-Eu nasci naquela serra, num ranchinho a beira-chão
-Tudo cheio de buraco, onde a Lua faz clarão
-Quando chega a madrugada, lá no mato a passarada
-Principia o barulhão
-Nesta viola eu canto e gemo de verdade
-Cada toada representa uma saudade
+[C]Eu nasc[F]i naquela [C]serra,
+num ran[G7]chinho a beira-[C]chão
+Todo [F]cheio de bu[C]raco,
+onde a [G7]Lua faz cla[C]rão.   [C7]
+[F]Quando chega a madru[C]gada,
+lá no mato a passa[G7]rada
+Principia o baru[C]lhão
+[G7]Nesta viola eu canto e gemo de ver[C]dade
+[G7]Cada toada representa uma sau[C]dade
 ```
 
 ## Terceira parte
 ```{.chordpro}
-Vou guardar minha viola, já não posso mais cantar
-Pois o jeca quando canta, tem vontade de chorar
-E o choro que vai caindo, Devagar vai se sumindo
-Como as águas vão pro mar
-Nesta viola eu canto e gemo de verdade
-Cada toada representa uma saudade
+[C]Lá no [F]mato tudo é [C]triste
+desde o [G7]jeito de can[C]tar
+Pois o [F]Jeca quando [C]canta,
+tem von[G7]tade de cho[C]rar.  [C7].   
+[F]E o choro que vai [C]caindo,
+Devagar vai se su[G7]mindo
+Como as águas vão pro [C]mar
+[G7]Nesta viola eu canto e gemo de ver[C]dade
+[G7]Cada toada representa uma sau[C]dade
+
+[G7]Nesta viola eu canto e gemo de ver[C]dade
+[G7]Cada toada representa uma sau[C]dade
 ```
