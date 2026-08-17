@@ -1,0 +1,85 @@
+---
+title: "É o amor"
+subtitle: "Zezé Di Camargo e Luciano"
+tom-base: G
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+---
+
+[Voltar para **Músicas**](../musicas.qmd)
+
+## Introdução
+```{.chordpro}
+[C]       [G]        [D7]         [G]         [D7]            
+```
+
+## Primeira Parte
+```{.chordpro}
+Eu [G]não vou negar que sou louco por você                              
+Tô maluco pra te ver, eu não vou ne[D7]gar
+Eu [Am]não vou negar, sem vo[Am/G]cê tudo é sau[D7]dade                
+Você traz felici[Am7]dade
+[D]   Eu não vou [G]negar   [Am]       [D]      
+Eu [G]não vou negar, você é meu doce mel                                  
+Meu peda[G7]cinho de céu, eu não vou [C]negar
+```
+
+## Pré-Refrão
+```{.chordpro} 
+Você é minha doce amada
+Minha alegr[G]ia, meu conto de fada
+Minha fantas[Am7]ia           
+A paz que eu pre[D7]ciso pra sobrevi[G]ver [G7]  
+Eu [C]sou o seu apaixonado, de alma transpa[G]rente
+Um louco alucinado meio inconse[Am7]quente
+Um caso compli[D]cado de se [G] entender
+```
+
+## Refrão
+```{.chordpro}
+É o am[C]or, que mexe com a minha cabeça             
+E me deixa as[G]sim
+Que faz eu pensar em você
+E esquecer d[D7]e mim      
+Que [Am7]faz eu esquecer que a [D7]vida
+É feita pra vi[G]ver  [G7]  
+É o am[C]or
+Que [G]veio como um tiro certo no meu coração
+Que [D7]derrubou a base forte da minha paixão
+Que [Am7]fez eu entender que a [D7]vida é nada sem [G] voc[Am]ê   [D]
+```
+
+## Ponte
+```{.chordpro}
+Eu [G]não vou negar, você é meu doce mel                                
+Meu pedacinho de céu, [Bo] eu não vou [C]negar
+```
+
+## Pré-Refrão
+```{.chordpro} 
+Você é minha doce amada
+Minha alegr[G]ia, meu conto de fada
+Minha fantas[Am7]ia           
+A paz que eu pre[D7]ciso pra sobrevi[G]ver [G7]  
+Eu [C]sou o seu apaixonado, de alma transpa[G]rente
+Um louco alucinado meio inconse[Am7]quente
+Um caso compli[D]cado de se [G] entender  [G7]  
+```
+
+## Refrão
+```{.chordpro}
+É o am[C]or, que mexe com a minha cabeça             
+E me deixa as[G]sim
+Que faz eu pensar em você
+E esquecer d[D7]e mim      
+Que [Am7]faz eu esquecer que a [D7]vida
+É feita pra vi[G]ver  [G7]  
+É o am[C]or
+Que [G]veio como um tiro certo no meu coração
+Que [D7]derrubou a base forte da minha paixão
+Que [Am7]fez eu entender que a [D7]vida é nada sem [G] voc[Am]ê         [D]   
+``` 

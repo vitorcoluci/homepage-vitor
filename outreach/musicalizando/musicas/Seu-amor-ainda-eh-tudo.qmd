@@ -1,0 +1,77 @@
+---
+title: "Seu amor ainda é tudo"
+subtitle: "Moacyr Franco"
+tom-base: G
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+---
+
+[Voltar para **Músicas**](../musicas.qmd)
+
+## Introdução
+```{.chordpro}
+[Am]          [Am]           [F]       [E7]        
+```
+
+## Primeira Parte
+```{.chordpro}
+M[Am]uito prazer em rev[Am/G]ê-la você est[Dm]á bonita
+M[Dm]uito elegante mais [E7]jovem tão cheia [Am7]de vida
+Eu ainda falo de f[Am]lores e declamo [Dm]seu nome
+[Dm]Mesmo meus dedos me tra[E7]em e disco seu [Am7]telefone  [E7]  
+```
+
+## Pré-Refrão 
+```{.chordpro}
+[A]É minha cara, mu[A7</G#]dei minha cara   [A/G]
+Mas por dentro eu não [D]mudo  [C#m7]                             
+[Dm]O sentimento não pára a doença não sara
+Seu amor ainda é [E7]tudo , tudo
+```
+
+## Refrão
+```{.chordpro}
+[A]Daquele momento até hoje esperei voc[Bm7]ê  
+Da[E]quele maldito momento até hoje [A]só você
+Eu [A]sei que o culpado de não ter você, [Bm7]sou eu
+E esse [E]medo terrível de amar outra vez  [E7]   
+É [Am]meu   [E7]   
+```
+
+## Segunda Parte
+```{.chordpro}
+[Am7]Sei não devia dizer [Am/G]e disse perd[Dm]oa
+[Dm]Bem que eu queria encontr[E7]á-la e sorrir [Am7]numa boa
+[Am7]Mas convenhamos  [Am/G]a vida nos [Dm]faz tão pequenos
+[Dm]Nos preparamos pra m[E7]uito e  [Am]  choramos por menos 
+```
+
+## Pré-Refrão 
+```{.chordpro}
+[A]É minha cara, mu[A7</G#]dei minha cara   [A/G]
+Mas por dentro eu não [D]mudo  [C#m7]                             
+[Dm]O sentimento não pára a doença não sara
+Seu amor ainda é [E7]tudo , tudo
+```
+
+## Refrão
+```{.chordpro}
+[A]Daquele momento até hoje esperei voc[Bm7]ê  
+Da[E]quele maldito momento até hoje [A]só você
+Eu [A]sei que o culpado de não ter você, [Bm7]sou eu
+E esse [E]medo terrível de amar outra vez  [E7]   
+É [Am]meu   [E7]   
+```
+
+## Refrão
+```{.chordpro}
+[A]Daquele momento até hoje esperei voc[Bm7]ê  
+Da[E]quele maldito momento até hoje [A]só você
+Eu [A]sei que o culpado de não ter você, [Bm7]sou eu
+E esse [E]medo terrível de amar outra vez  [E7]   
+É [Am]meu   [E7]   
+```

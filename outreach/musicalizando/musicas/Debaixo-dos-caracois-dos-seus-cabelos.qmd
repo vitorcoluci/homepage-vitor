@@ -1,0 +1,81 @@
+---
+title: "Debaixo dos caracóis dos seus cabelos"
+subtitle: "Roberto Carlos"
+tom-base: A
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+---
+
+[Voltar para **Músicas**](../musicas.qmd)
+
+## Introdução
+```{.chordpro}
+[A]     [E]    [A]    [E]    
+[A]     [E]    [A]    [E] 
+```
+
+
+## Primeira Parte
+```{.chordpro}
+
+Um [A]dia a areia branca
+Seus [D]pés irão tocar
+E [E7]vai molhar seus cabelos
+A [A]água a[D]zul do [A]mar    [E7]   
+Ja[A]nelas e portas vão se abrir
+Pra [D]ver você chegar
+E [E7]ao se sentir em casa
+[A]Sorrindo [D]vai cho[A]rar    [E7]    
+```
+
+## Refrão
+```{.chordpro}
+De[A]baixo dos caracóis
+Dos seus ca[Bm]belos
+Uma história pra con[E7]tar
+De um mundo tão dis[A]tante   [E7]
+De[A]baixo dos caracóis
+Dos seus ca[Bm]belos
+Um soluço e a von[E7]tade
+De ficar mais um inst[A]ante
+```
+
+## Introdução
+
+## Segunda Parte
+```{.chordpro}
+
+As [A]luzes e o colorido 
+Que [D]você vê agora
+Nas [E7]ruas por onde anda
+Na [A]casa [D]onde [A]mora   [E7]
+
+Voc[A]ê olha tudo e nada 
+Lhe [D]faz ficar contente
+Voc[D7]ê só deseja agora
+Vol[A]tar pra [D]sua g[A]ente   [E7]   
+```
+
+## Refrão
+
+## Introdução
+
+## Terceira Parte
+```{.chordpro}
+Vo[A]cê anda pela tarde
+E o [D]seu olhar tristonho
+[E7]Deixa sangrar no peito
+Um[A]a sau[D]dade, um [A]sonho   [E7]   
+Um [A]dia vou ver você
+Che[D]gando num sorriso
+Pi[E7]sando a areia branca 
+Que [A]é o [D]seu par[A]aíso  [E7]   
+```
+
+## Refrão
+
+## Introdução

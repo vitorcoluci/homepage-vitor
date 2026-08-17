@@ -8,6 +8,10 @@ title: "Músicas"
 
 ## [Asa Branca](./musicas/Asa-Branca.qmd)
 
+## [Debaixo dos caracóis dos seus cabelos](./musicas/Debaixo-dos-caracois-dos-seus-cabelos.qmd)
+
+## [É o amor](./musicas/E-o-amor.qmd)
+
 ## [É preciso saber viver](./musicas/E-preciso-saber-viver.qmd)
 
 ## [Esperando na Janela](./musicas/Esperando-na-Janela.qmd)
@@ -20,11 +24,15 @@ title: "Músicas"
 
 ## [Não deixe o samba morrer](./musicas/Nao-deixe-o-samba-morrer.qmd)
 
+## [O sol](./musicas/O-sol.qmd)
+
 ## [O Xote das meninas](./musicas/o-xote-das-meninas.qmd)
 
 ## [Pense em mim](./musicas/Pense-em-mim.qmd)
 
 ## [Sangue latino](./musicas/Sangue-latino.qmd)
+
+## [Seu amor ainda é tudo](./musicas/Seu-amor-ainda-eh-tudo.qmd)
 
 ## [Tocando em frente](./musicas/Tocando-em-frente.qmd)
 

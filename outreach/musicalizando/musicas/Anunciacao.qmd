@@ -14,8 +14,9 @@ format:
 
 ## Introdução
 ```{.chordpro}
-[G].   [Am].  [C].  
-[G].   [Am].  [C].  [G].  
+[G].       [Am].        [C].  
+[G].       [Am].        [C].        [G].  
+```
 
 ## Primeira parte
 ```{.chordpro}
