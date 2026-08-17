@@ -9,6 +9,11 @@ format:
     css:
       - ./cifras-transpose.css
 ---
+
+
+[Voltar para **Músicas**](../musicas.qmd)
+
+
 ## Primeira parte
 ```{.chordpro}
 [C]Nestes [F]versos tão sin[C]gelos,

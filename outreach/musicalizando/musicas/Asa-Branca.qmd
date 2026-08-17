@@ -9,6 +9,11 @@ format:
     css:
       - ./cifras-transpose.css
 ---
+
+
+[Voltar para **Músicas**](../musicas.qmd)
+
+
 ```{.chordpro}
 Quando olh[G]ei a terra ard[C]endo
 Quá fogu[G]eira de S[D7]ão Jo[G]ão

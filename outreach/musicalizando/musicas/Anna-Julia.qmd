@@ -10,6 +10,8 @@ format:
       - ./cifras-transpose.css
 ---
 
+[Voltar para **Músicas**](../musicas.qmd)
+
 ## Primeira parte
 
 ```{.chordpro}                   

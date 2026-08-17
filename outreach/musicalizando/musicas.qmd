@@ -20,7 +20,7 @@ title: "Músicas"
 
 ## [Não deixe o samba morrer](./musicas/Nao-deixe-o-samba-morrer.qmd)
 
-## [O Xote das meninas](./musicas/O-xote-das-meninas.qmd)
+## [O Xote das meninas](./musicas/o-xote-das-meninas.qmd)
 
 ## [Pense em mim](./musicas/Pense-em-mim.qmd)
 

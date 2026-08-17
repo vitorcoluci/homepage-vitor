@@ -10,6 +10,9 @@ format:
       - ./cifras-transpose.css
 ---
 
+[Voltar para **Músicas**](../musicas.qmd)
+
+
 ```{.chordpro}
 Quem esp[E]era que a vida
 Seja f[E7M]eita de ilusão
