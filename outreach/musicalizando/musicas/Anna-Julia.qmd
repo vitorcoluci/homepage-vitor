@@ -12,6 +12,11 @@ format:
 
 [Voltar para **Músicas**](../musicas.qmd)
 
+
+## Introdução
+```{.chordpro} 
+[C]       [Am]              
+[C]       [Am]         
 ## Primeira parte
 
 ```{.chordpro}                   

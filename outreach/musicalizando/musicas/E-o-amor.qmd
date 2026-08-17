@@ -14,18 +14,18 @@ format:
 
 ## Introdução
 ```{.chordpro}
-[C]       [G]        [D7]         [G]         [D7]            
+[C]       [G]        [D]         [G]         [D]            
 ```
 
 ## Primeira Parte
 ```{.chordpro}
 Eu [G]não vou negar que sou louco por você                              
 Tô maluco pra te ver, eu não vou ne[D7]gar
-Eu [Am]não vou negar, sem vo[Am/G]cê tudo é sau[D7]dade                
-Você traz felici[Am7]dade
-[D]   Eu não vou [G]negar   [Am]       [D]      
-Eu [G]não vou negar, você é meu doce mel                                  
-Meu peda[G7]cinho de céu, eu não vou [C]negar
+Eu [Am]não vou negar, sem você tudo é sa[D7]udade                
+Você traz felici[Am]dade
+[D]   Eu não vou neg[G]ar   [Am]       [D]      
+Eu n[G]ão vou negar, você é meu doce mel                                  
+Meu pedacinho de céu, eu não vou [C]negar
 ```
 
 ## Pré-Refrão
@@ -36,7 +36,7 @@ Minha fantas[Am7]ia
 A paz que eu pre[D7]ciso pra sobrevi[G]ver [G7]  
 Eu [C]sou o seu apaixonado, de alma transpa[G]rente
 Um louco alucinado meio inconse[Am7]quente
-Um caso compli[D]cado de se [G] entender
+Um caso compli[D]cado de se [G]entender
 ```
 
 ## Refrão
@@ -46,17 +46,17 @@ E me deixa as[G]sim
 Que faz eu pensar em você
 E esquecer d[D7]e mim      
 Que [Am7]faz eu esquecer que a [D7]vida
-É feita pra vi[G]ver  [G7]  
+É feita pra viv[G]er  [G7]  
 É o am[C]or
-Que [G]veio como um tiro certo no meu coração
-Que [D7]derrubou a base forte da minha paixão
-Que [Am7]fez eu entender que a [D7]vida é nada sem [G] voc[Am]ê   [D]
+Que veio como um tiro certo no meu cora[G]ção
+Que derrubou a base forte da minha paix[D]ão
+Que [Am7]fez eu entender que a v[D7]ida é nada sem v[G]ocê   [Am]   [D]
 ```
 
 ## Ponte
 ```{.chordpro}
 Eu [G]não vou negar, você é meu doce mel                                
-Meu pedacinho de céu, [Bo] eu não vou [C]negar
+Meu pedacinho de céu, eu não vou n[C]egar
 ```
 
 ## Pré-Refrão
@@ -64,10 +64,10 @@ Meu pedacinho de céu, [Bo] eu não vou [C]negar
 Você é minha doce amada
 Minha alegr[G]ia, meu conto de fada
 Minha fantas[Am7]ia           
-A paz que eu pre[D7]ciso pra sobrevi[G]ver [G7]  
+A paz que eu prec[D7]iso pra sobreviv[G]er   [G7]  
 Eu [C]sou o seu apaixonado, de alma transpa[G]rente
 Um louco alucinado meio inconse[Am7]quente
-Um caso compli[D]cado de se [G] entender  [G7]  
+Um caso complic[D]ado de se [G]entender  [G7]  
 ```
 
 ## Refrão
@@ -79,7 +79,7 @@ E esquecer d[D7]e mim
 Que [Am7]faz eu esquecer que a [D7]vida
 É feita pra vi[G]ver  [G7]  
 É o am[C]or
-Que [G]veio como um tiro certo no meu coração
-Que [D7]derrubou a base forte da minha paixão
-Que [Am7]fez eu entender que a [D7]vida é nada sem [G] voc[Am]ê         [D]   
+Que veio como um tiro certo no meu cora[G]ção
+Que derrubou a base forte da minha paix[D]ão
+Que [Am7]fez eu entender que a [D7]vida é nada sem [G]você    [Am]  [D]   [G]         [D]   
 ``` 
