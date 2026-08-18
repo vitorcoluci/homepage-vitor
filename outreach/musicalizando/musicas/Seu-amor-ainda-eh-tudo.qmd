@@ -36,9 +36,9 @@ Seu amor ainda é [A]tudo , [E7]tudo
 
 ## Refrão
 ```{.chordpro}
-[A]Daquele momento até [F#m]hoje esperei voc[Bm7]ê    [Bm7M]        [Bm7]         [Bm6]     
+[A]Daquele momento até [F#m]hoje esperei voc[Bm7]ê           [Bm7M]                    [Bm7]               [Bm6]     
 Da[E7]quele maldito momento até hoje só v[A]ocê [D]    [E7]
-Eu [A]sei que o culpado de[F#m] não ter você, sou [Bm] eu     [Bm7M]        [Bm7]         [Bm6] 
+Eu [A]sei que o culpado de[F#m] não ter você, sou [Bm] eu           [Bm7M]                    [Bm7]               [Bm6]     
 E [E7]esse medo terrível de amar outra [A]ve[E7]z    
 É [A]meu   [E7]   
 ```
@@ -53,7 +53,7 @@ E [E7]esse medo terrível de amar outra [A]ve[E7]z
 
 ## Pré-Refrão 
 ```{.chordpro}
-É[A], minha [A7M]cara, mud[A6]ei minha c[A7M]ara   [A]
+É[A], minha [A7M]cara, mud[A6]ei minha c[A7M]ara          [A]    
 Mas por dentro eu não [D]mudo                            
 O [Bm] senti[Bm7M]mento [Bm7]não pára [Bm6]a doença nã[E7]o sara
 Seu amor ainda é [A]tudo , [E7]tudo
@@ -61,9 +61,9 @@ Seu amor ainda é [A]tudo , [E7]tudo
 
 ## Refrão
 ```{.chordpro}
-[A]Daquele momento até [F#m]hoje esperei voc[Bm7]ê    [Bm7M]        [Bm7]         [Bm6]     
+[A]Daquele momento até [F#m]hoje esperei voc[Bm7]ê           [Bm7M]                    [Bm7]               [Bm6]     
 Da[E7]quele maldito momento até hoje só v[A]ocê [D]    [E7]
-Eu [A]sei que o culpado de[F#m] não ter você, sou [Bm] eu    [Bm7M]        [Bm7]         [Bm6] 
+Eu [A]sei que o culpado de[F#m] não ter você, sou [Bm] eu           [Bm7M]                    [Bm7]               [Bm6]     
 E [E7]esse medo terrível de amar outra [A]ve[E7]z    
 É [A]meee[D]eeu....[A].uuu   
 ```
