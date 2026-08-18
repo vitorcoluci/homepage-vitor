@@ -8,6 +8,7 @@ format:
   html:
     css:
       - ./cifras-transpose.css
+    toc: false
 ---
 
 [Voltar para **Músicas**](../musicas.qmd)
@@ -15,8 +16,10 @@ format:
 
 ## Introdução
 ```{.chordpro} 
-[C]       [Am]              
-[C]       [Am]         
+[C].          [Am].                  
+[C].          [Am].     
+```
+        
 ## Primeira parte
 
 ```{.chordpro}                   
@@ -63,9 +66,9 @@ Dentro do meu [G]coração
 ```{.chordpro}
 [Am]Sei que vo[Em]cê já não que[F]r o meu a[C]mor       
 [Am]Sei que vo[Em]cê já não g[F]osta de [C]mim          
-Eu [Am]sei que eu não s[E]ou        
+Eu [Am]sei que eu não s[Em]ou        
 Quem vo[F]cê sempre so[C]nhou       
-Mas [Am]vou reconquis[E]tar         
+Mas [Am]vou reconquis[Em]tar         
 O seu a[F]mor todo pra m[G]im
 ```
 

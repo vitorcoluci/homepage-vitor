@@ -8,6 +8,7 @@ format:
   html:
     css:
       - ./cifras-transpose.css
+    toc: false
 ---
 
 
@@ -19,7 +20,7 @@ format:
 [C]Nestes [F]versos tão sin[C]gelos,
 Minha [G7]bela, meu am[C]or
 Pr[C]a vo[F]cê quero con[C]tar
-O meu so[G7]frer, a minha [C]dor.  [C7].  
+O meu so[G7]frer, a minha [C]dor.  [C7]  
 [F]Eu sou como o sabi[C]á,
 Quando canta é só tris[G7]teza
 Desde o galho onde ele es[C]tá
@@ -45,7 +46,7 @@ Principia o baru[C]lhão
 [C]Lá no [F]mato tudo é [C]triste
 desde o [G7]jeito de can[C]tar
 Pois o [F]Jeca quando [C]canta,
-tem von[G7]tade de cho[C]rar.  [C7].   
+tem von[G7]tade de cho[C]rar.  [C7]     
 [F]E o choro que vai [C]caindo,
 Devagar vai se su[G7]mindo
 Como as águas vão pro [C]mar

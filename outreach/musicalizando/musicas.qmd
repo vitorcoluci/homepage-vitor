@@ -1,5 +1,8 @@
 ---
 title: "Músicas"
+format:
+  html:
+    toc: false
 ---
 
 ## [Anna Julia](./musicas/Anna-Julia.qmd)

@@ -9,6 +9,7 @@ format:
   html:
     css:
       - ./cifras-transpose.css
+    toc: false
 ---
 
 
