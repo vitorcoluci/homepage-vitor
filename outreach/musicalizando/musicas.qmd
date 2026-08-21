@@ -39,6 +39,8 @@ format:
 
 ## [Tocando em frente](./musicas/Tocando-em-frente.qmd)
 
+## [Tristeza](./musicas/Tristeza.qmd)
+
 ## [Tristeza do Jeca](./musicas/Tristeza-do-Jeca.qmd)
 
 ## [Você não me ensinou a te esquecer](./musicas/Voce-nao-me-ensinou-a-te-esquecer.qmd)
