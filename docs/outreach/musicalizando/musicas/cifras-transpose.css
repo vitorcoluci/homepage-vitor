@@ -1,4 +1,4 @@
-/* cifras-transpose-v2.css
+/* cifras-transpose-v3.css — AUTOSCROLL + DUAS COLUNAS
    Cifra grande + painel de tonalidade/capotraste.
 */
 
@@ -234,5 +234,445 @@ body.lyrics-only-mode .chordpro {
 
   body.lyrics-only-mode .chordpro {
     font-size: clamp(1.22rem, 0.94rem + 1.6vw, 1.58rem);
+  }
+}
+
+
+/* ---------- Rolagem automática ---------- */
+
+.autoscroll-dock {
+  position: sticky;
+  top: 0.45rem;
+  z-index: 1030;
+
+  width: min(34rem, calc(100vw - 2rem));
+  margin: -0.75rem 0 1.15rem 0;
+  padding: 0.48rem 0.7rem 0.58rem 0.7rem;
+
+  border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  border-radius: 0.5rem;
+
+  background: color-mix(in srgb, var(--bs-body-bg, Canvas) 93%, transparent);
+
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+
+  box-shadow: 0 0.18rem 0.55rem color-mix(in srgb, black 10%, transparent);
+}
+
+.autoscroll-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.28rem;
+}
+
+.autoscroll-title {
+  font-size: 0.78rem;
+  font-weight: 700;
+  opacity: 0.8;
+}
+
+.autoscroll-state {
+  font-size: 0.74rem;
+  opacity: 0.64;
+}
+
+.autoscroll-active .autoscroll-state {
+  font-weight: 700;
+  opacity: 0.9;
+}
+
+.autoscroll-control {
+  display: grid;
+  grid-template-columns: auto minmax(12rem, 1fr) auto;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.autoscroll-direction {
+  font-size: 1rem;
+  line-height: 1;
+  opacity: 0.7;
+}
+
+.autoscroll-slider {
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+  cursor: ew-resize;
+}
+
+@media (max-width: 700px) {
+  .autoscroll-dock {
+    top: 0.3rem;
+    width: calc(100vw - 1rem);
+  }
+
+  .autoscroll-control {
+    grid-template-columns: auto minmax(8rem, 1fr) auto;
+  }
+}
+
+@media print {
+  .autoscroll-dock {
+    display: none;
+  }
+}
+
+/* ---------- Duas minipages independentes ---------- */
+
+/*
+   O Lua cria .song-content sem exigir nada novo no QMD.
+   O JavaScript agrupa automaticamente as seções (A, R, B, C...) e cria
+   duas minipages independentes, preservando a ordem da música.
+*/
+
+.song-content,
+.song-spread {
+  width: 100%;
+}
+
+.song-minipage-staging {
+  width: 100%;
+}
+
+.song-section {
+  min-width: 0;
+}
+
+/* Uma coluna: as duas minipages simplesmente ficam empilhadas. */
+.song-spread {
+  display: block;
+}
+
+.song-page {
+  min-width: 0;
+  width: 100%;
+}
+
+/*
+   Duas colunas: grid real, não CSS multi-column.
+   Cada metade funciona como uma minipage separada.
+*/
+body.two-column-mode .song-spread {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: clamp(3rem, 5.5vw, 7rem);
+  align-items: start;
+}
+
+body.two-column-mode .song-page {
+  min-width: 0;
+  width: 100%;
+  padding-inline: clamp(0.25rem, 0.8vw, 0.8rem);
+}
+
+body.two-column-mode .song-page-left {
+  border-right: 1px solid color-mix(in srgb, currentColor 16%, transparent);
+  padding-right: clamp(1.4rem, 2.2vw, 2.6rem);
+}
+
+body.two-column-mode .song-page-right {
+  padding-left: clamp(1.4rem, 2.2vw, 2.6rem);
+}
+
+/*
+   Tamanho-base menor para a visão em duas páginas.
+   O JavaScript reduz apenas o necessário em cada minipage para que
+   a linha mais larga caiba naquele lado da tela.
+*/
+body.two-column-mode .song-page .chordpro {
+  font-size: var(
+    --two-page-chord-size,
+    clamp(1.15rem, 0.92rem + 0.8vw, 1.9rem)
+  );
+
+  width: 100%;
+  max-width: 100%;
+  overflow-x: visible;
+
+  margin-top: 0.55rem;
+  margin-bottom: 1.25rem;
+}
+
+body.two-column-mode .song-page .chordpro-line {
+  min-width: 0;
+  width: max-content;
+  max-width: none;
+}
+
+/* Títulos das seções também se adaptam à minipage. */
+body.two-column-mode .song-page h2 {
+  font-size: clamp(1rem, 0.88rem + 0.45vw, 1.35rem);
+  margin-top: 0.75rem;
+  margin-bottom: 0.35rem;
+}
+
+/* Modo cantor fica mais compacto, mas continua usando auto-fit de largura. */
+body.two-column-mode.lyrics-only-mode .song-page .chordpro {
+  margin-top: 0.2rem;
+  margin-bottom: 0.7rem;
+  line-height: 1.05;
+}
+
+body.two-column-mode.lyrics-only-mode .song-page .chordpro-line,
+body.two-column-mode.lyrics-only-mode .song-page .chordpro-lyric {
+  line-height: 1.05;
+}
+
+body.two-column-mode.lyrics-only-mode .song-page .chordpro-line {
+  margin-bottom: 0.04em;
+}
+
+/*
+   Em telas estreitas não força "duas páginas": as minipages voltam a ficar
+   empilhadas e o tamanho normal da cifra é restaurado.
+*/
+@media (max-width: 979px) {
+  body.two-column-mode .song-spread {
+    display: block;
+  }
+
+  body.two-column-mode .song-page-left {
+    border-right: 0;
+    padding-right: 0;
+  }
+
+  body.two-column-mode .song-page-right {
+    padding-left: 0;
+  }
+
+  body.two-column-mode .song-page .chordpro {
+    font-size: inherit;
+  }
+}
+
+@media print {
+  body.two-column-mode .song-spread {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    column-gap: 1.4cm;
+  }
+
+  body.two-column-mode .song-page-left {
+    border-right: 0.3pt solid #999;
+    padding-right: 0.7cm;
+  }
+
+  body.two-column-mode .song-page-right {
+    padding-left: 0.7cm;
+  }
+}
+
+
+/* Compatibilidade com as <section class="level2"> geradas pelo Quarto. */
+.song-page > section.song-section {
+  min-width: 0;
+  width: 100%;
+}
+
+body.two-column-mode .song-page > section.song-section {
+  margin: 0;
+  padding: 0;
+}
+
+body.two-column-mode .song-page > section.song-section + section.song-section {
+  margin-top: 0.7rem;
+}
+
+
+/* =========================================================
+   CAMPO HARMÔNICO PARA INSTRUMENTISTAS
+   ========================================================= */
+
+.harmonic-field-panel {
+  width: 100%;
+  margin: 0.4rem 0 1.15rem 0;
+  padding: 0.65rem 0.7rem 0.75rem 0.7rem;
+
+  border: 1px solid color-mix(in srgb, currentColor 16%, transparent);
+  border-radius: 0.55rem;
+
+  background: color-mix(in srgb, var(--bs-body-bg, Canvas) 96%, transparent);
+}
+
+.harmonic-field-panel[hidden] {
+  display: none !important;
+}
+
+/* No modo cantor o campo harmônico desaparece por completo. */
+body.lyrics-only-mode .harmonic-field-panel {
+  display: none !important;
+}
+
+.harmonic-field-heading {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.55rem;
+}
+
+.harmonic-field-title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.harmonic-field-context {
+  margin: 0.08rem 0 0 0;
+  font-size: 0.76rem;
+  line-height: 1.2;
+  opacity: 0.72;
+}
+
+.harmonic-field-legend {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  opacity: 0.64;
+}
+
+.harmonic-field-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 0.48rem;
+}
+
+.harmonic-chord-card {
+  min-width: 0;
+  padding: 0.42rem 0.38rem 0.5rem 0.38rem;
+
+  border: 1px solid color-mix(in srgb, currentColor 14%, transparent);
+  border-radius: 0.42rem;
+
+  background: color-mix(in srgb, currentColor 2.5%, transparent);
+}
+
+.harmonic-chord-head {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  align-items: baseline;
+  gap: 0.25rem 0.35rem;
+  margin-bottom: 0.22rem;
+}
+
+.harmonic-degree {
+  font-size: 0.72rem;
+  font-weight: 800;
+  opacity: 0.62;
+}
+
+.harmonic-chord-name {
+  font-size: 0.98rem;
+  line-height: 1;
+}
+
+.harmonic-function {
+  min-width: 0;
+  font-size: 0.62rem;
+  text-align: right;
+  opacity: 0.56;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.harmonic-voicings {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.25rem;
+}
+
+.harmonic-voicing {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.harmonic-voicing-label {
+  margin-bottom: -0.12rem;
+  font-size: 0.58rem;
+  font-weight: 700;
+  opacity: 0.66;
+}
+
+.harmonic-chord-svg {
+  display: block;
+  width: min(100%, 74px);
+  height: auto;
+  overflow: visible;
+}
+
+.harmonic-string,
+.harmonic-fret {
+  stroke: currentColor;
+}
+
+.harmonic-string-mark,
+.harmonic-base-fret {
+  fill: currentColor;
+  font-family: inherit;
+  font-size: 8px;
+  font-weight: 700;
+  text-anchor: middle;
+}
+
+.harmonic-base-fret {
+  text-anchor: start;
+  font-size: 7px;
+}
+
+.harmonic-open-string {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.15;
+}
+
+.harmonic-finger {
+  fill: currentColor;
+}
+
+.harmonic-fingering {
+  display: block;
+  max-width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+
+  font-size: 0.52rem;
+  line-height: 1;
+  white-space: nowrap;
+  opacity: 0.62;
+}
+
+@media (max-width: 1280px) {
+  .harmonic-field-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .harmonic-field-heading {
+    align-items: flex-start;
+  }
+
+  .harmonic-field-legend {
+    display: none;
+  }
+
+  .harmonic-field-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media print {
+  .harmonic-field-panel {
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
 }
