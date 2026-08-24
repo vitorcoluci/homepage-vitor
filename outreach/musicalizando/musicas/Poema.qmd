@@ -1,0 +1,76 @@
+---
+title: " Poema"
+subtitle: "Cazuza e Frejat"
+tom-base: F
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+    toc: false
+---
+
+[Voltar para **Músicas**](../musicas.qmd)
+
+## Primeira Parte
+```{.chordpro}
+[C] Eu hoje tive um pesa[G]delo
+E levantei aten[Dm7]to, a tem[F]po
+[C] Eu acordei com [G]medo
+E [G]procurei no escuro
+Alguém com seu cari[Dm7]nho
+E lembrei de um [F]tempo
+```
+
+## Refrão
+```{.chordpro}
+[Am] Porque o passado
+Me traz uma lem[Am7/G]brança
+Do tempo que eu era [F]criança [F2]
+[Am] E o medo era motivo de [Am7/G]choro
+Desculpa pra um a[F]braço ou conso[G]lo
+```
+
+## Solo
+```{.chordpro}
+    [C].    [G]     [Dm7]     [F]     [F2].   
+    [C].    [G]     [Dm7]     [F]     [F2].   
+```
+
+## Segunda Parte
+```{.chordpro}
+[C] Hoje eu acordei com [G]medo
+Mas não cho[Dm7]rei
+Nem reclamei a[F]brigo
+[C] Do escuro eu via um infi[G]nito
+Sem pre[Dm7]sente
+Passado ou fu[F]turo
+
+[C] Senti um abraço [G]forte
+Já não era medo
+[Dm7] Era uma coisa sua
+Que ficou em [F]mim
+```
+
+## Refrão
+```{.chordpro}
+[Am] Porque o passado
+Me traz uma lem[Am7/G]brança
+Do tempo que eu era [F]criança [F2]
+[Am] E o medo era motivo de [Am7/G]choro
+Desculpa pra um a[F]braço ou conso[G]lo
+```
+
+```{.chordpro}
+[F] De repente a gente vê que per[G]deu
+Ou está per[Am]dendo alguma [D7]coisa
+[F] Morna e ingê[G]nua
+Que vai ficando no ca[Am]minho [Am7]
+[F] Que é escuro e [G]frio
+
+Mas também bonito
+[Am] Porque é ilumi[D7]nado
+[F] Pela beleza do que aconte[G]ceu
+Há minutos a[C]trás
+```

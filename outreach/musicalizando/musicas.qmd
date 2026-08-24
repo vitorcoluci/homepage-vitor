@@ -33,6 +33,8 @@ format:
 
 ## [Pense em mim](./musicas/Pense-em-mim.qmd)
 
+## [Poema](./musicas/Poema.qmd)
+
 ## [Sangue latino](./musicas/Sangue-latino.qmd)
 
 ## [Seu amor ainda é tudo](./musicas/Seu-amor-ainda-eh-tudo.qmd)
