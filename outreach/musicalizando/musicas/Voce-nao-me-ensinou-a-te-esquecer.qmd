@@ -12,7 +12,6 @@ format:
     toc: false
 ---
 
-
 [Voltar para **Músicas**](../musicas.qmd)
 
 
@@ -31,7 +30,7 @@ Por você
 [Am] Só pra ver se te encontro  [A7]  
 ```
 
-# Pré-Refrão
+## Pré-Refrão
 ```{.chordpro}
 Vo[Dm]cê bem que podia perdo[G]ar                   
 E [E7]só mais uma vez me acei[Am]tar                   
@@ -39,7 +38,7 @@ Pro[Dm]meto agora vou fazer por [E7]onde
 Nunca mais per[Am]dê-la  [A7]   
 ```
 
-# Refrão
+## Refrão
 ```{.chordpro}                
 A[F]gora, que [G]faço eu da vida sem vo[E7]cê                          
 Voc[Am]ê não me ensinou a te esque[Dm]cer                    
@@ -60,7 +59,7 @@ E te querendo
 Eu vou ten[A7]tando te encontrar
 ```
 
-# Segunda parte
+## Segunda parte
 ```{.chordpro}
 [Am] E nesse desespero em que me vejo
 [B7] Já cheguei a tal ponto
@@ -70,11 +69,36 @@ Por você
 Só pra [Am]ver se te encontro   [E7]  
 ```
 
-# Solo
+## Solo
 ```{.chordpro}
 [Am]............[B7]..........[Dm].........[E7].........[Am]    
 ```
 
-# Pré-Refrão
+## Pré-Refrão
+```{.chordpro}
+Vo[Dm]cê bem que podia perdo[G]ar                   
+E [E7]só mais uma vez me acei[Am]tar                   
+Pro[Dm]meto agora vou fazer por [E7]onde
+Nunca mais per[Am]dê-la  [A7]   
+```
 
-# Refrão
+## Refrão
+```{.chordpro}                
+A[F]gora, que [G]faço eu da vida sem vo[E7]cê                          
+Voc[Am]ê não me ensinou a te esque[Dm]cer                    
+Voc[E7]ê só me ensinou a te que[Am]rer
+E te querendo
+Eu vou ten[A7]tando te encontrar
+
+Vou me per[F]dendo                           
+Bus[G]cando em outros braços seus a[E7]braços                    
+Per[Am]dido no vazio de outros [Dm]passos                      
+Do a[E7]bismo em que você se reti[Am]rou               
+E me atirou e me dei[A7]xou aqui sozinho
+
+A[F]gora, que [G]faço eu da vida sem vo[E7]cê                          
+Voc[Am]ê não me ensinou a te esque[Dm]cer                    
+Voc[E7]ê só me ensinou a te que[Am]rer
+E te querendo
+Eu vou ten[A7]tando te encontrar
+```

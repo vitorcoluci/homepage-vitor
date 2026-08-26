@@ -19,10 +19,8 @@ format:
 [A]     [E]    [A]    [E] 
 ```
 
-
 ## Primeira Parte
 ```{.chordpro}
-
 Um [A]dia a areia branca
 Seus [D]pés irão tocar
 E [E7]vai molhar seus cabelos
@@ -49,7 +47,6 @@ De ficar mais um inst[A]ante
 
 ## Segunda Parte
 ```{.chordpro}
-
 As [A]luzes e o colorido 
 Que [D]você vê agora
 Nas [E7]ruas por onde anda
@@ -62,6 +59,16 @@ Vol[A]tar pra [D]sua g[A]ente   [E7]
 ```
 
 ## Refrão
+```{.chordpro}
+De[A]baixo dos caracóis
+Dos seus ca[Bm]belos
+Uma história pra con[E7]tar
+De um mundo tão dis[A]tante   [E7]
+De[A]baixo dos caracóis
+Dos seus ca[Bm]belos
+Um soluço e a von[E7]tade
+De ficar mais um inst[A]ante
+```
 
 ## Introdução
 
@@ -78,5 +85,15 @@ Que [A]é o [D]seu par[A]aíso  [E7]
 ```
 
 ## Refrão
+```{.chordpro}
+De[A]baixo dos caracóis
+Dos seus ca[Bm]belos
+Uma história pra con[E7]tar
+De um mundo tão dis[A]tante   [E7]
+De[A]baixo dos caracóis
+Dos seus ca[Bm]belos
+Um soluço e a von[E7]tade
+De ficar mais um inst[A]ante
+```
 
 ## Introdução

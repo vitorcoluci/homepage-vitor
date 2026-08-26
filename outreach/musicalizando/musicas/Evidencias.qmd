@@ -16,7 +16,6 @@ format:
 
 
 ## Primeira parte
-
 ```{.chordpro}                
 Quando eu d[C]igo que deixei de t[G/B]e amar   
 É porque [Am]eu te a[C7(9)]mo.     [C6].    [C7]      
@@ -81,8 +80,52 @@ Que a[Dm]inda você qu[G7]er viver
 Pra m[C]im
 ```
 
-## Segunda parte
+## Segunda Parte
+```{.chordpro}
+Eu me af[C]asto e me defendo
+De v[G/B]ocê         
+Mas dep[Am]ois me entr[C7(9)]ego.     [C6].    [C7]
+Faço t[F]ipo, falo coisas   
+Que eu n[A7]ão sou
+Mas dep[Dm]ois eu nego  
+Mas a verd[G7]ade é que eu sou   
+Louco p[G#o]or você  
+E tenho m[Am]edo de pensar   
+Em te perd[Fm]er                 
+Eu prec[C]iso aceitar que não dá m[F/G]ais
+Pra separar as n[C4]ossas v[C]idas.   [C4].    [C].    [F/G]
+```
 
 ## Refrão
+```{.chordpro}
+[C]E nessa loucura de dizer
+Que não te quero
+Vou neg[E]ando as aparências
+Disfarçando as evidências
+Mas pra qu[F]e viver fingindo  
+Se eu não p[Dm]osso enganar     
+Meu coraç[G7]ão   
+Eu s[Dm]ei que te amo
+
+Ch[C]ega de mentiras
+De negar o meu desejo       
+Eu te qu[E]ero mais que tudo
+Eu preciso do teu beijo
+Eu entr[F]ego a minha vida
+Pra voc[Dm]ê fazer o que quiser
+De m[G7]im
+       
+Só qu[Dm]ero ouvir voc[G7]ê dizer  
+Que s[C]im              
+Diz que é verd[C5+]ade que tem 
+Saud[F]ade. [C/E].          
+Que a[Dm]inda você p[G7]ensa muito
+Em m[C]im
+
+Diz que é verd[C5+]ade que tem 
+Saud[F]ade. [C/E].          
+Que a[Dm]inda você qu[G7]er viver
+Pra m[C]im
+```
 
 

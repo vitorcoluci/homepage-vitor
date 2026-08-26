@@ -13,7 +13,6 @@ format:
 
 [Voltar para **Músicas**](../musicas.qmd)
 
-
 ## Introdução
 ```{.chordpro}
 [D]..      [G/D]..    
@@ -45,6 +44,12 @@ format:
 [G]É não estar ven[D]cido
 ```
 ## Refrão
+```{.chordpro}
+[D]Minha vida, meus mortos
+[G/D]Meus caminhos tortos
+[D]Meu sangue lati[G/D]no
+[D]Minha alma cati[G/D]va
+```
 
 ## Final
 ```{.chordpro}

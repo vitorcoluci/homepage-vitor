@@ -30,7 +30,6 @@ Na bruma leve das paixões que vêm de [Am]dentro
 Tu vens chegando pra brin[C]car no meu quin[G]tal
 No teu cavalo, peito nu, cabelo ao v[Am]ento
 E o Sol quarando nossas r[C]oupas no va[G]ral
-
 ```
 
 ## Refrão
@@ -39,7 +38,6 @@ Tu v[G]ens, tu v[Em]ens
 [F].  Eu já es[C]cuto os teus sin[G]ais
 Tu v[G]ens, tu v[Em]ens
 [F].  Eu já es[C]cuto os teus sin[G]ais
-
 ```
 
 ## Segunda parte
@@ -51,3 +49,9 @@ Eu te anuncio nos sin[C]os das catedr[G]ais
 ```
 
 ## Refrão
+```{.chordpro}
+Tu v[G]ens, tu v[Em]ens
+[F].  Eu já es[C]cuto os teus sin[G]ais
+Tu v[G]ens, tu v[Em]ens
+[F].  Eu já es[C]cuto os teus sin[G]ais
+```

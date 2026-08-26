@@ -20,7 +20,6 @@ format:
 [C].  [G].   [C].   [G].   
 ```
 
-
 ```{.chordpro}
 Ainda me lem[C]bro do seu caminh[Dm]ar
 Seu jeito de olh[G7]ar, eu me lembro bem [C]. 
@@ -44,7 +43,6 @@ Por isso eu vou na casa d[Dm]ela, ai, ai
 [G7].  Falar do meu amor pra [Em]ela, vai
 [Am].  Tá me esperando na jan[Dm]ela, ai, ai
 [G7].  Não sei se vou me se[C]gurar
-
 ```
 
 

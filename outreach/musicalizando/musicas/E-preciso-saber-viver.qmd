@@ -13,7 +13,6 @@ format:
 
 [Voltar para **Músicas**](../musicas.qmd)
 
-
 ```{.chordpro}
 Quem esp[E]era que a vida
 Seja f[E7M]eita de ilusão
@@ -30,11 +29,6 @@ Você p[A]ode se arranhar
 Se o b[Am6]em e o mal existem
 Você p[E]ode escolh[C#m]er
 [F#]É preciso sa[A]ber vive[B7]r
-
-É preciso saber viver
-É preciso saber viver
-É preciso saber viver
-Saber viver
 
 [A]É preciso [E]saber viv[C#m]er
 [A]É preciso [E]saber viv[C#m]er

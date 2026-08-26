@@ -13,7 +13,6 @@ format:
 
 [Voltar para **Músicas**](../musicas.qmd)
 
-
 ## Introdução 
 ```{.chordpro}
 [G]....    [Em]....   [C]....  [D]....  
@@ -49,12 +48,46 @@ A felici[C]dade. [D].
 Pra mim é vo[G]cê.  [G7]. 
 ```
 
-## Refrão
+## Refrão 
+```{.chordpro}           
+Pensa em m[C]im, chore por m[D]im                
+Liga pra m[G]im, não,não liga pra [Em]ele
+Pensa em m[C]im, chore por m[D]im                 
+Liga pra m[G]im, não,não liga pra [Em]ele
+Liga pra m[G]im, não,não liga pra [Em]ele
+Pra [C]ele, n[D]ão chore por [G]ele. [D7].   
+```
 
 ## Introdução
 
-## Segunda Parte
+## Segunda Parte 
+```{.chordpro} 
+[G]Se lembre que eu
+Há muito tempo te [Em]amo
+Te amo,te amo,              
+Qu[G]ero fazer você fe[Em]liz              
+Vamos pe[G]gar o primeiro avi[D]ão          
+Com des[G]tino à felici[Em]dade
+A felici[C]dade. [D]. 
+Pra mim é vo[G]cê.  [G7]. 
+```
 
-## Refrão
+## Refrão 
+```{.chordpro}           
+Pensa em m[C]im, chore por m[D]im                
+Liga pra m[G]im, não,não liga pra [Em]ele
+Pensa em m[C]im, chore por m[D]im                 
+Liga pra m[G]im, não,não liga pra [Em]ele
+Liga pra m[G]im, não,não liga pra [Em]ele
+Pra [C]ele, n[D]ão chore por [G]ele. [D7].   
+```
 
-## Refrão
+## Refrão 
+```{.chordpro}           
+Pensa em m[C]im, chore por m[D]im                
+Liga pra m[G]im, não,não liga pra [Em]ele
+Pensa em m[C]im, chore por m[D]im                 
+Liga pra m[G]im, não,não liga pra [Em]ele
+Liga pra m[G]im, não,não liga pra [Em]ele
+Pra [C]ele, n[D]ão chore por [G]ele. [D7].   
+```

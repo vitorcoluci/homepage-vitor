@@ -13,7 +13,6 @@ format:
 
 [Voltar para **Músicas**](../musicas.qmd)
 
-
 ```{.chordpro}
 [Em]Ó, lua br[B7]anca
 De fulgores e de enc[Em]anto
@@ -38,5 +37,4 @@ Ai, vem ma[B7]tar essa paixão que anda co[Em]migo
 
 [Am]Ela partiu, me abandonou a[Em]ssim
 Ó, lua [Am]branca, por quem és, tem dó de [Em]mim
-
 ```

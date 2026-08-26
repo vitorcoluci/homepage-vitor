@@ -1,7 +1,7 @@
 ---
 title: " Poema"
 subtitle: "Cazuza e Frejat"
-tom-base: F
+tom-base: C
 filters:
   - ./chords-transpose.lua
 format:
@@ -34,8 +34,8 @@ Desculpa pra um a[F]braço ou conso[G]lo
 
 ## Solo
 ```{.chordpro}
-    [C].    [G]     [Dm7]     [F]     [F2].   
-    [C].    [G]     [Dm7]     [F]     [F2].   
+    [C].    [G]     [Dm7]             [F]           [F2]     .   
+    [C].    [G]     [Dm7]             [F]           [F2]     .   
 ```
 
 ## Segunda Parte
