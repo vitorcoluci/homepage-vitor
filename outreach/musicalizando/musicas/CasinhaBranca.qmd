@@ -1,0 +1,63 @@
+---
+title: "Casinha Branca"
+subtitle: "Antonio Augusto"
+tom-base: D
+tom-sonoro: D
+
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+    toc: false
+---
+
+[Voltar para **Apresentação**](../apresentacao-setembro-2026.qmd)
+
+## Primeira parte
+```{.chordpro}                                     
+Eu t[D]enho andado tão soz[G]inho ultimame[D]nte que nem ve[G]jo em minha
+Fre[D]nte na[Bm]da que me dê praze[A7]r
+Si[D]nto cada vez mais lo[G]nge a felicida[D]de vendo em mi[G]nha
+Mocida[D]de ta[Bm]nto sonho perec[A7]er
+```
+
+## Refrão
+```{.chordpro}                             
+[G]Eu queria ter na vi[A]da simplesme[F#m]nte um luga[Bm]r de mato ver[Em]de pra
+Pla[A7]ntar e pra colh[D]er     [D7]     t[G]er uma casinha br[A]anca de vara[F#m]nda um
+Quint[Bm]al e uma jan[A#]ela só para v[A7]er o sol nasc[D]er   [A7]     
+```
+
+## Solo
+```{.chordpro} 
+[D]        [G]        [D]        [G]             
+```
+
+## Segunda Parte
+```{.chordpro} 
+Às ve[D]zes saio a caminh[G]ar pela cid[D]ade à proc[G]ura de amiz[D]ades
+V[Bm]ou seguindo a multid[A7]ão  m[D]as eu me retraio olh[G]ando em cada r[D]osto
+Cada [G]um tem seu mist[D]ério  s[Bm]eu sofrer sua ilus[A7]ão
+```
+
+## Refrão
+```{.chordpro}                             
+[G]Eu queria ter na vi[A]da simplesme[F#m]nte um luga[Bm]r de mato ver[Em]de pra
+Pla[A7]ntar e pra colh[D]er     [D7]     t[G]er uma casinha br[A]anca de vara[F#m]nda um
+Quint[Bm]al e uma jan[A#]ela só para v[A7]er o sol nasc[D]er   [A7]     
+```
+
+## Refrão
+```{.chordpro}                             
+[G]Eu queria ter na vi[A]da simplesme[F#m]nte um luga[Bm]r de mato ver[Em]de pra
+Pla[A7]ntar e pra colh[D]er     [D7]     t[G]er uma casinha br[A]anca de vara[F#m]nda um
+Quint[Bm]al e uma jan[A#]ela só para v[A7]er o sol nasc[D]er   [A7]     
+```
+
+
+## Final
+```{.chordpro} 
+[D]        [G]        [D]        [G]                
+```

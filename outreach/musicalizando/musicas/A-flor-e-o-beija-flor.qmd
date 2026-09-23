@@ -1,0 +1,95 @@
+---
+title: "A flor e o bejia-flor"
+subtitle: "Henrique e Juliano"
+tom-base: C
+tom-sonoro: C
+
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+    toc: false
+---
+
+[Voltar para **Apresentação**](../apresentacao-setembro-2026.qmd)
+
+
+## Intro
+```{.chordpro}
+ [C]      [G]        [Dm]         [F]       
+```
+
+
+
+## Primeira Parte
+```{.chordpro}                   
+E[C]ssa é uma velha hist[G]ória                  
+De uma flor e um b[Am]eija-flor                 
+Que conheceram [G/B]o  am[C]or                    
+Numa n[G]oite fria de out[Am]ono
+```
+
+## Pré-refrão
+```{.chordpro}                         
+E as folhas caídas no ch[Dm]ão                       
+Da estação que não tem c[Am]or                           
+E a flor conhece o beija-fl[F]or                       
+E ele lhe apresenta o am[G]or
+                        
+E diz que o frio é uma f[Dm]ase ruim                               
+Que ela era a flor mais linda d[F]o jardim                    
+E a única que suport[Dm]ou                    
+Merece conhecer o am[G]or e todo seu calor
+```
+
+## Refrão
+```{.chordpro}                            
+A[C]i que saudade de um beija-fl[G]or                      
+Que me beijou depois vo[Dm]ou            
+Pra longe dem[F]ais             
+Pra longe de n[C]ós                      
+Saudade de um beija-fl[G]or                          
+Lembranças de um antigo am[Dm]or                    
+O dia amanheceu tão l[F]indo                          
+Eu durmo e acordo sorr[C]indo      [G]        [Dm]             [F]       
+```
+
+
+## Primeira Parte
+```{.chordpro}                   
+E[C]ssa é uma velha hist[G]ória                  
+De uma flor e um b[Am]eija-flor                 
+Que conheceram [G/B]o  am[C]or                    
+Numa n[G]oite fria de out[Am]ono
+```
+
+## Pré-refrão
+```{.chordpro}                         
+E as folhas caídas no ch[Dm]ão                       
+Da estação que não tem c[Am]or                           
+E a flor conhece o beija-fl[F]or                       
+E ele lhe apresenta o am[G]or
+                        
+E diz que o frio é uma f[Dm]ase ruim                               
+Que ela era a flor mais linda d[F]o jardim                    
+E a única que suport[Dm]ou                    
+Merece conhecer o am[G]or e todo seu calor
+```
+
+
+## Refrão
+```{.chordpro}                            
+A[C]i que saudade de um beija-fl[G]or                      
+Que me beijou depois vo[Dm]ou            
+Pra longe dem[F]ais             
+Pra longe de n[C]ós                      
+Saudade de um beija-fl[G]or                          
+Lembranças de um antigo am[Dm]or                    
+O dia amanheceu tão l[F]indo                          
+Eu durmo e acordo sorr[C]indo      [G]        [Dm]             [F]       
+
+O dia amanheceu tão l[F]indo                          
+Eu durmo e acordo sorr[C]indo  
+```

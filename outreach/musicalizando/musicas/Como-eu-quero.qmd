@@ -1,0 +1,91 @@
+---
+title: "Como eu quero"
+subtitle: "Kid Abelha"
+tom-base: C
+tom-sonoro: C
+
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+    toc: false
+---
+
+[Voltar para **Apresentação**](../apresentacao-setembro-2026.qmd)
+
+
+## Intro
+```{.chordpro}
+ [Dm]            [F7M]             [C]        [G]    
+ [Dm]            [F7M]        
+```
+## Primeira Parte
+```{.chordpro}
+D[C]iz pra eu ficar muda    
+Faz c[G]ara de mistério
+T[Am]ira essa bermuda        
+Que eu qu[F7M]ero você sério
+ 
+Tr[C]amas do sucesso       
+Mundo p[G]articular
+S[Am]olos de guitarra     
+Não v[F7M]ão me conquistar
+```
+
+## Refrão
+```{.chordpro}       
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+```
+
+## Segunda Parte
+```{.chordpro}     
+O qu[C]e você precisa           
+É de um ret[G]oque total      
+Vou tra[Am]nsformar o seu rascunho  
+Em a[F7M]rte final 
+Ag[C]ora não tem jeito
+[G] Cê tá numa cilada
+Ca[Am]da um por si         
+Você por m[F7M]im e mais nada
+```
+
+## Refrão
+```{.chordpro}       
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+```
+
+## Terceira Parte
+```{.chordpro}            
+ [Dm]   Longe do m[F7M]eu domínio                   
+  [C]   Cê vai de mal a pi[G]or                  
+ [Dm]  Vem que eu te ens[F7M]ino
+Como ser bem melhor
+ [Dm]   Longe do m[F7M]eu domínio                   
+  [C]   Cê vai de mal a pi[G]or                  
+ [Dm]  Vem que eu te ens[F7M]ino
+Como ser bem melhor
+```
+
+## Refrão
+```{.chordpro}       
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+```
+
+## Refrão
+```{.chordpro}       
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+[Am]Uh, eu qu[Em]ero você         
+Como eu qu[F7M]ero
+```

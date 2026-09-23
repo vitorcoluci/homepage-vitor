@@ -1,4 +1,4 @@
--- chords-transpose-v6.lua — CAMPO HARMÔNICO + 2 SHAPES
+-- chords-transpose-v7.lua — DEFAULTS VIA YAML (tom-sonoro/capo)
 -- Cifras ChordPro + tonalidade sonora + capotraste + modo cantor.
 --
 -- No YAML da música, defina:
@@ -515,6 +515,13 @@ local TRANSPOSE_JS = [=[
     const baseRaw = panel.dataset.baseKey || "";
     const parsed = parseKey(baseRaw);
 
+    const defaultSoundRaw = panel.dataset.defaultSoundKey || baseRaw;
+    const defaultSoundParsed = parseKey(defaultSoundRaw);
+
+    let defaultCapo = Number(panel.dataset.defaultCapo || "0");
+    if (!Number.isFinite(defaultCapo)) defaultCapo = 0;
+    defaultCapo = Math.max(0, Math.min(12, Math.round(defaultCapo)));
+
     if (!parsed) {
       panel.classList.add("transpose-panel-error");
       panel.innerHTML =
@@ -552,8 +559,14 @@ local TRANSPOSE_JS = [=[
     }
 
     baseLabel.textContent = keyName(parsed.pc, parsed.minor);
-    soundSelect.value = String(parsed.pc);
-    capoSelect.value = "0";
+
+    const initialSound =
+      defaultSoundParsed && defaultSoundParsed.minor === parsed.minor
+        ? defaultSoundParsed.pc
+        : parsed.pc;
+
+    soundSelect.value = String(initialSound);
+    capoSelect.value = String(defaultCapo);
 
     const chordEls = Array.from(
       document.querySelectorAll(".chordpro-chord[data-original-chord]")
@@ -945,11 +958,16 @@ local TRANSPOSE_JS = [=[
 </script>
 ]=]
 
-local function transpose_panel(base_key)
+local function transpose_panel(base_key, default_sound_key, default_capo)
   local key = html_escape(base_key)
+  local sound_key = html_escape(default_sound_key or base_key)
+  local capo = tostring(default_capo or "0")
 
   return pandoc.RawBlock("html", [=[
-<div class="transpose-panel" data-base-key="]=] .. key .. [=[">
+<div class="transpose-panel"
+     data-base-key="]=] .. key .. [=["
+     data-default-sound-key="]=] .. sound_key .. [=["
+     data-default-capo="]=] .. capo .. [=[">
   <div class="transpose-field transpose-original">
     <span class="transpose-label">Tom base</span>
     <strong class="transpose-base-key">]=] .. key .. [=[</strong>
@@ -1046,10 +1064,24 @@ function Pandoc(doc)
 
   local new_blocks = {}
   local base_meta = doc.meta["tom-base"]
+  local sound_meta = doc.meta["tom-sonoro"]
+  local capo_meta = doc.meta["capo"]
 
   if base_meta ~= nil then
     local base_key = pandoc.utils.stringify(base_meta)
-    new_blocks[#new_blocks + 1] = transpose_panel(base_key)
+
+    local default_sound_key = base_key
+    if sound_meta ~= nil then
+      default_sound_key = pandoc.utils.stringify(sound_meta)
+    end
+
+    local default_capo = "0"
+    if capo_meta ~= nil then
+      default_capo = pandoc.utils.stringify(capo_meta)
+    end
+
+    new_blocks[#new_blocks + 1] =
+      transpose_panel(base_key, default_sound_key, default_capo)
   else
     new_blocks[#new_blocks + 1] = pandoc.RawBlock("html", [=[
 <div class="transpose-panel transpose-panel-error">

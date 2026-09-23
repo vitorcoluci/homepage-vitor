@@ -1,0 +1,85 @@
+---
+title: "Fico assim sem você"
+subtitle: "Adriana Calcanhotto"
+tom-base: A
+tom-sonoro: A
+
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+    toc: false
+---
+
+[Voltar para **Apresentação**](../apresentacao-setembro-2026.qmd)
+
+
+## Primera Parte
+```{.chordpro}            
+[A]Avião sem asa, fo[C#m7]gueira sem brasa                 
+Sou e[D]u assim sem voc[E7]ê                 
+F[A]utebol sem bola, p[C#m7]iu-Piu sem frajola                  
+Sou e[D]u assim sem voc[E7]ê
+```
+
+## Segunda Parte
+```{.chordpro}                            
+Por que [D]é que tem que ser ass[E7]im?                       
+Se o m[Fº]eu desejo não tem f[F#m7]im       
+Eu te qu[B7]ero a todo instante
+Nem mil alto-falantes
+V[E7]ão poder falar por mim
+```
+
+## Terceira Parte
+```{.chordpro}  
+Am[A]or sem beijinho    
+Buch[C#m7]echa sem Claudinho                 
+Sou [D]eu assim sem voc[E7]ê                    
+C[A]irco sem palhaço, nam[C#m7]oro sem amasso                  
+Sou [D]eu assim sem voc[E7]ê                      
+Tô l[D]ouca pra te ver cheg[E7]ar                     
+Tô l[Fº]ouca pra te ter nas m[F#m7]ãos
+Deit[B7]ar no teu abraço, retomar o pedaço   
+Que f[E7]alta no meu coração
+```
+
+## Refrão
+```{.chordpro}                      
+Eu não ex[F#m7]isto longe de voc[C#m7]ê                                
+E a solid[D]ão é o meu pior castig[A]o   [C#7]                 
+Eu conto as h[F#m7]oras pra poder te v[C#m7]er                          
+Mas o rel[D]ógio tá de mal com[E7]igo
+Por que? Por que?
+```
+
+## Quarta Parte
+```{.chordpro}                   
+N[A]eném sem chupeta, Rom[C#m7]eu sem Julieta                   
+Sou [D]eu assim sem voc[E7]ê                      
+C[A]arro sem estrada, queij[C#m7]o sem goiabada                  
+Sou [D]eu assim sem voc[E7]ê                            
+Por que [D]é que tem que ser ass[E7]im?                      
+Se o m[Fº]eu desejo não tem f[F#m7]im     
+Eu te qu[B7]ero a todo instante
+Nem mil alto-falantes 
+V[E7]ão poder falar por mim
+```
+
+## Refrão
+```{.chordpro}                      
+Eu não ex[F#m7]isto longe de voc[C#m7]ê                                
+E a solid[D]ão é o meu pior castig[A]o   [C#7]                 
+Eu conto as h[F#m7]oras pra poder te v[C#m7]er                          
+Mas o rel[D]ógio tá de mal com[E7]igo
+```
+
+## Refrão
+```{.chordpro}                      
+Eu não ex[F#m7]isto longe de voc[C#m7]ê                                
+E a solid[D]ão é o meu pior castig[A]o   [C#7]                 
+Eu conto as h[F#m7]oras pra poder te v[C#m7]er                          
+Mas o rel[D]ógio tá de mal com[E7]igo
+```

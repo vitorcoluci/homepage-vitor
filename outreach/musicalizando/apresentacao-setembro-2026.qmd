@@ -1,0 +1,20 @@
+---
+title: "Apresentação Setembro 2026"
+format:
+  html:
+    toc: false
+---
+
+## [Leva](./musicas/Leva.qmd)
+
+## [Fico assim sem você](./musicas/Fico-Assim-Sem-Voce.qmd)
+
+## [Sangue Latino](./musicas/Sangue-latino.qmd)
+
+## [A flor e o beija-flor](./musicas/A-flor-e-o-beija-flor.qmd)
+
+## [Casinha Branca](./musicas/CasinhaBranca.qmd)
+
+## [Essa tal liberdade](./musicas/Essa-tal-liberdade.qmd)
+
+## [Como eu quero](./musicas/Como-eu-quero.qmd)

@@ -1,0 +1,54 @@
+---
+title: "Leva"
+subtitle: "Tim Maia"
+tom-base: G
+tom-sonoro: G
+
+filters:
+  - ./chords-transpose.lua
+format:
+  html:
+    css:
+      - ./cifras-transpose.css
+    toc: false
+---
+
+[Voltar para **Apresentação**](../apresentacao-setembro-2026.qmd)
+
+
+## Intro
+```{.chordpro}
+ [C/D]          [Am7]           [G7M/D]                     [C/D]          [Am7]           [D7(9)]              
+```
+
+```{.chordpro}                                                                                     
+  Foi b[G7M]om eu ficar com você o ano in[C/D]teiro                                   
+  Pode cr[Am7]er foi legal te encontr[D7(9)]ar foi amor verdadeir[G7M]o        [C/D]                                                
+  É b[G7M]om acordar com você quando amanhece o d[C/D]ia 
+
+  Dá vont[Am7]ade de te agrad[D7(9)]ar te trazer alegri[G7M]a               [Dm7]             [G7]                                              
+  Tão b[C7M]om encontrar com voc[C#°]ê sem ter ho[F#7]ra marcad[Bm7]a          [E7(4)]               [E7/G#]                                           
+  Pra fal[Am7]ar de amor baixi[D7(9)]nho quando é madrugad[Dm7]a 
+            [G7]                                  
+  Tão b[C7M]om é poder despert[C#°]ar em voc[F#7]ê fan[Bm7]tasias          [E7(4)]               [E7/G#]                                           
+  Te env[Am7]olver, te acender, te lig[D7(9)]ar, te fazer companh[G7M]ia            [C/D]     
+```
+
+## Refrão
+```{.chordpro}  
+  L[G7M]eva                
+  O meu s[Am7]om contigo, l[Bm7]eva         
+  E me fa[C7M]z a      tu[Bm7]a      f[Am7]esta  
+  Quero v[C/D]er você fel[G7M]iz             [C/D]              
+```
+
+```{.chordpro}                                     
+  É bo[G7M]m quando estou com você numa turma de a[C/D]migos                                      
+  E depo[Am7]is da canção você fi[D7(9)] ca escutando o que eu di[G7M]go         [C/D]                                         
+  No ca[G7M]rro, na rua, no bar estou sempre conti[C/D]go                               
+  Toda ve[Am7]z que você precisa[D7(9)]r você tem um ami[G7M]go    [Dm7]    [G7]                                         
+  Esto[C7M]u pro que der e vie[C#°]r conte se[F#7]mpre comi[Bm7]go          [E7(4)]               [E7/G#]                                           
+  Pela estra[Am7]da buscando emoçõ[D7(9)]es despertando os senti[Dm7]dos      [G7]                                        
+  Com voc[C7M]ê, primavera, verã[C#°]o, no outo[F#7]no ou no inve[Bm7]rno          [E7(4)]               [E7/G#]                                           
+  Nosso ca[Am7]so de amor tem sabo[D7(9)]r de um sonho et[G7M]erno     [C/D]           
+```

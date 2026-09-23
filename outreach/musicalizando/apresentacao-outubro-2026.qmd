@@ -1,0 +1,22 @@
+---
+title: "Músicas"
+format:
+  html:
+    toc: false
+---
+
+## [Anna Julia](./musicas/Anna-Julia.qmd)
+
+## [Asa Branca](./musicas/Asa-Branca.qmd)
+
+## [É o amor](./musicas/E-o-amor.qmd)
+
+## [Esperando na Janela](./musicas/Esperando-na-Janela.qmd)
+
+## [Evidências](./musicas/Evidencias.qmd)
+
+## [Não deixe o samba morrer](./musicas/Nao-deixe-o-samba-morrer.qmd)
+
+## [Poema](./musicas/Poema.qmd)
+
+## [Tristeza](./musicas/Tristeza.qmd)

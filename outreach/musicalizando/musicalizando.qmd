@@ -18,6 +18,11 @@ Projeto voltado para alunos com 50+ dentro do [Programa UniversIDADE](https://ww
 
 [Músicas](./musicas.qmd)
 
+[Apresentação 30/setembro](./apresentacao-setembro-2026.qmd)
+
+[Apresentação 14/outubro](./apresentacao-outubro-2026.qmd)
+
+
 
 # 2S/2024
 
