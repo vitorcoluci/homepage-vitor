@@ -349,7 +349,7 @@ window.Quarto = {
 </header>
 
 
-<div class="transpose-panel" data-base-key="Am">
+<div class="transpose-panel" data-base-key="Am" data-default-sound-key="Am" data-default-capo="0">
   <div class="transpose-field transpose-original">
     <span class="transpose-label">Tom base</span>
     <strong class="transpose-base-key">Am</strong>
@@ -909,6 +909,13 @@ window.Quarto = {
     const baseRaw = panel.dataset.baseKey || "";
     const parsed = parseKey(baseRaw);
 
+    const defaultSoundRaw = panel.dataset.defaultSoundKey || baseRaw;
+    const defaultSoundParsed = parseKey(defaultSoundRaw);
+
+    let defaultCapo = Number(panel.dataset.defaultCapo || "0");
+    if (!Number.isFinite(defaultCapo)) defaultCapo = 0;
+    defaultCapo = Math.max(0, Math.min(12, Math.round(defaultCapo)));
+
     if (!parsed) {
       panel.classList.add("transpose-panel-error");
       panel.innerHTML =
@@ -946,8 +953,14 @@ window.Quarto = {
     }
 
     baseLabel.textContent = keyName(parsed.pc, parsed.minor);
-    soundSelect.value = String(parsed.pc);
-    capoSelect.value = "0";
+
+    const initialSound =
+      defaultSoundParsed && defaultSoundParsed.minor === parsed.minor
+        ? defaultSoundParsed.pc
+        : parsed.pc;
+
+    soundSelect.value = String(initialSound);
+    capoSelect.value = String(defaultCapo);
 
     const chordEls = Array.from(
       document.querySelectorAll(".chordpro-chord[data-original-chord]")
