@@ -2,6 +2,8 @@
 title: "Asa Branca"
 subtitle: "Luiz Gonzaga"
 tom-base: G
+tom-sonoro: G
+
 filters:
   - ./chords-transpose.lua
 format:

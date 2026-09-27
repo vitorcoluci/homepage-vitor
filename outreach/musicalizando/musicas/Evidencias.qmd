@@ -18,7 +18,7 @@ format:
 ## Primeira parte
 ```{.chordpro}                
 Quando eu d[C]igo que deixei de t[G/B]e amar   
-É porque [Am]eu te a[C7(9)]mo.     [C6].    [C7]      
+É porque [Am]eu te a[C7(9)]mo          [C6]          [C7]      
 Quando eu d[F]igo que não quero
 Mais vo[A7]cê
 É [Dm]porque eu te quero        
@@ -29,14 +29,14 @@ Em tuas m[Am7/G]ãos
          
 Mas não [D]posso imagi[C/E]nar
 O que vai se[D/F#]r de mim
-Se eu te perd[G]er um d[F/A]ia. [G/B]
+Se eu te perd[G]er um d[F/A]ia     [G/B]        
 ```
 
 ## Segunda Parte
 ```{.chordpro}
 Eu me af[C]asto e me defendo
 De v[G/B]ocê         
-Mas dep[Am]ois me entr[C7(9)]ego.     [C6].    [C7]
+Mas dep[Am]ois me entr[C7(9)]ego     [C6]          [C7]      
 Faço t[F]ipo, falo coisas   
 Que eu n[A7]ão sou
 Mas dep[Dm]ois eu nego  
@@ -45,7 +45,7 @@ Louco p[G#o]or você
 E tenho m[Am]edo de pensar   
 Em te perd[Fm]er                 
 Eu prec[C]iso aceitar que não dá m[F/G]ais
-Pra separar as n[C4]ossas v[C]idas.   [C4].    [C].    [F/G]
+Pra separar as n[C4]ossas v[C]idas   [C4]        [C]        [F/G]      
 ```
 
 ## Refrão
@@ -84,7 +84,7 @@ Pra m[C]im
 ```{.chordpro}
 Eu me af[C]asto e me defendo
 De v[G/B]ocê         
-Mas dep[Am]ois me entr[C7(9)]ego.     [C6].    [C7]
+Mas dep[Am]ois me entr[C7(9)]ego     [C6]          [C7]      
 Faço t[F]ipo, falo coisas   
 Que eu n[A7]ão sou
 Mas dep[Dm]ois eu nego  
@@ -93,7 +93,7 @@ Louco p[G#o]or você
 E tenho m[Am]edo de pensar   
 Em te perd[Fm]er                 
 Eu prec[C]iso aceitar que não dá m[F/G]ais
-Pra separar as n[C4]ossas v[C]idas.   [C4].    [C].    [F/G]
+Pra separar as n[C4]ossas v[C]idas   [C4]       [C]       [F/G]        
 ```
 
 ## Refrão
@@ -118,7 +118,7 @@ De m[G7]im
 Só qu[Dm]ero ouvir voc[G7]ê dizer  
 Que s[C]im              
 Diz que é verd[C5+]ade que tem 
-Saud[F]ade. [C/E].          
+Saud[F]ade [C/E]                 
 Que a[Dm]inda você p[G7]ensa muito
 Em m[C]im
 

@@ -2,6 +2,7 @@
 title: "Esperando na Janela"
 subtitle: "Gilberto Gil"
 tom-base: C 
+tom-sonoro: F
 filters:
   - ./chords-transpose.lua
 format:
@@ -17,7 +18,7 @@ format:
 
 ## Solo
 ```{.chordpro}
-[C].  [G].   [C].   [G].   
+[C]       [G]        [C]       [G]       
 ```
 
 ```{.chordpro}
@@ -32,7 +33,7 @@ E esse aperto no fundo do p[Dm]eito
 Desses que o suj[G7]eito não pode aguent[C]ar, ah
 
 E esse aperto aumenta meu de[Dm]sejo
-Eu não vejo a h[G7]ora de poder lhe fal[C]ar  [F#].  [C].  
+Eu não vejo a h[G7]ora de poder lhe fal[C]ar  [F#]        [C]       
 
 Por isso eu vou na casa d[Dm]ela, ai, ai
 [G7].  Falar do meu amor pra [Em]ela, vai
