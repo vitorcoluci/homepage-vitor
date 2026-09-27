@@ -2,6 +2,8 @@
 title: "Sangue Latino"
 subtitle: "Ney Matogrosso"
 tom-base: D
+tom-sonoro: D
+
 filters:
   - ./chords-transpose.lua
 format:
@@ -19,36 +21,36 @@ format:
 ```
 ## Primeira Parte
 ```{.chordpro}
-[D]Jurei mentiras e sigo sozinho
-[D]Assumo os peca[G/D]dos
-[A]Os ventos do norte
-[G]Não movem moi[D]nhos
-[D]E o que me resta é só um gemido
+[D]Jurei men[G/D]tiras e sigo soz[D]inho    [G/D]      
+[D]Assumo os peca[G/D]____d[D]os    [G/D]      
+[A]Os ventos do n[G]orte
+[G]Não movem mo[D]inhos    [G/D]      
+[D]E o que me r[G/D]esta é só um gem[D]ido    [G/D]      
 ```
 
 ## Refrão
 ```{.chordpro}
-[D]Minha vida, meus mortos
-[G/D]Meus caminhos tortos
-[D]Meu sangue lati[G/D]no
-[D]Minha alma cati[G/D]va
+[D]Minha vida, meus m[G/D]ortos
+Meus caminhos t[D]ortos    [G/D]      
+[D]Meu sangue lat[G/D]i____n[D]o    [G/D]      
+[D]Minha alma cat[G/D]i____v[D]a    [G/D]      
 ```
 
 ## Segunda Parte 
 ```{.chordpro}
-[A]Rompi tratados, traí os [G]ritos
-[D]Quebrei a lança
-[G/D]Lancei no espaço
-[D]Um grito, um de[G/D]sabafo
-[A]E o que me importa
-[G]É não estar ven[D]cido
+[A]Rompi tra[G]tados, traí os [D]rito[G/D]s
+[D]Quebrei a l[G/D]ança
+Lancei no esp[D]aço    [G/D]      
+[D]Um grito, um de[G/D]_sab[D]afo    [G/D]      
+[A]E o que me im[G]porta
+É não estar ven[D]cido    [G/D]      
 ```
 ## Refrão
 ```{.chordpro}
-[D]Minha vida, meus mortos
-[G/D]Meus caminhos tortos
-[D]Meu sangue lati[G/D]no
-[D]Minha alma cati[G/D]va
+[D]Minha vida, meus m[G/D]ortos
+Meus caminhos t[D]ortos    [G/D]      
+[D]Meu sangue lat[G/D]i____n[D]o    [G/D]      
+[D]Minha alma cat[G/D]i____v[D]a    [G/D]      
 ```
 
 ## Final
