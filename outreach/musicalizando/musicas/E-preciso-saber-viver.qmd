@@ -2,6 +2,7 @@
 title: "É preciso saber viver"
 subtitle: "Erasmo Carlos e Roberto Carlos"
 tom-base: E
+tom-sonoro: E
 filters:
   - ./chords-transpose.lua
 format:
@@ -11,7 +12,7 @@ format:
     toc: false
 ---
 
-[Voltar para **Músicas**](../musicas.qmd)
+[Voltar para **Apresentação**](../apresentacao-outubro-2026.qmd)
 
 ```{.chordpro}
 Quem esp[E]era que a vida
@@ -33,14 +34,12 @@ Você p[E]ode escolh[C#m]er
 [A]É preciso [E]saber viv[C#m]er
 [A]É preciso [E]saber viv[C#m]er
 [A]É preciso [E]saber viv[C#m]er
-S[F#]aber viver  [A].  [B7].  
+S[F#]aber viver  [A]       [B7]      
 
 [A]É preciso [E]saber viv[C#m]er
 [A]É preciso [E]saber viv[C#m]er
 [A]É preciso [E]saber viv[C#m]er
-S[F#]aber viver  [A].  [B7].  
-
-[E].   
+S[F#]aber viver  [A]       [B7]       [E]   
 ```
 
 

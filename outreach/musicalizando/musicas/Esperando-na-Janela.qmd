@@ -12,9 +12,7 @@ format:
     toc: false
 ---
 
-
-[Voltar para **Músicas**](../musicas.qmd)
-
+[Voltar para **Apresentação**](../apresentacao-outubro-2026.qmd)
 
 ## Solo
 ```{.chordpro}
@@ -45,6 +43,13 @@ Por isso eu vou na casa d[Dm]ela, ai, ai
 [Am].  Tá me esperando na jan[Dm]ela, ai, ai
 [G7].  Não sei se vou me se[C]gurar
 ```
+
+## Solo
+```{.chordpro}
+[C]       [G]        [C]       [G]       
+```
+
+
 
 
 

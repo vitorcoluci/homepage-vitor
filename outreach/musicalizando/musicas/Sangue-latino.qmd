@@ -13,7 +13,7 @@ format:
     toc: false
 ---
 
-[Voltar para **Músicas**](../musicas.qmd)
+[Voltar para **Apresentação**](../apresentacao-outubro-2026.qmd)
 
 ## Introdução
 ```{.chordpro}

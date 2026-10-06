@@ -13,10 +13,15 @@ format:
 
 ## [Esperando na Janela](./musicas/Esperando-na-Janela.qmd)
 
-## [Evidências](./musicas/Evidencias.qmd)
+## [A flor e o beija-flor](./musicas/A-flor-e-o-beija-flor.qmd)
 
-## [Não deixe o samba morrer](./musicas/Nao-deixe-o-samba-morrer.qmd)
+## [Essa tal liberdade](./musicas/Essa-tal-liberdade.qmd)
 
 ## [Poema](./musicas/Poema.qmd)
 
+## [Sangue Latino](./musicas/Sangue-latino.qmd)
+
 ## [Tristeza](./musicas/Tristeza.qmd)
+
+## [É preciso saber viver](./musicas/E-preciso-saber-viver.qmd)
+

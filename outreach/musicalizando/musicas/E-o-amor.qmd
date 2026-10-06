@@ -13,7 +13,9 @@ format:
     toc: false
 ---
 
-[Voltar para **Músicas**](../musicas.qmd)
+
+[Voltar para **Apresentação**](../apresentacao-outubro-2026.qmd)
+
 
 ## Introdução
 ```{.chordpro}
@@ -26,7 +28,7 @@ Eu [G]não vou negar que sou louco por você
 Tô maluco pra te ver, eu não vou ne[D7]gar
 Eu [Am]não vou negar, sem você tudo é sa[D7]udade                
 Você traz felici[Am]dade
-[D]   Eu não vou neg[G]ar   [Am]       [D]             
+[D]   Eu não vou neg[G]ar   [Am]             [D]                    
 Eu n[G]ão vou negar, você é meu doce mel                                  
 Meu pedacinho de céu, eu não vou [C]negar
 ```

@@ -13,15 +13,13 @@ format:
     toc: false
 ---
 
-[Voltar para **Apresentação**](../apresentacao-setembro-2026.qmd)
+[Voltar para **Apresentação**](../apresentacao-outubro-2026.qmd)
 
 
 ## Intro
 ```{.chordpro}
  [C]      [G]        [Dm]         [F]       
 ```
-
-
 
 ## Primeira Parte
 ```{.chordpro}                   

@@ -2,6 +2,7 @@
 title: "Tristeza"
 subtitle: "Haroldo Lobo e Niltinho"
 tom-base: F
+tom-sonoro: G
 filters:
   - ./chords-transpose.lua
 format:
@@ -11,15 +12,17 @@ format:
     toc: false
 ---
 
-[Voltar para **Músicas**](../musicas.qmd)
+[Voltar para **Apresentação**](../apresentacao-outubro-2026.qmd)
 
 ## Introdução
 ```{.chordpro}
-[C7]   La-lai-á  [Bb]   Lá 
+[F7]   La-lai-á  [Bb]   Lá 
 [Bbm6]La  - La - lai  - á     Lai- á [F]  Lá
 [D7]La - ia -Lai - á    Lai - á   [G7]    Lá
 Qu[C7]ero de novo can[F]tar  [C7]  
 ```
+
+##
 
 ```{.chordpro}
 Tris[F]teza
@@ -32,10 +35,24 @@ Está vendo o meu f[F]im
 [C7]Quero de novo can[F]tar
 ```
 
-## Introdução
+##
+
+```{.chordpro}
+Tris[F]teza
+[F6]  Por favor, vá emb[Gm]ora   [Gm6]       
+Minha alma que ch[C7]ora
+Está vendo o meu f[F]im
+[Cm]Fez do meu [F7]coração a s[Bb]ua moradia
+[Bbm6]Já é demais o meu pen[F]ar
+[D7]Quero voltar àquela [G7]vida de alegria
+[C7]Quero de novo can[F]tar
+```
+##
 ```{.chordpro}
 [C7]   La-lai-á  [Bb]   Lá 
 [Bbm6]La  - La - lai  - á     Lai- á [F]  Lá
 [D7]La - ia -Lai - á    Lai - á   [G7]    Lá
-Qu[C7]ero de novo can[F]tar    
+Qu[C7]ero de novo
+Qu[C7]ero de novo
+Qu[C7]ero de novo can______[F]taaaaarrrrr    
 ```

@@ -11,7 +11,7 @@ format:
     toc: false
 ---
 
-[Voltar para **Músicas**](../musicas.qmd)
+[Voltar para **Apresentação**](../apresentacao-outubro-2026.qmd)
 
 ## Primeira Parte
 ```{.chordpro}
@@ -27,7 +27,7 @@ E lembrei de um [F]tempo
 ```{.chordpro}
 [Am] Porque o passado
 Me traz uma lem[Am7/G]brança
-Do tempo que eu era [F]criança [F2]
+Do tempo que eu era [F]criança     [F2]        
 [Am] E o medo era motivo de [Am7/G]choro
 Desculpa pra um a[F]braço ou conso[G]lo
 ```
@@ -57,7 +57,7 @@ Que ficou em [F]mim
 ```{.chordpro}
 [Am] Porque o passado
 Me traz uma lem[Am7/G]brança
-Do tempo que eu era [F]criança [F2]
+Do tempo que eu era [F]criança     [F2]        
 [Am] E o medo era motivo de [Am7/G]choro
 Desculpa pra um a[F]braço ou conso[G]lo
 ```
@@ -66,7 +66,7 @@ Desculpa pra um a[F]braço ou conso[G]lo
 [F] De repente a gente vê que per[G]deu
 Ou está per[Am]dendo alguma [D7]coisa
 [F] Morna e ingê[G]nua
-Que vai ficando no ca[Am]minho [Am7]
+Que vai ficando no ca[Am]minho [Am7]        
 [F] Que é escuro e [G]frio
 
 Mas também bonito
