@@ -2,7 +2,7 @@
 title: "Tristeza"
 subtitle: "Haroldo Lobo e Niltinho"
 tom-base: F
-tom-sonoro: G
+tom-sonoro: A
 filters:
   - ./chords-transpose.lua
 format:
@@ -16,43 +16,42 @@ format:
 
 ## Introdução
 ```{.chordpro}
-[F7]   La-lai-á  [Bb]   Lá 
-[Bbm6]La  - La - lai  - á     Lai- á [F]  Lá
-[D7]La - ia -Lai - á    Lai - á   [G7]    Lá
-Qu[C7]ero de novo can[F]tar  [C7]  
+[F7]Lá, rá, [Bb]lá, rá  [D#7(9)]     
+ Lá, rá, lá, rá, lá, r[A7(13)]á, rá              [A7(13-)]                         [Am7]      
+Lá, rá, [D7]lá, rá[G7(13)],    lá,    rá, rá[G7(13-)]                   [Gm7]      
+Quero de [C7]novo cant[F]ar   [C7]        
 ```
 
 ##
-
 ```{.chordpro}
 Tris[F]teza
-[F6]  Por favor, vá emb[Gm]ora   [Gm6]       
+Por f[D7]avor, vá emb[Gm]ora         
 Minha alma que ch[C7]ora
-Está vendo o meu f[F]im
-[Cm]Fez do meu [F7]coração a s[Bb]ua moradia
-[Bbm6]Já é demais o meu pen[F]ar
-[D7]Quero voltar àquela [G7]vida de alegria
-[C7]Quero de novo can[F]tar
+Está vendo o meu f[F]im  
+[F7]Fez do meu coração a s[Bb]ua moradia [Bbm]       
+[D#7(9)]Já é demais o meu pen[A7(13)]ar               [A7(13-)]                        [Am]             
+Quero vol[D7]tar àquela [G7]vida de alegria
+Quero de n[C7]ovo cant[F]ar     [C7]     
 ```
 
 ##
-
 ```{.chordpro}
 Tris[F]teza
-[F6]  Por favor, vá emb[Gm]ora   [Gm6]       
+Por f[D7]avor, vá emb[Gm]ora         
 Minha alma que ch[C7]ora
-Está vendo o meu f[F]im
-[Cm]Fez do meu [F7]coração a s[Bb]ua moradia
-[Bbm6]Já é demais o meu pen[F]ar
-[D7]Quero voltar àquela [G7]vida de alegria
-[C7]Quero de novo can[F]tar
+Está vendo o meu f[F]im  
+[F7]Fez do meu coração a s[Bb]ua moradia [Bbm]       
+[D#7(9)]Já é demais o meu pen[A7(13)]ar               [A7(13-)]                        [Am]             
+Quero vol[D7]tar àquela [G7]vida de alegria
+Quero de n[C7]ovo cant[F]ar    [F7]          
 ```
 ##
 ```{.chordpro}
-[C7]   La-lai-á  [Bb]   Lá 
-[Bbm6]La  - La - lai  - á     Lai- á [F]  Lá
-[D7]La - ia -Lai - á    Lai - á   [G7]    Lá
-Qu[C7]ero de novo
-Qu[C7]ero de novo
+Lá, rá, [Bb]lá, rá  [D#7(9)]     
+ Lá, rá, lá, rá, lá, r[A7(13)]á, rá              [A7(13-)]                         [Am7]      
+Lá, rá, [D7]lá, rá[G7(13)],    lá,    rá, rá[G7(13-)]                   [Gm7]      
+Quero de [C7]novo cant[F]ar   [C7]        
+Quero de [C7]novo
+Quero de [C7]novo
 Qu[C7]ero de novo can______[F]taaaaarrrrr    
 ```

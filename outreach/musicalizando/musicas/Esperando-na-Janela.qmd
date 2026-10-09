@@ -2,7 +2,7 @@
 title: "Esperando na Janela"
 subtitle: "Gilberto Gil"
 tom-base: C 
-tom-sonoro: F
+tom-sonoro: E
 filters:
   - ./chords-transpose.lua
 format:
@@ -16,7 +16,8 @@ format:
 
 ## Solo
 ```{.chordpro}
-[C]       [G]        [C]       [G]       
+[C]       [G]        [C]       [G]    
+[C]       [G]        [C]       [G]        
 ```
 
 ```{.chordpro}

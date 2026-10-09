@@ -67,6 +67,9 @@ Dentro do meu [G]coração
 Ô Anna [C]Julia [F]a a a a [G]a
 ```
 
+## Solo Guitarra
+
+
 ## Terceira Parte
 ```{.chordpro}
 [Am]Sei que vo[Em]cê já não que[F]r o meu a[C]mor       
@@ -77,25 +80,10 @@ Mas [Am]vou reconquis[Em]tar
 O seu a[F]mor todo pra m[G]im
 ```
 
-## Refrão
-```{.chordpro}
-Ô Anna [C]Julia [F]a a a a [G]a
-Ô Anna [C]Julia [F]a a a a [G]a
-```
-
-## Refrão
-```{.chordpro}
-Ô Anna [C]Julia [F]a a a a [G]a
-Ô Anna [C]Julia [F]a a a a [G]a
-```
-
-## Refrão
-```{.chordpro}
-Ô Anna [C]Julia [F]a a a a [G]a
-Ô Anna [C]Julia [F]a a a a [G]a
-```
-
 ## Final
-```{.chordpro}           
+```{.chordpro}
+Ô Anna [C]Julia [F]a a a a [G]a
+Ô Anna [C]Julia [F]a a a a [G]a
+Ô Anna [C]Julia [F]a a a a [G]a
 Ô Anna [C]Julia, [F]Julia, [G]Julia... ou ou [C]ou
 ```
