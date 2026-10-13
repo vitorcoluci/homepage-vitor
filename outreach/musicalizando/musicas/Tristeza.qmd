@@ -16,10 +16,10 @@ format:
 
 ## Introdução
 ```{.chordpro}
-[F7]Lá, rá, [Bb]lá, rá  [D#7(9)]     
- Lá, rá, lá, rá, lá, r[A7(13)]á, rá              [A7(13-)]                         [Am7]      
-Lá, rá, [D7]lá, rá[G7(13)],    lá,    rá, rá[G7(13-)]                   [Gm7]      
-Quero de [C7]novo cant[F]ar   [C7]        
+[F7] Lá, rá, [Bb]lá, rá    [Bbm]             
+ Lá, rá, lá, rá, lá, [Am7]rá, rá         
+[D7]Lá, rá, lá, rá, lá, [G7]rá, rá                         
+[Gm7] Quero de [C7]novo cant[F]ar       
 ```
 
 ##
@@ -27,11 +27,11 @@ Quero de [C7]novo cant[F]ar   [C7]
 Tris[F]teza
 Por f[D7]avor, vá emb[Gm]ora         
 Minha alma que ch[C7]ora
-Está vendo o meu f[F]im  
-[F7]Fez do meu coração a s[Bb]ua moradia [Bbm]       
-[D#7(9)]Já é demais o meu pen[A7(13)]ar               [A7(13-)]                        [Am]             
-Quero vol[D7]tar àquela [G7]vida de alegria
-Quero de n[C7]ovo cant[F]ar     [C7]     
+Está vendo o meu f[F]im    [F7]       
+Fez do meu coração a s[Bb]ua moradia    [Bbm]       
+Já é demais o meu pen[Am]ar          
+[D7] Quero voltar àquela [G7]vida de alegria
+[Gm] Quero de n[C7]ovo cant[F]ar     [C7]     
 ```
 
 ##
@@ -39,19 +39,19 @@ Quero de n[C7]ovo cant[F]ar     [C7]
 Tris[F]teza
 Por f[D7]avor, vá emb[Gm]ora         
 Minha alma que ch[C7]ora
-Está vendo o meu f[F]im  
-[F7]Fez do meu coração a s[Bb]ua moradia [Bbm]       
-[D#7(9)]Já é demais o meu pen[A7(13)]ar               [A7(13-)]                        [Am]             
-Quero vol[D7]tar àquela [G7]vida de alegria
-Quero de n[C7]ovo cant[F]ar    [F7]          
+Está vendo o meu f[F]im    [F7]         
+Fez do meu coração a s[Bb]ua moradia    [Bbm]       
+Já é demais o meu pen[Am]ar          
+[D7]Quero voltar àquela [G7]vida de alegria
+[Gm] Quero de n[C7]ovo cant[F]ar     [F7]     
 ```
 ##
 ```{.chordpro}
-Lá, rá, [Bb]lá, rá  [D#7(9)]     
- Lá, rá, lá, rá, lá, r[A7(13)]á, rá              [A7(13-)]                         [Am7]      
-Lá, rá, [D7]lá, rá[G7(13)],    lá,    rá, rá[G7(13-)]                   [Gm7]      
-Quero de [C7]novo cant[F]ar   [C7]        
-Quero de [C7]novo
-Quero de [C7]novo
-Qu[C7]ero de novo can______[F]taaaaarrrrr    
+Lá, rá, [Bb]lá, rá    [Bbm]             
+ Lá, rá, lá, rá, lá, rá, rá.   [Am7]      
+[D7]Lá, rá, lá, rá, lá, [G7]rá, rá                         
+[Gm7] Quero de [C7]novo cant[F]ar       
+[Gm7] Quero de [C7]novo
+[Gm7] Quero de [C7]novo
+[Gm7] Quero de [C7]novo can______[F]taaaaarrrrr    
 ```
