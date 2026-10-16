@@ -1,7 +1,7 @@
 ---
 title: "Esperando na Janela"
 subtitle: "Gilberto Gil"
-tom-base: C 
+tom-base: E 
 tom-sonoro: E
 filters:
   - ./chords-transpose.lua
@@ -16,40 +16,36 @@ format:
 
 ## Solo
 ```{.chordpro}
-[C]       [G]        [C]       [G]    
-[C]       [G]        [C]       [G]        
+[B2]             [E]        [B2]            [E]    
+[B2]             [E]        [B2]            [E]            
 ```
 
 ```{.chordpro}
-Ainda me lem[C]bro do seu caminh[Dm]ar
-Seu jeito de olh[G7]ar, eu me lembro bem [C]. 
-Fico querendo sentir o seu ch[Dm]eiro
-É daquele j[G7]eito que ela tem [C]. 
+Ainda me lembro do seu caminh[B2]ar
+Seu jeito de olhar, eu me lembro [E]bem 
+Fico querendo sentir o seu ch[B2]eiro
+É daquele jeito que ela [E]tem 
 
-O tempo todo eu fico feito t[Dm]onto
-Sempre procur[G7]ando, mas ela não ve[C]m
-E esse aperto no fundo do p[Dm]eito
-Desses que o suj[G7]eito não pode aguent[C]ar, ah
+O tempo todo eu fico feito t[B2]onto
+Sempre procurando, mas ela não ve[E]m
+E esse aperto no fundo do p[B2]eito
+Desses que o sujeito não pode aguent[E]ar, ah
 
-E esse aperto aumenta meu de[Dm]sejo
-Eu não vejo a h[G7]ora de poder lhe fal[C]ar  [F#]        [C]       
+E esse aperto aumenta meu de[B2]sejo
+Eu não vejo a hora de poder lhe fal[E]ar  [A]        [E]       
 
-Por isso eu vou na casa d[Dm]ela, ai, ai
-[G7].  Falar do meu amor pra [Em]ela, vai
-[Am].  Tá me esperando na jan[Dm]ela, ai, ai
-[G7].  Não sei se vou me se[C]gurar
-
-Por isso eu vou na casa d[Dm]ela, ai, ai
-[G7].  Falar do meu amor pra [Em]ela, vai
-[Am].  Tá me esperando na jan[Dm]ela, ai, ai
-[G7].  Não sei se vou me se[C]gurar
+Por isso eu vou na c[Fo]asa d[F#m]ela, ai, ai    [B7]       
+Falar do meu amor pra [G#m]ela, vai       [C#m]        
+Tá me esperando na jan[F#m]ela, ai, ai    [B7]        
+Não sei se vou me se[E]gurar    [A]      [E]         
 ```
+
 
 ## Solo
 ```{.chordpro}
-[C]       [G]        [C]       [G]       
+[B2]             [E]        [B2]            [E]    
+[B2]             [E]        [B2]            [E]        
 ```
-
 
 
 
